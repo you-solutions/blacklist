@@ -7,7 +7,7 @@ local-zone: "fgmarkets.com" always_refuse
 local-zone: "glastrox.com" always_refuse
 local-zone: "zetatraders.com" always_refuse
 
-#LISTA ANATAL COM PIRATARIA
+#LISTA ANATAL CONTRA PIRATARIA
 
 local-zone:	"yt2mp3mp4.com"	always_refuse
 local-zone:	"peggo.fun"	always_refuse
