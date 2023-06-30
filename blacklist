@@ -12,7 +12,7 @@ local-zone: "allansantos.digital" always_refuse
 local-zone: "brazilwasstolen.com" always_refuse
 local-zone: "allansantos.locals.com" always_refuse
 local-zone: "dunapress.org" always_refuse
-local-zone: "patreon.com" always_refuse
+local-zone: "patreon.com/rodrigoconstantino" always_refuse
 local-zone: "anonfsa.org" always_refuse
 local-zone: "medvideos.com" always_refuse
 local-zone: "brnasruas.com.br" always_refuse
