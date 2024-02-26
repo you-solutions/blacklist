@@ -593,4 +593,7 @@ local-zone: "supertela.zip" always_refuse
 local-zone: "superflix.nz" always_refuse
 local-zone: "superflix.lat" always_refuse
 local-zone: "superflix4k.xyz" always_refuse
-
+local-zone: "brtorrents.org" always_refuse
+local-zone: "brtorrentshd.org" always_refuse
+local-zone: "seriesonlineid.pro" always_refuse
+local-zone: "xilften.love" always_refuse
