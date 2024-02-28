@@ -18,7 +18,6 @@ local-zone: "medvideos.com" always_refuse
 local-zone: "brnasruas.com.br" always_refuse
 local-zone: "realidadedopovo.com.br" always_refuse
 local-zone: "marcosdoval.com.br" always_refuse
-
 local-zone:	"yt2mp3mp4.com"	always_refuse
 local-zone:	"peggo.fun"	always_refuse
 local-zone:	"yt2mp3s.me"	always_refuse
@@ -507,8 +506,6 @@ local-zone: "blaze-3.com" always_refuse
 local-zone: "blaze-4.com" always_refuse
 local-zone: "blaze-5.com" always_refuse
 local-zone: "blaze-6.com" always_refuse
-
-
 local-zone: "assistirseries.xyz" always_refuse
 local-zone: "cinevision2.to" always_refuse
 local-zone: "visioncine-1.com.br" always_refuse
