@@ -623,3 +623,9 @@ local-zone: "superfilmes.us" always_refuse
 local-zone: "movietorrent.org" always_refuse
 local-zone: "oficialtyflex.online" always_refuse
 local-zone: "ultracine.in" always_refuse
+local-zone: "notube.fi" always_refuse
+local-zone: "savetube.li" always_refuse
+local-zone: "savetube.pro" always_refuse
+local-zone: "savetube.cc" always_refuse
+local-zone: "dbree.me" always_refuse
+local-zone: "www.getfvid.io" always_refuse
