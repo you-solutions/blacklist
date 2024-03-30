@@ -680,3 +680,20 @@ local-zone: "tyflex-filmes.site" always_refuse
 local-zone: "tyflextv.com.br" always_refuse
 local-zone: "appfliix.one" always_refuse
 local-zone: "vizerhd.in" always_refuse
+local-zone: "filmesviatorrent.la" always_refuse
+local-zone: "thepirattefilmestorrent25.tech" always_refuse
+local-zone: "wolverdontorrents.com" always_refuse
+local-zone: "filmestorrentpro.com" always_refuse
+local-zone: "megafilmesflix.com" always_refuse
+local-zone: "megaflix.best" always_refuse
+local-zone: "megaflix.is" always_refuse
+local-zone: "multicanais.nl" always_refuse
+local-zone: "embedflix.online" always_refuse
+local-zone: "embedflix.info" always_refuse
+local-zone: "esporteone.com" always_refuse
+local-zone: "netcine.bz" always_refuse
+local-zone: "seriesonline.in" always_refuse
+local-zone: "seriesonlineplay.live" always_refuse
+local-zone: "spaceflix.vip" always_refuse
+local-zone: "top-canais.blogspot.com" always_refuse
+
