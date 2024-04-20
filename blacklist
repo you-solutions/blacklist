@@ -740,3 +740,10 @@ local-zone: "futemax1.online" always_refuse
 local-zone: "multicanais.wf" always_refuse
 local-zone: "superflixcanais.net" always_refuse
 local-zone: "superflixplay.com" always_refuse
+local-zone: "torrentfilmes.pro" always_refuse
+local-zone: "baixefilmestorrent.net" always_refuse
+local-zone: "filmestorrentbr.com.br" always_refuse
+local-zone: "megaflix.rest" always_refuse
+local-zone: "megatorrenthd1.com" always_refuse
+local-zone: "netcine.vg" always_refuse
+local-zone: "superflix.watch" always_refuse
