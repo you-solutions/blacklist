@@ -730,4 +730,13 @@ local-zone: "superflix.mx" always_refuse
 local-zone: "superflix.sh" always_refuse
 local-zone: "multicanais.mx" always_refuse
 
-
+local-zone: "multicanais.uk" always_refuse
+local-zone: "multicanais.pw" always_refuse
+local-zone: "multicanais.lu" always_refuse
+local-zone: "multicanais.guru" always_refuse
+local-zone: "multicanaistv1.com" always_refuse
+local-zone: "multicanais.rs" always_refuse
+local-zone: "futemax1.online" always_refuse
+local-zone: "multicanais.wf" always_refuse
+local-zone: "superflixcanais.net" always_refuse
+local-zone: "superflixplay.com" always_refuse
