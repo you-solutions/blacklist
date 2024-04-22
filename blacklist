@@ -747,3 +747,22 @@ local-zone: "megaflix.rest" always_refuse
 local-zone: "megatorrenthd1.com" always_refuse
 local-zone: "netcine.vg" always_refuse
 local-zone: "superflix.watch" always_refuse
+
+local-zone: "3cuevana3.me" always_refuse
+local-zone: "cuevana3.mobi" always_refuse
+local-zone: "cuevana10.design" always_refuse
+local-zone: "cuevana-3.fm" always_refuse
+local-zone: "cuevana.org.pe" always_refuse
+local-zone: "lacuevana.org" always_refuse
+local-zone: "lacuevana.co" always_refuse
+local-zone: "vertvonline.tv" always_refuse
+local-zone: "overflix.cfd" always_refuse
+local-zone: "overflix.gift" always_refuse
+local-zone: "redplaycardpremium.com" always_refuse
+local-zone: "redplaybrasil.com" always_refuse
+local-zone: "tvexpressbrasil.pro" always_refuse
+local-zone: "compretyflex.online" always_refuse
+local-zone: "tyflexsite.online" always_refuse
+local-zone: "tyflex-filmeseseries.online" always_refuse
+local-zone: "tyflex-oficial.shop" always_refuse
+
