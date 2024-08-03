@@ -887,7 +887,6 @@ local-zone: "cinevision.online" always_refuse
 local-zone: "seriesflix2.com" always_refuse
 local-zone: "megaflix.online" always_refuse
 local-zone: "megatorrentshd.net" always_refuse
-
 local-zone:	"cinevision.one"	always_refuse
 local-zone:	"cinevisionv5.org"	always_refuse
 local-zone:	"filmestorrent.info"	always_refuse
@@ -902,3 +901,8 @@ local-zone:	"seriesflixbr.net"	always_refuse
 local-zone:	"seriesfx.me"	always_refuse
 local-zone:	"superflixplay.xyz"	always_refuse
 local-zone:	"superflixx.org"	always_refuse
+local-zone:	"baixatorrent.net"	always_refuse
+local-zone:	"futemax1.meme"	always_refuse
+local-zone:	"pobre2.tv"	always_refuse
+local-zone:	"pobreflix.bio"	always_refuse
+local-zone:	"topflixtv.info"	always_refuse
