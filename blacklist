@@ -273,7 +273,6 @@ local-zone:	"y2bs.com"	always_refuse
 local-zone:	"dirpy.com"	always_refuse
 local-zone:	"icq.im"	always_refuse
 local-zone:	"icq.com"	always_refuse
-local-zone:	"blaze.com"	always_refuse
 local-zone:	"blaze-1.com"	always_refuse
 local-zone:	"blaze-2.com"	always_refuse
 local-zone:	"blaze-3.com"	always_refuse
