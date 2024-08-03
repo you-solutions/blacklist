@@ -906,3 +906,10 @@ local-zone:	"futemax1.meme"	always_refuse
 local-zone:	"pobre2.tv"	always_refuse
 local-zone:	"pobreflix.bio"	always_refuse
 local-zone:	"topflixtv.info"	always_refuse
+
+local-zone:	"multicanais.click"	always_refuse
+local-zone:	"multicanais.gy"	always_refuse
+local-zone:	"multicanais.my"	always_refuse
+local-zone:	"multicanais.sh"	always_refuse
+local-zone:	"multicanais.fo"	always_refuse
+local-zone:	"multicanais.ink"	always_refuse
