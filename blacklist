@@ -1039,3 +1039,11 @@ local-zone:	"planosredplay.com.br"	always_refuse
 local-zone:	"futebolaovivo.one"	always_refuse
 local-zone:	"mundofut.in"	always_refuse
 local-zone:	"futebolaovivo.app"	always_refuse
+
+local-zone:	"assistirserieshd.online"	always_refuse
+local-zone:	"megaflix.vc"	always_refuse
+local-zone:	"superflix.fan"	always_refuse
+local-zone:	"oneflix.online"	always_refuse
+local-zone:	"oneflix.me"	always_refuse
+local-zone:	"oneflix.lol"	always_refuse
+local-zone:	"supertela.dev"	always_refuse
