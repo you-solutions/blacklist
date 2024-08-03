@@ -1081,3 +1081,12 @@ local-zone:	"topflix.lgbt"	always_refuse
 local-zone:	"unitvpro.pro"	always_refuse
 local-zone:	"unitvprovip.com.br"	always_refuse
 local-zone:	"unitvnet.com"	always_refuse
+
+local-zone:	"filmeviatorrents.info"	always_refuse
+local-zone:	"filmestorrents4k.com.br"	always_refuse
+local-zone:	"megafilmeshd1.live"	always_refuse
+local-zone:	"megafilmeshd5.site"	always_refuse
+local-zone:	"megafilmestorrentshd.site"	always_refuse
+local-zone:	"seriesflix.gold"	always_refuse
+local-zone:	"seriesflix.sh"	always_refuse
+local-zone:	"superflix.movie"	always_refuse
