@@ -1057,3 +1057,27 @@ local-zone:	"multicanais.gs"	always_refuse
 local-zone:	"meteflix.com.br"	always_refuse
 local-zone:	"serieson.life"	always_refuse
 local-zone:	"seriesonlineplay.net"	always_refuse
+
+local-zone:	"supertvaovivo.vip"	always_refuse
+local-zone:	"futebolaovivo.cc"	always_refuse
+local-zone:	"goldclubtv.com"	always_refuse
+local-zone:	"comandotorrentshd50.net"	always_refuse
+local-zone:	"futemax.fo"	always_refuse
+local-zone:	"futemax.meme"	always_refuse
+local-zone:	"futemax.ps"	always_refuse
+local-zone:	"futemax.mov"	always_refuse
+local-zone:	"futemax.tw"	always_refuse
+local-zone:	"futmaxtv.com.br"	always_refuse
+local-zone:	"futebolaovivo.fan"	always_refuse
+local-zone:	"futebolaovivo.link"	always_refuse
+local-zone:	"gofilmes.film"	always_refuse
+local-zone:	"pobreflix.dad"	always_refuse
+local-zone:	"pobreflix.vision"	always_refuse
+local-zone:	"pobretv.email"	always_refuse
+local-zone:	"pobretv.markets"	always_refuse
+local-zone:	"seriesgratis.ink"	always_refuse
+local-zone:	"topflix.center"	always_refuse
+local-zone:	"topflix.lgbt"	always_refuse
+local-zone:	"unitvpro.pro"	always_refuse
+local-zone:	"unitvprovip.com.br"	always_refuse
+local-zone:	"unitvnet.com"	always_refuse
