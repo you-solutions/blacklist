@@ -887,3 +887,18 @@ local-zone: "cinevision.online" always_refuse
 local-zone: "seriesflix2.com" always_refuse
 local-zone: "megaflix.online" always_refuse
 local-zone: "megatorrentshd.net" always_refuse
+
+local-zone:	"cinevision.one"	always_refuse
+local-zone:	"cinevisionv5.org"	always_refuse
+local-zone:	"filmestorrent.info"	always_refuse
+local-zone:	"filmestorrent1.com"	always_refuse
+local-zone:	"filmestorrent20.com"	always_refuse
+local-zone:	"megafilmeshd50.fo"	always_refuse
+local-zone:	"megafilmeshds.pro"	always_refuse
+local-zone:	"megaflixhd.vc"	always_refuse
+local-zone:	"seriesflix.food"	always_refuse
+local-zone:	"seriesflix.ws"	always_refuse
+local-zone:	"seriesflixbr.net"	always_refuse
+local-zone:	"seriesfx.me"	always_refuse
+local-zone:	"superflixplay.xyz"	always_refuse
+local-zone:	"superflixx.org"	always_refuse
