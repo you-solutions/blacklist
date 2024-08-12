@@ -1090,3 +1090,25 @@ local-zone:	"megafilmestorrentshd.site"	always_refuse
 local-zone:	"seriesflix.gold"	always_refuse
 local-zone:	"seriesflix.sh"	always_refuse
 local-zone:	"superflix.movie"	always_refuse
+
+local-zone: "xfogo.io" always_refuse
+local-zone: "asd13.cc" always_refuse
+local-zone: "skia.io" always_refuse
+local-zone: "skib.cc" always_refuse
+local-zone: "appdns.online" always_refuse
+local-zone: "hesrx.xyz" always_refuse
+local-zone: "mpplay.com.br" always_refuse
+local-zone: "comandofilmesplay.com" always_refuse
+local-zone: "comandotorrentsgratishd.org" always_refuse
+local-zone: "futemax.sbs" always_refuse
+local-zone: "futemax.vg" always_refuse
+local-zone: "mmfilmes.app" always_refuse
+local-zone: "pobreflixbr.net" always_refuse
+local-zone: "nitv.life" always_refuse
+local-zone: "supertvaovivo.pro" always_refuse
+local-zone: "futemax.wf" always_refuse
+local-zone: "futemax.diy" always_refuse
+local-zone: "canaisplay.co" always_refuse
+local-zone: "futemax1.run" always_refuse
+
+
