@@ -1110,5 +1110,27 @@ local-zone: "futemax.wf" always_refuse
 local-zone: "futemax.diy" always_refuse
 local-zone: "canaisplay.co" always_refuse
 local-zone: "futemax1.run" always_refuse
-
+local-zone: "cinevision-2.net" always_refuse
+local-zone: "filmestorrent2025.xyz" always_refuse
+local-zone: "torrentflix.com.br" always_refuse
+local-zone: "megafilmes.io" always_refuse
+local-zone: "megafilmes.movie" always_refuse
+local-zone: "megaflixtv.com.br" always_refuse
+local-zone: "multicanais.bio" always_refuse
+local-zone: "seriesflix.bar" always_refuse
+local-zone: "seriesflix.cx" always_refuse
+local-zone: "seriesflv1.online" always_refuse
+local-zone: "superflixbr.info" always_refuse
+local-zone: "cinevision-2.net" always_refuse
+local-zone: "filmestorrent2025.xyz" always_refuse
+local-zone: "torrentflix.com.br" always_refuse
+local-zone: "megafilmes.io" always_refuse
+local-zone: "megafilmes.movie" always_refuse
+local-zone: "megaflixtv.com.br" always_refuse
+local-zone: "multicanais.bio" always_refuse
+local-zone: "seriesflix.bar" always_refuse
+local-zone: "seriesflix.cx" always_refuse
+local-zone: "seriesflv1.online" always_refuse
+local-zone: "superflixbr.info" always_refuse
+local-zone: "ulticanais.shop" always_refuse
 
