@@ -277,6 +277,7 @@ local-zone:	"blaze-1.com"	always_refuse
 local-zone:	"blaze-2.com"	always_refuse
 local-zone:	"blaze-3.com"	always_refuse
 local-zone:	"blazemirror.com"	always_refuse
+local-zone:	"blaze.com"	always_refuse
 local-zone:	"visioncine.com.br"	always_refuse
 local-zone:	"visioncine.net"	always_refuse
 local-zone:	"visioncinehd.biz"	always_refuse
