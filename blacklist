@@ -1133,4 +1133,18 @@ local-zone: "seriesflix.cx" always_refuse
 local-zone: "seriesflv1.online" always_refuse
 local-zone: "superflixbr.info" always_refuse
 local-zone: "ulticanais.shop" always_refuse
+local-zone: "assistirfilmeshdgratis.si" always_refuse
+local-zone: "baixatorrent.pro" always_refuse
+local-zone: "maxseries.biz" always_refuse
+local-zone: "maxseries.lat" always_refuse
+local-zone: "megaserie.live" always_refuse
+local-zone: "pobreflix2.net" always_refuse
+local-zone: "pobreflix.do" always_refuse
+local-zone: "pobreflixfilmes.eu" always_refuse
+local-zone: "pobreflix.food" always_refuse
+local-zone: "pobretv.boutiquepobrestv.net" always_refuse
+local-zone: "pobretv.kiwi" always_refuse
+local-zone: "topflix.my always_refuse
+local-zone: "topflix.ltd" always_refuse
+local-zone: "topflix-2.com" always_refuse
 
