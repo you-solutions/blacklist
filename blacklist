@@ -1147,4 +1147,5 @@ local-zone: "pobretv.kiwi" always_refuse
 local-zone: "topflix.my" always_refuse
 local-zone: "topflix.ltd" always_refuse
 local-zone: "topflix-2.com" always_refuse
+local-zone: "lojamedvideos.com" always_refuse
 
