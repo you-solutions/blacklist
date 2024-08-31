@@ -1149,4 +1149,5 @@ local-zone: "topflix.ltd" always_refuse
 local-zone: "topflix-2.com" always_refuse
 local-zone: "lojamedvideos.com" always_refuse
 local-zone: "x.com" always_refuse
-
+local-zone: "twitter.com" always_refuse
+local-zone: "t.co" always_refuse
