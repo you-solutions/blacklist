@@ -1171,3 +1171,15 @@ local-zone: "www.omshop.com.brvapecomprar" always_refuse
 local-zone: "www.omshop.com" always_refuse
 local-zone: "www.vitrinedovapor.com" always_refuse
 local-zone: "www.vitrinedovape.com" always_refuse
+local-zone: "cinevise.net" always_refuse
+local-zone: "masterfilmestorrent.com" always_refuse
+local-zone: "blacktorrents.org" always_refuse
+local-zone: "multicanais.bar" always_refuse
+local-zone: "multicanais.sk" always_refuse
+local-zone: "seriesflixtv2.me" always_refuse
+local-zone: "serieflix.cc" always_refuse
+local-zone: "xilften.rip" always_refuse
+local-zone: "multicanais.green" always_refuse
+local-zone: "multicanais.so" always_refuse
+local-zone: "multicanais.tube" always_refuse
+
