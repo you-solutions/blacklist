@@ -1227,3 +1227,7 @@ local-zone: "moviesonline.club" always_refuse
 local-zone: "play123movies.org" always_refuse
 local-zone: "123movies000.com" always_refuse
 local-zone: "123movies4m.me" always_refuse
+local-zone: "futemax1.plus" always_refuse
+local-zone: "futtemax.tv" always_refuse
+local-zone: "oficialtvexpress.xyz" always_refuse
+local-zone: "recargastvepremium.com" always_refuse
