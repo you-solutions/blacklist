@@ -1233,3 +1233,5 @@ local-zone: "oficialtvexpress.xyz" always_refuse
 local-zone: "recargastvepremium.com" always_refuse
 local-zone: "2bracasino.com" always_refuse
 local-zone: "spbet.com" always_refuse
+local-zone: "br-loop.com" always_refuse
+local-zone: "loop-br.com" always_refuse
