@@ -1231,3 +1231,5 @@ local-zone: "futemax1.plus" always_refuse
 local-zone: "futtemax.tv" always_refuse
 local-zone: "oficialtvexpress.xyz" always_refuse
 local-zone: "recargastvepremium.com" always_refuse
+local-zone: "2bracasino.com" always_refuse
+local-zone: "spbet.com" always_refuse
