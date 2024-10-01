@@ -1363,9 +1363,14 @@ local-zone: "futemax.tel" always_refuse
 local-zone: "futemax2.uno" always_refuse
 local-zone: "maxfute.run" always_refuse
 local-zone: "canaisplay.run" always_refuse
-
 local-zone: "test.cianet.net.br" always_refuse
 local-zone: "filmeserietorrent.store" always_refuse
 local-zone: "multicanais.gift" always_refuse
 local-zone: "multicanais.onl" always_refuse
 local-zone: "seriesflixtv2.org" always_refuse
+
+local-zone: "multicanais.ec" always_refuse
+local-zone: "multicanais.icu" always_refuse
+local-zone: "multicanais.moe" always_refuse
+local-zone: "multicanais.mov" always_refuse
+local-zone: "multicanais.us" always_refuse
