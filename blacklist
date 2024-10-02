@@ -1164,7 +1164,6 @@ local-zone: "i.cdns1.org" always_refuse
 local-zone: "itsbx.uk" always_refuse
 local-zone: "webplayer.hibrido.club" always_refuse
 local-zone: "xr.life" always_refuse
-local-zone: "dnsplay.top" always_refuse
 local-zone: "servmax.top" always_refuse
 local-zone: "barato.top" always_refuse
 local-zone: "coreday.info" always_refuse
@@ -1234,7 +1233,6 @@ local-zone: "futemax.tel" always_refuse
 local-zone: "futemax2.uno" always_refuse
 local-zone: "maxfute.run" always_refuse
 local-zone: "canaisplay.run" always_refuse
-local-zone: "0123movie.biz " always_refuse
 local-zone: "0123movie.club" always_refuse
 local-zone: "0123movie.cx" always_refuse
 local-zone: "0123movie.io" always_refuse
@@ -1487,9 +1485,9 @@ local-zone: "themovies123.ing" always_refuse
 local-zone: "topflix123.run" always_refuse
 local-zone: "us123movies.com" always_refuse
 local-zone: "w123moviesfree.net" always_refuse
-local-zone: "4fun " always_refuse
-local-zone: "w2zx.com " always_refuse
-local-zone: "bbflix.click " always_refuse
+local-zone: "4fun" always_refuse
+local-zone: "w2zx.com" always_refuse
+local-zone: "bbflix.click" always_refuse
 local-zone: "bbflix.live" always_refuse
 local-zone: "bbflix.pro" always_refuse
 local-zone: "bbflix3.pro" always_refuse
@@ -1545,7 +1543,7 @@ local-zone: "bflixz-official.site" always_refuse
 local-zone: "bflixz.skin" always_refuse
 local-zone: "bflixz.to" always_refuse
 local-zone: "the-bflix.com" always_refuse
-local-zone: "bkserie.online " always_refuse
+local-zone: "bkserie.online" always_refuse
 local-zone: "bkseries.vip" always_refuse
 local-zone: "bkserieshd.com" always_refuse
 local-zone: "bkserieshd.live" always_refuse
@@ -1560,7 +1558,7 @@ local-zone: "bkseriestv.online" always_refuse
 local-zone: "bkseriestv.to" always_refuse
 local-zone: "bkseriestv.vip" always_refuse
 local-zone: "bkserietv.net" always_refuse
-local-zone: "contentgftp.xyz " always_refuse
+local-zone: "contentgftp.xyz" always_refuse
 local-zone: "bludv.co" always_refuse
 local-zone: "bludv.in" always_refuse
 local-zone: "bludv.to" always_refuse
@@ -1592,8 +1590,6 @@ local-zone: "playerblue.me" always_refuse
 local-zone: "siteblue.me" always_refuse
 local-zone: "thelink.show" always_refuse
 local-zone: "tplayer.live" always_refuse
-local-zone: "aplicativosdetvbox.com.br " always_refuse
-local-zone: "ativabluetv.net " always_refuse
 local-zone: "blueoficial.com" always_refuse
 local-zone: "bluetv.app" always_refuse
 local-zone: "bluetv.app.br" always_refuse
@@ -1652,7 +1648,7 @@ local-zone: "recarreguejaapp.com" always_refuse
 local-zone: "revendabluetv.com.br" always_refuse
 local-zone: "tvebluetvbox.com" always_refuse
 local-zone: "brabotv1.xyz vipb.top" always_refuse
-local-zone: "powerplay.click " always_refuse
+local-zone: "powerplay.click" always_refuse
 local-zone: "pwponline.click xcvb.top" always_refuse
 local-zone: "brasilflix.com" always_refuse
 local-zone: "brasilflix.fun" always_refuse
@@ -1660,11 +1656,11 @@ local-zone: "brasilflix.net" always_refuse
 local-zone: "brasilflix.top" always_refuse
 local-zone: "brasilflix.tv" always_refuse
 local-zone: "brasilflix.vip" always_refuse
-local-zone: "123c.pro " always_refuse
+local-zone: "123c.pro" always_refuse
 local-zone: "assate.net" always_refuse
 local-zone: "gapgas.net" always_refuse
 local-zone: "rubrue.ws" always_refuse
-local-zone: "canais.live " always_refuse
+local-zone: "canais.live" always_refuse
 local-zone: "canais.net" always_refuse
 local-zone: "canais.online" always_refuse
 local-zone: "canais.tv" always_refuse
@@ -1688,17 +1684,17 @@ local-zone: "tvcanais.tv" always_refuse
 local-zone: "centralflix.me" always_refuse
 local-zone: "centralflix.online" always_refuse
 local-zone: "flixcentralplus.com" always_refuse
-local-zone: "dns.acaidopara.net " always_refuse
-local-zone: "dns.cdnctv.com.br " always_refuse
-local-zone: "dns.clientetv.tech " always_refuse
-local-zone: "dns.hibrido.app " always_refuse
-local-zone: "dns.hibrido.club " always_refuse
-local-zone: "srv.cldplay.in " always_refuse
+local-zone: "dns.acaidopara.net" always_refuse
+local-zone: "dns.cdnctv.com.br" always_refuse
+local-zone: "dns.clientetv.tech" always_refuse
+local-zone: "dns.hibrido.app" always_refuse
+local-zone: "dns.hibrido.club" always_refuse
+local-zone: "srv.cldplay.in" always_refuse
 local-zone: "axr.life" always_refuse
-local-zone: "srv.cldplay.net " always_refuse
-local-zone: "coreplay.tv " always_refuse
-local-zone: "coreplayer.me " always_refuse
-local-zone: "pfsv.io " always_refuse
+local-zone: "srv.cldplay.net" always_refuse
+local-zone: "coreplay.tv" always_refuse
+local-zone: "coreplayer.me" always_refuse
+local-zone: "pfsv.io" always_refuse
 local-zone: "lplay.net" always_refuse
 local-zone: "0cuevana3.com" always_refuse
 local-zone: "0cuevana3.org" always_refuse
@@ -2597,12 +2593,12 @@ local-zone: "srvmult.top" always_refuse
 local-zone: "tvhd.ws" always_refuse
 local-zone: "esyp.io" always_refuse
 local-zone: "runpoint.pro" always_refuse
-local-zone: "5ce.me " always_refuse
-local-zone: "5central.me " always_refuse
-local-zone: "cms-central.co " always_refuse
-local-zone: "cms-central.ovh " always_refuse
-local-zone: "elitex.me " always_refuse
-local-zone: "offx.me " always_refuse
+local-zone: "5ce.me" always_refuse
+local-zone: "5central.me" always_refuse
+local-zone: "cms-central.co" always_refuse
+local-zone: "cms-central.ovh" always_refuse
+local-zone: "elitex.me" always_refuse
+local-zone: "offx.me" always_refuse
 local-zone: "stbup.com" always_refuse
 local-zone: "0fmovies.co" always_refuse
 local-zone: "9fmovies.net" always_refuse
@@ -2650,7 +2646,7 @@ local-zone: "thefmovies.net" always_refuse
 local-zone: "thefmovies.org" always_refuse
 local-zone: "watchfmovies.net" always_refuse
 local-zone: "xfmovies.com" always_refuse
-local-zone: "familyplay " always_refuse
+local-zone: "familyplay" always_refuse
 local-zone: "msrvplay.top" always_refuse
 local-zone: "msrvplay.xyz" always_refuse
 local-zone: "brfilmesonline.com" always_refuse
@@ -2966,15 +2962,15 @@ local-zone: "uhdmovies.store" always_refuse
 local-zone: "uhdmovies.wiki" always_refuse
 local-zone: "uhdmovies.zip" always_refuse
 local-zone: "www5.himovies.to" always_refuse
-local-zone: "life01.fun " always_refuse
-local-zone: "lifebr.fun " always_refuse
+local-zone: "life01.fun" always_refuse
+local-zone: "lifebr.fun" always_refuse
 local-zone: "lifedns.top" always_refuse
 local-zone: "lifeplayer.fun" always_refuse
 local-zone: "lifeplayer.top" always_refuse
-local-zone: "cdrn1.com " always_refuse
-local-zone: "s.apkwuv.xyz " always_refuse
-local-zone: "srvmaster.net " always_refuse
-local-zone: "us21.live " always_refuse
+local-zone: "cdrn1.com" always_refuse
+local-zone: "s.apkwuv.xyz" always_refuse
+local-zone: "srvmaster.net" always_refuse
+local-zone: "us21.live" always_refuse
 local-zone: "megapeliculas.xyz" always_refuse
 local-zone: "megapeliculasflv.xyz" always_refuse
 local-zone: "megapeliculasrip.com" always_refuse
@@ -3139,7 +3135,6 @@ local-zone: "novaflix.uno" always_refuse
 local-zone: "novaflix.vin" always_refuse
 local-zone: "novaflix.ws" always_refuse
 local-zone: "novaflix.xyz" always_refuse
-local-zone: "noveflix.cc " always_refuse
 local-zone: "noveflix.com" always_refuse
 local-zone: "noveflix.tv" always_refuse
 local-zone: "noveflix.zip" always_refuse
@@ -3163,7 +3158,7 @@ local-zone: "novelasflixbr.com" always_refuse
 local-zone: "novelassflix.com" always_refuse
 local-zone: "xonadosportvs.com" always_refuse
 local-zone: "xonadostv.net" always_refuse
-local-zone: "obaflix.biz " always_refuse
+local-zone: "obaflix.biz" always_refuse
 local-zone: "obaflix.click" always_refuse
 local-zone: "obaflix.live" always_refuse
 local-zone: "obaflix.net" always_refuse
@@ -3175,8 +3170,8 @@ local-zone: "obaflix.top" always_refuse
 local-zone: "obaflix.vip" always_refuse
 local-zone: "otampadabola.org" always_refuse
 local-zone: "otampadabola.tv" always_refuse
-local-zone: "megateca.pro " always_refuse
-local-zone: "overfilmes.online " always_refuse
+local-zone: "megateca.pro" always_refuse
+local-zone: "overfilmes.online" always_refuse
 local-zone: "overflix.ac" always_refuse
 local-zone: "overflix.app" always_refuse
 local-zone: "overflix.art" always_refuse
@@ -3265,17 +3260,17 @@ local-zone: "overflixfilmes.com" always_refuse
 local-zone: "overflixhd.shop" always_refuse
 local-zone: "overflixseries.com" always_refuse
 local-zone: "overflixx.com" always_refuse
-local-zone: "dailynews0.life " always_refuse
-local-zone: "dailynews0.me " always_refuse
-local-zone: "dailynews3.info " always_refuse
-local-zone: "dailynews3.life " always_refuse
-local-zone: "ddsw.xyz " always_refuse
-local-zone: "dns.tntv4.com " always_refuse
-local-zone: "grtsv1.life " always_refuse
-local-zone: "grtsvk.com " always_refuse
+local-zone: "dailynews0.life" always_refuse
+local-zone: "dailynews0.me" always_refuse
+local-zone: "dailynews3.info" always_refuse
+local-zone: "dailynews3.life" always_refuse
+local-zone: "ddsw.xyz" always_refuse
+local-zone: "dns.tntv4.com" always_refuse
+local-zone: "grtsv1.life" always_refuse
+local-zone: "grtsvk.com" always_refuse
 local-zone: "t3pp.com" always_refuse
 local-zone: "t3tper.com" always_refuse
-local-zone: "dan.com " always_refuse
+local-zone: "dan.com" always_refuse
 local-zone: "pelis-plus.icu" always_refuse
 local-zone: "pelisgratishd.com" always_refuse
 local-zone: "pelisplus-hd.net" always_refuse
@@ -3655,7 +3650,7 @@ local-zone: "suatela.com" always_refuse
 local-zone: "suatela.live" always_refuse
 local-zone: "suatela.net" always_refuse
 local-zone: "suatelaapk.com" always_refuse
-local-zone: "app-supercine.tv " always_refuse
+local-zone: "app-supercine.tv" always_refuse
 local-zone: "fireplayer.top" always_refuse
 local-zone: "supercine.to" always_refuse
 local-zone: "superfilmes.ac" always_refuse
@@ -3690,9 +3685,9 @@ local-zone: "youflixcine.com" always_refuse
 local-zone: "zonafilmesbluray.com" always_refuse
 local-zone: "superfutebol.com.br" always_refuse
 local-zone: "superfutebol.tv" always_refuse
-local-zone: "4tv.me " always_refuse
-local-zone: "4tv.site " always_refuse
-local-zone: "brqnt.pro " always_refuse
+local-zone: "4tv.me" always_refuse
+local-zone: "4tv.site" always_refuse
+local-zone: "brqnt.pro" always_refuse
 local-zone: "ip2.digital" always_refuse
 local-zone: "tabonito-brasil.com" always_refuse
 local-zone: "tabonito-brasil.info" always_refuse
@@ -3739,11 +3734,11 @@ local-zone: "movietorrent.pro" always_refuse
 local-zone: "torrent-movies.fun" always_refuse
 local-zone: "torrent.movie" always_refuse
 local-zone: "torrentmovies.online" always_refuse
-local-zone: "apptvexpress.com " always_refuse
-local-zone: "apptvexpressoficial.com " always_refuse
-local-zone: "baixartvexpress.com.br " always_refuse
-local-zone: "brasiltvexpress.com " always_refuse
-local-zone: "btvexpress.com " always_refuse
+local-zone: "apptvexpress.com" always_refuse
+local-zone: "apptvexpressoficial.com" always_refuse
+local-zone: "baixartvexpress.com.br" always_refuse
+local-zone: "brasiltvexpress.com" always_refuse
+local-zone: "btvexpress.com" always_refuse
 local-zone: "codigostvexpress.com.br" always_refuse
 local-zone: "expressfacil.com" always_refuse
 local-zone: "expressgiftcards.com.br" always_refuse
@@ -3920,7 +3915,7 @@ local-zone: "tvfree tv0800.xyz" always_refuse
 local-zone: "tvfree tvfree.net" always_refuse
 local-zone: "tvfree tvfree.xyz" always_refuse
 local-zone: "tvfree tvfreehd.xyz" always_refuse
-local-zone: "ap24.us " always_refuse
+local-zone: "ap24.us" always_refuse
 local-zone: "applife.fun" always_refuse
 local-zone: "central.tvprodigital.ca" always_refuse
 local-zone: "ffind.biz" always_refuse
@@ -3956,8 +3951,8 @@ local-zone: "unitvprovip.com" always_refuse
 local-zone: "webplay.cloud" always_refuse
 local-zone: "x2.rs" always_refuse
 local-zone: "zeusplayrevenda.online" always_refuse
-local-zone: "lojatvs.com " always_refuse
-local-zone: "supertv.io " always_refuse
+local-zone: "lojatvs.com" always_refuse
+local-zone: "supertv.io" always_refuse
 local-zone: "tvsbr.red" always_refuse
 local-zone: "xtvbr.red" always_refuse
 local-zone: "xtvspt.live" always_refuse
@@ -4056,7 +4051,7 @@ local-zone: "ultraflix.vip" always_refuse
 local-zone: "ultraflixcinemaxhd.com" always_refuse
 local-zone: "ultraflixtv.com" always_refuse
 local-zone: "ultraflixtv.live" always_refuse
-local-zone: "tvdigital.link " always_refuse
+local-zone: "tvdigital.link" always_refuse
 local-zone: "uniplay.link" always_refuse
 local-zone: "verfutebol.live" always_refuse
 local-zone: "verfutebol.net" always_refuse
@@ -4064,9 +4059,9 @@ local-zone: "verfutebol.online" always_refuse
 local-zone: "verfutebol.org" always_refuse
 local-zone: "verfutebol.tv" always_refuse
 local-zone: "verfutebol1.online" always_refuse
-local-zone: "flixei.com " always_refuse
-local-zone: "flixei.net " always_refuse
-local-zone: "flixei.org " always_refuse
+local-zone: "flixei.com" always_refuse
+local-zone: "flixei.net" always_refuse
+local-zone: "flixei.org" always_refuse
 local-zone: "megavizer.com" always_refuse
 local-zone: "pobretv.boo" always_refuse
 local-zone: "tvtap.site" always_refuse
@@ -4135,9 +4130,9 @@ local-zone: "warez knie.fans" always_refuse
 local-zone: "warez kplay.red" always_refuse
 local-zone: "warez warez.la" always_refuse
 local-zone: "warez warez.red" always_refuse
-local-zone: "ucsxiptv.com " always_refuse
+local-zone: "ucsxiptv.com" always_refuse
 local-zone: "uptvx.live" always_refuse
-local-zone: "cdnm.fun " always_refuse
+local-zone: "cdnm.fun" always_refuse
 local-zone: "infraz.top" always_refuse
 local-zone: "serveript.com" always_refuse
 local-zone: "aovivo.club" always_refuse
@@ -4166,7 +4161,7 @@ local-zone: "tvaovivo.net.br" always_refuse
 local-zone: "tvaovivo.site" always_refuse
 local-zone: "tvaovivoagora.com" always_refuse
 local-zone: "tvaovivogratis.net" always_refuse
-local-zone: "123filmes.pro " always_refuse
+local-zone: "123filmes.pro" always_refuse
 local-zone: "assistafilme.com" always_refuse
 local-zone: "assistir.fun" always_refuse
 local-zone: "assistircineonline.com" always_refuse
@@ -4391,8 +4386,8 @@ local-zone: "srvx.io" always_refuse
 local-zone: "stmdigitalpro.com" always_refuse
 local-zone: "tecnotv.club" always_refuse
 local-zone: "villaclubtv.com" always_refuse
-local-zone: "2torrentsmegafilmes.in " always_refuse
-local-zone: "adorocinematorrent.com " always_refuse
+local-zone: "2torrentsmegafilmes.in" always_refuse
+local-zone: "adorocinematorrent.com" always_refuse
 local-zone: "bluf.online" always_refuse
 local-zone: "comando-torrent.com" always_refuse
 local-zone: "comando-torrent.net" always_refuse
@@ -4485,7 +4480,7 @@ local-zone: "ftorrent.org" always_refuse
 local-zone: "kdcomandotorrent.com" always_refuse
 local-zone: "utorrentfilmes.top" always_refuse
 local-zone: "wthepiratefilmes.in" always_refuse
-local-zone: "1filmesonlinegratis.net " always_refuse
+local-zone: "1filmesonlinegratis.net" always_refuse
 local-zone: "dfilmesonline.com" always_refuse
 local-zone: "efilmesonline.com" always_refuse
 local-zone: "filmebrasil.com" always_refuse
@@ -4536,7 +4531,7 @@ local-zone: "hdfilmesonlinegratis.tv" always_refuse
 local-zone: "pobrecineonline.com" always_refuse
 local-zone: "topfilmesgratis.com" always_refuse
 local-zone: "verfilmesonlinegratis.net" always_refuse
-local-zone: "assistirfilmesonlinehd.pro " always_refuse
+local-zone: "assistirfilmesonlinehd.pro" always_refuse
 local-zone: "assistirfilmesonlinehd12.com" always_refuse
 local-zone: "boxfilmes.live" always_refuse
 local-zone: "boxfilmes.net" always_refuse
@@ -4705,8 +4700,7 @@ local-zone: "futplayhd.one" always_refuse
 local-zone: "futplayhd.org" always_refuse
 local-zone: "futplayhd.tv" always_refuse
 local-zone: "futplaytv.com" always_refuse
-local-zone: "canaismax.com " always_refuse
-local-zone: "canaisplay.co " always_refuse
+local-zone: "canaismax.com" always_refuse
 local-zone: "canaisplay.fo" always_refuse
 local-zone: "canaisplay.in" always_refuse
 local-zone: "canaisplay.la" always_refuse
@@ -4851,7 +4845,7 @@ local-zone: "pipocaflix.vip" always_refuse
 local-zone: "tvonlineglobo.com" always_refuse
 local-zone: "tvonlinegratis1.online" always_refuse
 local-zone: "tvonlinegratis1.pro" always_refuse
-local-zone: "cinegoflix.com " always_refuse
+local-zone: "cinegoflix.com" always_refuse
 local-zone: "flixwave.cfd" always_refuse
 local-zone: "g1filmes.com" always_refuse
 local-zone: "g1filmes.org" always_refuse
@@ -4884,7 +4878,7 @@ local-zone: "gofilmes.xyz" always_refuse
 local-zone: "gofilmeshd.live" always_refuse
 local-zone: "goseries.org" always_refuse
 local-zone: "goseries.vip" always_refuse
-local-zone: "br.loveflix.online " always_refuse
+local-zone: "br.loveflix.online" always_refuse
 local-zone: "lovefliix.com" always_refuse
 local-zone: "loveflix.app" always_refuse
 local-zone: "loveflix.art" always_refuse
@@ -4983,10 +4977,10 @@ local-zone: "mxserieshd.vip" always_refuse
 local-zone: "seriemax.site" always_refuse
 local-zone: "seriesmax2.com" always_refuse
 local-zone: "youcineapp.online" always_refuse
-local-zone: "888filmes.net " always_refuse
+local-zone: "888filmes.net" always_refuse
 local-zone: "9xflix.io megafilmeshd.li" always_refuse
-local-zone: "assistirmegafilmeshd.com " always_refuse
-local-zone: "assistirmegafilmeshd.online " always_refuse
+local-zone: "assistirmegafilmeshd.com" always_refuse
+local-zone: "assistirmegafilmeshd.online" always_refuse
 local-zone: "dozitos.com" always_refuse
 local-zone: "filmesbrasil.com.br" always_refuse
 local-zone: "filmesmega.co" always_refuse
@@ -5237,13 +5231,13 @@ local-zone: "prim.fun" always_refuse
 local-zone: "wcdns.xyz" always_refuse
 local-zone: "webap.biz" always_refuse
 local-zone: "xcplay.com.br" always_refuse
-local-zone: "agoraflix.com " always_refuse
-local-zone: "assistirpobreflix.com " always_refuse
-local-zone: "betflix.digital " always_refuse
-local-zone: "brasilflix.org " always_refuse
-local-zone: "chilliflix.org " always_refuse
-local-zone: "filmeflix.plus " always_refuse
-local-zone: "gatoflix.com " always_refuse
+local-zone: "agoraflix.com" always_refuse
+local-zone: "assistirpobreflix.com" always_refuse
+local-zone: "betflix.digital" always_refuse
+local-zone: "brasilflix.org" always_refuse
+local-zone: "chilliflix.org" always_refuse
+local-zone: "filmeflix.plus" always_refuse
+local-zone: "gatoflix.com" always_refuse
 local-zone: "jfilmesonline.com" always_refuse
 local-zone: "kkfilmesonline.net" always_refuse
 local-zone: "n1.pobreflixfilmes.org" always_refuse
@@ -5924,77 +5918,19 @@ local-zone: "x60.live" always_refuse
 local-zone: "x70.live" always_refuse
 local-zone: "x80.live" always_refuse
 local-zone: "x90.live" always_refuse
-local-zone: "123filmes.pro" always_refuse
-local-zone: "2torrentsmegafilmes.in" always_refuse
-local-zone: "adorocinematorrent.com" always_refuse
-local-zone: "1filmesonlinegratis.net" always_refuse
-local-zone: "assistirfilmesonlinehd.pro" always_refuse
-local-zone: "betflix.movie " always_refuse
-local-zone: "canaisplay.fo " always_refuse
-local-zone: "cinegoflix.com" always_refuse
-local-zone: "br.loveflix.online" always_refuse
-local-zone: "888filmes.net" always_refuse
 local-zone: "9xflix.io" always_refuse
-local-zone: "assistirmegafilmeshd.com" always_refuse
-local-zone: "assistirmegafilmeshd.online" always_refuse
 local-zone: "darthflix.com" always_refuse
-local-zone: "agoraflix.com" always_refuse
-local-zone: "assistirpobreflix.com" always_refuse
-local-zone: "betflix.digital" always_refuse
-local-zone: "brasilflix.org" always_refuse
-local-zone: "chilliflix.org" always_refuse
-local-zone: "filmeflix.plus" always_refuse
-local-zone: "gatoflix.com" always_refuse
 local-zone: "assistir.topflix.cc" always_refuse
 local-zone: "topflix1.me" always_refuse
 local-zone: "0123movie.biz" always_refuse
 local-zone: "4fun w2zx.com" always_refuse
 local-zone: "4fun w2zx.la" always_refuse
-local-zone: "bbflix.click" always_refuse
-local-zone: "bkserie.online" always_refuse
-local-zone: "contentgftp.xyz" always_refuse
 local-zone: "brabotv1.xyz" always_refuse
-local-zone: "powerplay.click" always_refuse
 local-zone: "pwponline.click" always_refuse
-local-zone: "123c.pro" always_refuse
-local-zone: "dns.acaidopara.net" always_refuse
-local-zone: "dns.cdnctv.com.br" always_refuse
-local-zone: "dns.clientetv.tech" always_refuse
-local-zone: "dns.hibrido.app" always_refuse
-local-zone: "dns.hibrido.club" always_refuse
-local-zone: "srv.cldplay.in" always_refuse
-local-zone: "srv.cldplay.net" always_refuse
-local-zone: "coreplay.tv" always_refuse
-local-zone: "coreplayer.me" always_refuse
-local-zone: "pfsv.io" always_refuse
-local-zone: "5ce.me" always_refuse
-local-zone: "5central.me" always_refuse
-local-zone: "cms-central.co" always_refuse
-local-zone: "cms-central.ovh" always_refuse
-local-zone: "elitex.me" always_refuse
-local-zone: "offx.me" always_refuse
-local-zone: "life01.fun" always_refuse
-local-zone: "lifebr.fun" always_refuse
-local-zone: "cdrn1.com" always_refuse
-local-zone: "s.apkwuv.xyz" always_refuse
-local-zone: "srvmaster.net" always_refuse
-local-zone: "us21.live" always_refuse
 local-zone: "milka99.fun" always_refuse
 local-zone: "appmyfamilycinema.com" always_refuse
 local-zone: "natv aha.ac" always_refuse
 local-zone: "natv natv.fm" always_refuse
-local-zone: "obaflix.biz" always_refuse
-local-zone: "megateca.pro" always_refuse
-local-zone: "overfilmes.online" always_refuse
-local-zone: "dailynews0.life" always_refuse
-local-zone: "dailynews0.me" always_refuse
-local-zone: "dailynews3.info" always_refuse
-local-zone: "dailynews3.life" always_refuse
-local-zone: "ddsw.xyz" always_refuse
-local-zone: "dns.tntv4.com" always_refuse
-local-zone: "grtsv1.life" always_refuse
-local-zone: "grtsvk.com" always_refuse
-local-zone: "dan.com" always_refuse
 local-zone: "khxmp.shop" always_refuse
 local-zone: "smartpro.fun" always_refuse
 local-zone: "appredplay.com" always_refuse
@@ -6002,26 +5938,7 @@ local-zone: "compreredplay.online" always_refuse
 local-zone: "compreredplay.site" always_refuse
 local-zone: "compreredplaybr.com" always_refuse
 local-zone: "lismeo.com" always_refuse
-local-zone: "app-supercine.tv" always_refuse
-local-zone: "4tv.me" always_refuse
-local-zone: "4tv.site" always_refuse
-local-zone: "brqnt.pro" always_refuse
-local-zone: "apptvexpress.com" always_refuse
-local-zone: "apptvexpressoficial.com" always_refuse
-local-zone: "baixartvexpress.com.br" always_refuse
-local-zone: "brasiltvexpress.com" always_refuse
-local-zone: "btvexpress.com" always_refuse
-local-zone: "ap24.us" always_refuse
-local-zone: "lojatvs.com" always_refuse
-local-zone: "supertv.io" always_refuse
 local-zone: "adoroassistir.online" always_refuse
-local-zone: "tvdigital.link" always_refuse
-local-zone: "flixei.com" always_refuse
-local-zone: "flixei.net" always_refuse
-local-zone: "flixei.org" always_refuse
-local-zone: "ucsxiptv.com" always_refuse
-local-zone: "cdnm.fun" always_refuse 
-
 local-zone: "123moviesofficia.com" always_refuse
 local-zone: "bflix2gg.gold" always_refuse
 local-zone: "bldnew.com" always_refuse
@@ -6039,6 +5956,7 @@ local-zone: "lbnovo.xyz" always_refuse
 local-zone: "shiuk.re" always_refuse
 local-zone: "assistaiptvplay.com" always_refuse
 local-zone: "axcserver.online" always_refuse
+local-zone: "dnsplay.top" always_refuse
 local-zone: "serverfulltop.com" always_refuse
 local-zone: "xcore.ca" always_refuse
 local-zone: "cuevana3hd.info" always_refuse
@@ -6046,7 +5964,7 @@ local-zone: "cuevana3i.vip" always_refuse
 local-zone: "cuevana3tv.live" always_refuse
 local-zone: "cuevana4movie.com" always_refuse
 local-zone: "cuevanalatino.org" always_refuse
-local-zone: "cuevanaru.com" always_refuse
+local-zone: "	cuevanaru.com" always_refuse
 local-zone: "cuevanna3.com" always_refuse
 local-zone: "ffmovies.lol" always_refuse
 local-zone: "cdn33.cc" always_refuse
@@ -6068,7 +5986,7 @@ local-zone: "p2playnow.xyz" always_refuse
 local-zone: "topuhd.live" always_refuse
 local-zone: "voxp2p.live" always_refuse
 local-zone: "wfcprime.top" always_refuse
-local-zone: "megapeliculasrip.lol" always_refuse
+local-zone: "megapeliculasrip.lo" always_refuse
 local-zone: "splaytv.club" always_refuse
 local-zone: "4kcine.mainbr.site" always_refuse
 local-zone: "ativabox.top" always_refuse
@@ -6079,7 +5997,7 @@ local-zone: "srvplay.top" always_refuse
 local-zone: "xcdns.xyz" always_refuse
 local-zone: "appleuhd.us" always_refuse
 local-zone: "dnsfixo.xyz" always_refuse
-local-zone: "liebetv.me always_refuse
+local-zone: "liebetv.me" always_refuse
 local-zone: "rdns.tv" always_refuse
 local-zone: "slxl.mx" always_refuse
 local-zone: "tv.com.vc" always_refuse
@@ -6107,5 +6025,4 @@ local-zone: "rushplay.co" always_refuse
 local-zone: "strixtv.top" always_refuse
 local-zone: "wareztv.io" always_refuse
 local-zone: "xlinesys.xyz" always_refuse
-
-
+local-zone: "zeusplay.life" always_refuse 
