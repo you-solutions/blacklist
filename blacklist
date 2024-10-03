@@ -6032,3 +6032,24 @@ local-zone: "multicanais.icu" always_refuse
 local-zone: "multicanais.moe" always_refuse
 local-zone: "multicanais.mov" always_refuse
 local-zone: "multicanais.us" always_refuse
+
+local-zone: "assistirfilmeshdgratis1.com" always_refuse
+local-zone: "mundofut.app" always_refuse
+local-zone: "gofilmes.pics" always_refuse
+local-zone: "mmfilmes.one" always_refuse
+local-zone: "mmfilmeshd.shop" always_refuse
+local-zone: "mmfilmestv.com" always_refuse
+local-zone: "pobreflix.baby" always_refuse
+local-zone: "topflix2.com" always_refuse
+local-zone: "topflixfm.me" always_refuse
+local-zone: "topflixhd.baby" always_refuse
+local-zone: "topflixhd.one" always_refuse
+local-zone: "topflixhd.pics" always_refuse
+local-zone: "topflixtv.me" always_refuse
+local-zone: "topflixtv.one" always_refuse
+local-zone: "futebolplayhd.ac" always_refuse
+local-zone: "futebolplushd.com" always_refuse
+local-zone: "futeplayhd.live" always_refuse
+local-zone: "receitaslites.com" always_refuse
+local-zone: "canaisplay.ac" always_refuse
+local-zone: "futemax.sb" always_refuse
