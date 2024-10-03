@@ -6026,3 +6026,9 @@ local-zone: "strixtv.top" always_refuse
 local-zone: "wareztv.io" always_refuse
 local-zone: "xlinesys.xyz" always_refuse
 local-zone: "zeusplay.life" always_refuse 
+
+local-zone: "multicanais.ec" always_refuse
+local-zone: "multicanais.icu" always_refuse
+local-zone: "multicanais.moe" always_refuse
+local-zone: "multicanais.mov" always_refuse
+local-zone: "multicanais.us" always_refuse
