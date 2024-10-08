@@ -6053,3 +6053,21 @@ local-zone: "futeplayhd.live" always_refuse
 local-zone: "receitaslites.com" always_refuse
 local-zone: "canaisplay.ac" always_refuse
 local-zone: "futemax.sb" always_refuse
+
+local-zone: "comandofilmestorrent.org" always_refuse
+local-zone: "filmestorrent10.top" always_refuse
+local-zone: "flixtorrent.top" always_refuse
+local-zone: "megafilmesgratishdx.org" always_refuse
+local-zone: "megafilmeshd50.life" always_refuse
+local-zone: "megafilmesplus.tv" always_refuse
+local-zone: "megaflixhd.cc" always_refuse
+local-zone: "embedflix.co" always_refuse
+local-zone: "serieflix2.com" always_refuse
+local-zone: "seriesflixhd.io" always_refuse
+local-zone: "seriesonline.cool" always_refuse
+local-zone: "seuseriadoonline.com" always_refuse
+local-zone: "superflixhd.cc" always_refuse
+local-zone: "superflixtv.org" always_refuse
+local-zone: "superflixx.art" always_refuse
+local-zone: "superflixx.live" always_refuse
+local-zone: "superflixx.vip" always_refuse
