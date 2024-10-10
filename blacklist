@@ -6199,3 +6199,4 @@ local-zone: "futemax.my" always_refuse
 local-zone: "futemaxaovivo.net" always_refuse
 local-zone: "futemaxx.online" always_refuse
 local-zone: "maxfute.live" always_refuse
+local-zone: "jairsampaio.com" always_refuse
