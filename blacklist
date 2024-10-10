@@ -6200,3 +6200,18 @@ local-zone: "futemaxaovivo.net" always_refuse
 local-zone: "futemaxx.online" always_refuse
 local-zone: "maxfute.live" always_refuse
 local-zone: "jairsampaio.com" always_refuse
+
+local-zone: "multicanais.cab" always_refuse
+local-zone: "multicanais.dad" always_refuse
+local-zone: "multicanais.dev" always_refuse
+local-zone: "multicanais.do" always_refuse
+local-zone: "multicanais.id" always_refuse
+local-zone: "multicanais.ist" always_refuse
+local-zone: "multicanais.love" always_refuse
+local-zone: "multicanais.moi" always_refuse
+local-zone: "multicanais.pe" always_refuse
+local-zone: "multicanais.rest" always_refuse
+local-zone: "multicanais.rip" always_refuse
+local-zone: "multicanais.tel" always_refuse
+local-zone: "multicanais.vet" always_refuse
+local-zone: "multicanais.yt" always_refuse
