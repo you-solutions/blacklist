@@ -8242,3 +8242,9 @@ local-zone: "fmbet.app" always_refuse
 local-zone: "bwin.com" always_refuse
 local-zone: "bwin.pt" always_refuse
 local-zone: "ladbrokes.com" always_refuse
+
+local-zone: "br.novibet.com" always_refuse
+local-zone: "flashscore.com.br" always_refuse
+local-zone: "yogonet.com" always_refuse
+local-zone: "partypoker.com" always_refuse
+local-zone: "playuzu.com " always_refuse
