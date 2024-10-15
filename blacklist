@@ -6911,7 +6911,6 @@ local-zone: "br.magicred.com" always_refuse
 local-zone: "br.melbet.com/br" always_refuse
 local-zone: "br.mrplay.com" always_refuse
 local-zone: "br.netbet.com" always_refuse
-local-zone: "br.novibet.com" always_refuse
 local-zone: "br2024.com" always_refuse
 local-zone: "br550.com" always_refuse
 local-zone: "bragrupo1.com" always_refuse
@@ -8167,7 +8166,6 @@ local-zone: "wwbet.bet" always_refuse
 local-zone: "wwccbet.com" always_refuse
 local-zone: "www.bitstarz.com" always_refuse
 local-zone: "www.cunbet6.com" always_refuse
-local-zone: "www.flashscore.com.br" always_refuse
 local-zone: "x10x10d.com" always_refuse
 local-zone: "x1fortbet.net" always_refuse
 local-zone: "x21.casino" always_refuse
@@ -8243,8 +8241,4 @@ local-zone: "bwin.com" always_refuse
 local-zone: "bwin.pt" always_refuse
 local-zone: "ladbrokes.com" always_refuse
 
-local-zone: "br.novibet.com" always_refuse
-local-zone: "flashscore.com.br" always_refuse
-local-zone: "yogonet.com" always_refuse
-local-zone: "partypoker.com" always_refuse
-local-zone: "playuzu.com " always_refuse
+
