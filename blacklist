@@ -6638,7 +6638,7 @@ local-zone: "apostadeouro.net" always_refuse
 local-zone: "apostador.net.br" always_refuse
 local-zone: "apostamix.com" always_refuse
 local-zone: "apostano.com" always_refuse
-local-zone: "apostas.com" always_refuse
+# local-zone: "apostas.com" always_refuse
 local-zone: "apostasbrazil.com.br" always_refuse
 local-zone: "apostascomcassino.com" always_refuse
 local-zone: "apostasnobrasil.net" always_refuse
@@ -7621,7 +7621,7 @@ local-zone: "nascerpg.com" always_refuse
 local-zone: "navesbets.com" always_refuse
 local-zone: "nbet91.com" always_refuse
 local-zone: "neo.bet" always_refuse
-local-zone: "netpix.bet" always_refuse
+# local-zone: "netpix.bet" always_refuse
 local-zone: "newsport.bet" always_refuse
 local-zone: "ng987.bet" always_refuse
 local-zone: "nike.sk" always_refuse
@@ -7815,7 +7815,7 @@ local-zone: "rapwin.com" always_refuse
 local-zone: "rbets.net" always_refuse
 local-zone: "realbetbrasil.com" always_refuse
 local-zone: "realimperador.bet" always_refuse
-local-zone: "realsbet.com" always_refuse
+# local-zone: "realsbet.com" always_refuse
 local-zone: "recifepg.com" always_refuse
 local-zone: "recifepg.vip" always_refuse
 local-zone: "recsportspix.bet" always_refuse
@@ -8068,7 +8068,7 @@ local-zone: "turbopg.com" always_refuse
 local-zone: "turf7.com" always_refuse
 local-zone: "turtle51.com" always_refuse
 local-zone: "turtlety.com" always_refuse
-local-zone: "tvbet.com" always_refuse
+# local-zone: "tvbet.com" always_refuse
 local-zone: "tvvpgs.com" always_refuse
 local-zone: "twincasino.net" always_refuse
 local-zone: "tygolfinho.com" always_refuse
@@ -8097,7 +8097,7 @@ local-zone: "utbet2.com" always_refuse
 local-zone: "uuu777win.com" always_refuse
 local-zone: "uuuboi.bet" always_refuse
 local-zone: "uwin.top" always_refuse
-local-zone: "uxbet.com.br" always_refuse
+# local-zone: "uxbet.com.br" always_refuse
 local-zone: "v5-lewa.com" always_refuse
 local-zone: "v77bet9.com" always_refuse
 local-zone: "vai777.cc" always_refuse
