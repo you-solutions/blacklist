@@ -8240,5 +8240,22 @@ local-zone: "fmbet.app" always_refuse
 local-zone: "bwin.com" always_refuse
 local-zone: "bwin.pt" always_refuse
 local-zone: "ladbrokes.com" always_refuse
+local-zone: "cinevision-2.org" always_refuse
+local-zone: "receitassulamericanas.org" always_refuse
+local-zone: "topfilmestorrent.org" always_refuse
+local-zone: "supermegaflix.online" always_refuse
+local-zone: "infofinanceiros.vip" always_refuse
+local-zone: "seriesflix.ceo" always_refuse
+local-zone: "seriesflixtv2.co" always_refuse
+local-zone: "superflixx.site" always_refuse
+local-zone: "supertela.ec" always_refuse
+local-zone: "tecexplora.vip" always_refuse
+local-zone: "multicanais.am" always_refuse
+local-zone: "multicanais.cafe" always_refuse
+local-zone: "multicanais.day" always_refuse
+local-zone: "multicanais.fyi" always_refuse
+local-zone: "multicanais.gay" always_refuse
+local-zone: "multicanais.to" always_refuse
+local-zone: "multicanais.wtf" always_refuse
 
 
