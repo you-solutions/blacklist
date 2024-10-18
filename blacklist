@@ -8334,14 +8334,9 @@ local-zone: "maxfute.org" always_refuse
 local-zone: "rmcfutebol.com" always_refuse
 local-zone: "073bet9.com" always_refuse
 local-zone: "54999f.com/" always_refuse
-local-zone: "apostas.com" always_refuse
 local-zone: "betl 8k.app" always_refuse
 local-zone: "br.novibet.com" always_refuse
 local-zone: "kangubet.com/live-casino" always_refuse
 local-zone: "mej orcasinos.mx" always_refuse
-local-zone: "netpix.bet" always_refuse
-local-zone: "realsbet.com" always_refuse
-local-zone: "tvbet.com" always_refuse
-local-zone: "uxbet.com.br" always_refuse
 local-zone: "www.bitstarz.com/" always_refuse
 local-zone: "www.flashscore.com.br" always_refuse 
