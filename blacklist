@@ -5961,7 +5961,7 @@ local-zone: "cuevana3i.vip" always_refuse
 local-zone: "cuevana3tv.live" always_refuse
 local-zone: "cuevana4movie.com" always_refuse
 local-zone: "cuevanalatino.org" always_refuse
-local-zone: "	cuevanaru.com" always_refuse
+local-zone: "cuevanaru.com" always_refuse
 local-zone: "cuevanna3.com" always_refuse
 local-zone: "ffmovies.lol" always_refuse
 local-zone: "cdn33.cc" always_refuse
@@ -6023,13 +6023,11 @@ local-zone: "strixtv.top" always_refuse
 local-zone: "wareztv.io" always_refuse
 local-zone: "xlinesys.xyz" always_refuse
 local-zone: "zeusplay.life" always_refuse 
-
 local-zone: "multicanais.ec" always_refuse
 local-zone: "multicanais.icu" always_refuse
 local-zone: "multicanais.moe" always_refuse
 local-zone: "multicanais.mov" always_refuse
 local-zone: "multicanais.us" always_refuse
-
 local-zone: "assistirfilmeshdgratis1.com" always_refuse
 local-zone: "mundofut.app" always_refuse
 local-zone: "gofilmes.pics" always_refuse
@@ -6050,7 +6048,6 @@ local-zone: "futeplayhd.live" always_refuse
 local-zone: "receitaslites.com" always_refuse
 local-zone: "canaisplay.ac" always_refuse
 local-zone: "futemax.sb" always_refuse
-
 local-zone: "comandofilmestorrent.org" always_refuse
 local-zone: "filmestorrent10.top" always_refuse
 local-zone: "flixtorrent.top" always_refuse
@@ -6068,8 +6065,6 @@ local-zone: "superflixtv.org" always_refuse
 local-zone: "superflixx.art" always_refuse
 local-zone: "superflixx.live" always_refuse
 local-zone: "superflixx.vip" always_refuse
-
-
 local-zone: "futebolplayhd.bet" always_refuse
 local-zone: "futemax3.uno" always_refuse
 local-zone: "megafilmeshd.sb" always_refuse
@@ -6200,7 +6195,6 @@ local-zone: "futemaxaovivo.net" always_refuse
 local-zone: "futemaxx.online" always_refuse
 local-zone: "maxfute.live" always_refuse
 local-zone: "jairsampaio.com" always_refuse
-
 local-zone: "multicanais.cab" always_refuse
 local-zone: "multicanais.dad" always_refuse
 local-zone: "multicanais.dev" always_refuse
@@ -6215,12 +6209,10 @@ local-zone: "multicanais.rip" always_refuse
 local-zone: "multicanais.tel" always_refuse
 local-zone: "multicanais.vet" always_refuse
 local-zone: "multicanais.yt" always_refuse
-
 local-zone: "001game9.com" always_refuse
 local-zone: "0066bet.com" always_refuse
 local-zone: "013bet8.com" always_refuse
 local-zone: "01bets.com" always_refuse
-local-zone: "073bet9.com" always_refuse
 local-zone: "079bet8.com" always_refuse
 local-zone: "099bet.com" always_refuse
 local-zone: "0WIN444.com" always_refuse
@@ -8257,7 +8249,6 @@ local-zone: "multicanais.fyi" always_refuse
 local-zone: "multicanais.gay" always_refuse
 local-zone: "multicanais.to" always_refuse
 local-zone: "multicanais.wtf" always_refuse
-
 local-zone: "123freemovieshub.com" always_refuse
 local-zone: "123moviesfreezs.com" always_refuse
 local-zone: "123movieshub4u.com" always_refuse
@@ -8341,3 +8332,16 @@ local-zone: "futemax.band" always_refuse
 local-zone: "futemax.rest" always_refuse
 local-zone: "maxfute.org" always_refuse
 local-zone: "rmcfutebol.com" always_refuse
+local-zone: "073bet9.com" always_refuse
+local-zone: "54999f.com/" always_refuse
+local-zone: "apostas.com" always_refuse
+local-zone: "betl 8k.app" always_refuse
+local-zone: "br.novibet.com" always_refuse
+local-zone: "kangubet.com/live-casino" always_refuse
+local-zone: "mej orcasinos.mx" always_refuse
+local-zone: "netpix.bet" always_refuse
+local-zone: "realsbet.com" always_refuse
+local-zone: "tvbet.com" always_refuse
+local-zone: "uxbet.com.br" always_refuse
+local-zone: "www.bitstarz.com/" always_refuse
+local-zone: "www.flashscore.com.br" always_refuse 
