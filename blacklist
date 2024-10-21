@@ -7009,7 +7009,6 @@ local-zone: "castopg6.com" always_refuse
 local-zone: "castopg7.com" always_refuse
 local-zone: "cazimbo.com.br" always_refuse
 local-zone: "cbc777.com" always_refuse
-local-zone: "cbesportes.com" always_refuse
 local-zone: "cbf365.com" always_refuse
 local-zone: "cbf365.vip" always_refuse
 local-zone: "cbfbets.com" always_refuse
@@ -7051,7 +7050,6 @@ local-zone: "club77.com" always_refuse
 local-zone: "club7711.com" always_refuse
 local-zone: "clubebet.com.br" always_refuse
 local-zone: "clubedabola.vip" always_refuse
-local-zone: "clubedaposta.com" always_refuse
 local-zone: "clubeesportivo.bet" always_refuse
 local-zone: "clubewin.top" always_refuse
 local-zone: "cnc.bet" always_refuse
@@ -7101,7 +7099,6 @@ local-zone: "discuspg.bet" always_refuse
 local-zone: "djbet.org" always_refuse
 local-zone: "dkd777.com" always_refuse
 local-zone: "docura777.cc" always_refuse
-local-zone: "donosdabola.io" always_refuse
 local-zone: "donosdabolabahia.net" always_refuse
 local-zone: "donosdabolabrasil.net" always_refuse
 local-zone: "donutspg.com" always_refuse
@@ -7166,7 +7163,6 @@ local-zone: "esportes.scobets.com" always_refuse
 local-zone: "esportesbet.net" always_refuse
 local-zone: "esportesbets.net" always_refuse
 local-zone: "esportespix.bet" always_refuse
-local-zone: "esportivavip.com" always_refuse
 local-zone: "esportivobets.com" always_refuse
 local-zone: "estorilsolcasinos.pt" always_refuse
 local-zone: "ethjogo7.com" always_refuse
