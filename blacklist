@@ -7555,7 +7555,7 @@ local-zone: "mde.bet" always_refuse
 local-zone: "megabets.bet" always_refuse
 local-zone: "megaganho.site" always_refuse
 local-zone: "megapari.com" always_refuse
-local-zone: "megapix.bet" always_refuse
+# local-zone: "megapix.bet" always_refuse
 local-zone: "mejorcasino.mx" always_refuse
 local-zone: "melbet.com" always_refuse
 local-zone: "melhorbet.io" always_refuse
