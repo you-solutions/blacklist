@@ -8336,3 +8336,4 @@ local-zone: "kangubet.com/live-casino" always_refuse
 local-zone: "mej orcasinos.mx" always_refuse
 local-zone: "www.bitstarz.com/" always_refuse
 local-zone: "www.flashscore.com.br" always_refuse 
+local-zone: "seurateio.com" always_refuse
