@@ -6922,7 +6922,6 @@ local-zone: "brasildasorte.com" always_refuse
 local-zone: "brasiliadg.com" always_refuse
 local-zone: "brasiliapg.com" always_refuse
 local-zone: "brasilsports.bet" always_refuse
-local-zone: "brasilvegas.com" always_refuse
 local-zone: "brazilianpg.com" always_refuse
 local-zone: "brazino777.online" always_refuse
 local-zone: "brbba.com" always_refuse
