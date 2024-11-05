@@ -11044,3 +11044,15 @@ local-zone: "cinpzo.shop" always_refuse
 local-zone: "connbear.com" always_refuse
 local-zone: "epictvhd.fun" always_refuse
 local-zone: "toptvdigital.xyz" always_refuse
+
+local-zone: "galaxyfilmestorrent.com" always_refuse
+local-zone: "halofilmestorrent.org" always_refuse
+local-zone: "ultrafilmestorrent.org" always_refuse
+local-zone: "multicanais.lat" always_refuse
+local-zone: "multicanais.tips" always_refuse
+local-zone: "tvonlinehd.biz" always_refuse
+local-zone: "seriesflix.buzz" always_refuse
+local-zone: "xilften.live" always_refuse
+local-zone: "xilftenfilmes.shop" always_refuse
+local-zone: "financeironews.com" always_refuse
+local-zone: "seriesflix2tv.com" always_refuse
