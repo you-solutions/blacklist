@@ -11067,3 +11067,16 @@ local-zone: "br678.com" always_refuse
 local-zone: "iribet.com" always_refuse
 local-zone: "ninecasino.com" always_refuse
 local-zone: "x1jogo.com" always_refuse
+
+local-zone: "multicanais.nexus" always_refuse
+local-zone: "seriesflix.chat" always_refuse
+local-zone: "superseriesflix.com" always_refuse
+local-zone: "seriesonlinemax.top" always_refuse
+local-zone: "seriesonlinetv.top" always_refuse
+local-zone: "multicanais.bond" always_refuse
+local-zone: "multicanais.pink" always_refuse
+local-zone: "multicanais.show" always_refuse
+local-zone: "multicanais.sn" always_refuse
+local-zone: "seriesflix.homes" always_refuse
+local-zone: "multicanais.im" always_refuse
+local-zone: "multicanais.ski" always_refuse
