@@ -11056,7 +11056,6 @@ local-zone: "xilften.live" always_refuse
 local-zone: "xilftenfilmes.shop" always_refuse
 local-zone: "financeironews.com" always_refuse
 local-zone: "seriesflix2tv.com" always_refuse
-
 local-zone: "cxxbet.com" always_refuse
 local-zone: "7yjogo.com" always_refuse
 local-zone: "4444king.com" always_refuse
@@ -11067,7 +11066,6 @@ local-zone: "br678.com" always_refuse
 local-zone: "iribet.com" always_refuse
 local-zone: "ninecasino.com" always_refuse
 local-zone: "x1jogo.com" always_refuse
-
 local-zone: "multicanais.nexus" always_refuse
 local-zone: "seriesflix.chat" always_refuse
 local-zone: "superseriesflix.com" always_refuse
@@ -11080,3 +11078,5 @@ local-zone: "multicanais.sn" always_refuse
 local-zone: "seriesflix.homes" always_refuse
 local-zone: "multicanais.im" always_refuse
 local-zone: "multicanais.ski" always_refuse
+local-zone: "storecursos.com" always_refuse
+local-zone: "itatiaiamgnoticias.10web.me" always_refuse
