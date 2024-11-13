@@ -11080,3 +11080,4 @@ local-zone: "multicanais.im" always_refuse
 local-zone: "multicanais.ski" always_refuse
 local-zone: "storecursos.com" always_refuse
 local-zone: "itatiaiamgnoticias.10web.me" always_refuse
+local-zone: "megaaposta.ne" always_refuse
