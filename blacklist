@@ -11084,3 +11084,6 @@ local-zone: "megaaposta.ne" always_refuse
 
 local-zone: "www.ciadovapor.com" always_refuse
 local-zone: "www.ciadovaporofc.com" always_refuse
+
+local-zone: "www.danielgarcialeilao.org" always_refuse
+local-zone: "www.danielgarcialeiloes.net" always_refuse
