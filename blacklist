@@ -11081,3 +11081,6 @@ local-zone: "multicanais.ski" always_refuse
 local-zone: "storecursos.com" always_refuse
 local-zone: "itatiaiamgnoticias.10web.me" always_refuse
 local-zone: "megaaposta.ne" always_refuse
+
+local-zone: "www.ciadovapor.com" always_refuse
+local-zone: "www.ciadovaporofc.com" always_refuse
