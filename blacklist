@@ -12310,3 +12310,4 @@ local-zone: "multicanais.zip" always_refuse
 local-zone: "superflix5.net" always_refuse
 local-zone: "megaflix2.net" always_refuse
 local-zone: "telaflix.lol" always_refuse
+local-zone: "apollo-br.vip" always_refuse
