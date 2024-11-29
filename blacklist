@@ -12459,3 +12459,4 @@ local-zone: "smtplay.com" always_refuse
 local-zone: "t2cli.xyz" always_refuse
 local-zone: "vcdn.pro" always_refuse
 local-zone: "zes2.top" always_refuse
+local-zone: "rateiodigital.com" always_refuse
