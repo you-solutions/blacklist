@@ -6921,7 +6921,7 @@ local-zone: "brasildasorte.com" always_refuse
 local-zone: "brasiliadg.com" always_refuse
 local-zone: "brasiliapg.com" always_refuse
 local-zone: "brasilsports.bet" always_refuse
-local-zone: "brasilvegas.com" always_refuse
+# local-zone: "brasilvegas.com" always_refuse
 local-zone: "brazilianpg.com" always_refuse
 local-zone: "brazino777.online" always_refuse
 local-zone: "brbba.com" always_refuse
@@ -7682,7 +7682,7 @@ local-zone: "paraiso-777.com" always_refuse
 local-zone: "paratysports.com" always_refuse
 local-zone: "parazaobet.com" always_refuse
 local-zone: "parisjogo.bet" always_refuse
-local-zone: "partypoker.com" always_refuse
+# local-zone: "partypoker.com" always_refuse
 local-zone: "patopg.com" always_refuse
 local-zone: "patria777.com" always_refuse
 local-zone: "paxabet.com" always_refuse
@@ -7736,7 +7736,7 @@ local-zone: "playbets.bet" always_refuse
 local-zone: "playbets.net.br" always_refuse
 local-zone: "playpix.center" always_refuse
 local-zone: "playsakura.com" always_refuse
-local-zone: "playuzu.com" always_refuse
+# local-zone: "playuzu.com" always_refuse
 local-zone: "plazaroyal.com" always_refuse
 local-zone: "poapg.net" always_refuse
 local-zone: "podersports.bet.br" always_refuse
@@ -8170,7 +8170,7 @@ local-zone: "xxxboi.com" always_refuse
 local-zone: "xxxsports.bet" always_refuse
 local-zone: "yasminpg.com" always_refuse
 local-zone: "yeezypg.com" always_refuse
-local-zone: "yogonet.com" always_refuse
+# local-zone: "yogonet.com" always_refuse
 local-zone: "yonexpg.com" always_refuse
 local-zone: "youwin.com" always_refuse
 local-zone: "youwin777.win" always_refuse
@@ -8329,11 +8329,11 @@ local-zone: "rmcfutebol.com" always_refuse
 local-zone: "073bet9.com" always_refuse
 local-zone: "54999f.com/" always_refuse
 local-zone: "betl 8k.app" always_refuse
-local-zone: "br.novibet.com" always_refuse
+# local-zone: "br.novibet.com" always_refuse
 local-zone: "kangubet.com/live-casino" always_refuse
 local-zone: "mej orcasinos.mx" always_refuse
 local-zone: "www.bitstarz.com/" always_refuse
-local-zone: "www.flashscore.com.br" always_refuse 
+# local-zone: "www.flashscore.com.br" always_refuse 
 local-zone: "seurateio.com" always_refuse
 local-zone: "politicaregional.blog" always_refuse
 local-zone: "www.betex.com" always_refuse
@@ -11080,7 +11080,7 @@ local-zone: "megaaposta.ne" always_refuse
 local-zone: "www.ciadovapor.com" always_refuse
 local-zone: "www.ciadovaporofc.com" always_refuse
 local-zone: "www.danielgarcialeilao.org" always_refuse
-local-zone: "www.danielgarcialeiloes.net" always_refuse
+# local-zone: "www.danielgarcialeiloes.net" always_refuse
 local-zone: "0bet0.com" always_refuse
 local-zone: "0bet88.com" always_refuse
 local-zone: "0bet888.bet" always_refuse
