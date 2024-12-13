@@ -12931,3 +12931,4 @@ local-zone: "multicanais.navy" always_refuse
 local-zone: "baixafilmestorrent.org" always_refuse
 local-zone: "multicanais.how" always_refuse
 local-zone: "netcine.ac" always_refuse
+local-zone: "pontodosrateios.com" always_refuse
