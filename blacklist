@@ -12943,3 +12943,4 @@ local-zone: "multicanais.krd" always_refuse
 local-zone: "supertelabr.pro" always_refuse
 local-zone: "multicanais.mn" always_refuse
 local-zone: "serieflix.cv" always_refuse
+local-zone: "folhanews5.com" always_refuse
