@@ -12932,3 +12932,14 @@ local-zone: "baixafilmestorrent.org" always_refuse
 local-zone: "multicanais.how" always_refuse
 local-zone: "netcine.ac" always_refuse
 local-zone: "pontodosrateios.com" always_refuse
+local-zone: "comandofilmestorrentshd.com" always_refuse
+local-zone: "multicanais.gl" always_refuse
+local-zone: "seriesflix2tv.net" always_refuse
+local-zone: "topseriesflix.me" always_refuse
+local-zone: "seuseriadoonline.net" always_refuse
+local-zone: "youcinevision.biz" always_refuse
+local-zone: "multicanais.games" always_refuse
+local-zone: "multicanais.krd" always_refuse
+local-zone: "supertelabr.pro" always_refuse
+local-zone: "multicanais.mn" always_refuse
+local-zone: "serieflix.cv" always_refuse
