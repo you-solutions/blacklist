@@ -6546,7 +6546,7 @@ local-zone: "97p.casino" always_refuse
 local-zone: "97r.casino" always_refuse
 local-zone: "97s.casino" always_refuse
 local-zone: "982bet.com" always_refuse
-local-zone: "98br.com" always_refuse
+#local-zone: "98br.com" always_refuse
 local-zone: "98k-pg.com" always_refuse
 local-zone: "992bet6.com" always_refuse
 local-zone: "999bb.com" always_refuse
