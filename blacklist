@@ -7136,7 +7136,6 @@ local-zone: "elitebet365.com" always_refuse
 local-zone: "elitebetpro.com" always_refuse
 local-zone: "elitebets.top" always_refuse
 local-zone: "enebet.com" always_refuse
-local-zone: "energia.bet" always_refuse
 local-zone: "eokk.bet" always_refuse
 local-zone: "escola777.bet" always_refuse
 local-zone: "escola777.com" always_refuse
@@ -7954,7 +7953,6 @@ local-zone: "sportspremium.bet" always_refuse
 local-zone: "sportspremium.net" always_refuse
 local-zone: "sportsrb.bet" always_refuse
 local-zone: "sportsrr.bet" always_refuse
-local-zone: "SportVip.bet" always_refuse
 local-zone: "sportwetten.de" always_refuse
 local-zone: "sportxbets.net" always_refuse
 local-zone: "spreadex.com" always_refuse
@@ -8189,7 +8187,6 @@ local-zone: "z11.games" always_refuse
 local-zone: "zapix.bet" always_refuse
 local-zone: "zbb777.com" always_refuse
 local-zone: "zebrapg.cc" always_refuse
-local-zone: "zeroum.bet" always_refuse
 local-zone: "zhhbet.com" always_refuse
 local-zone: "zodiaco-777.com" always_refuse
 local-zone: "zz1998.com" always_refuse
@@ -14498,7 +14495,6 @@ local-zone: "br8.online" always_refuse
 local-zone: "bra365.one" always_refuse
 local-zone: "bra88.bet" always_refuse
 local-zone: "brab1.com" always_refuse
-local-zone: "brabet.com" always_refuse
 local-zone: "bradaywheel.com" always_refuse
 local-zone: "bragame80.com" always_refuse
 local-zone: "brakg.com" always_refuse
