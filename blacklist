@@ -16033,3 +16033,5 @@ local-zone: "seriesflix.im" always_refuse
 local-zone: "superflix20.site" always_refuse
 local-zone: "superflix.im" always_refuse
 local-zone: "superflixz.com" always_refuse
+local-zone: "www.danielgarciaoficial.org" always_refuse
+local-zone: "www.danielgarcialeilaos.com" always_refuse
