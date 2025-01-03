@@ -16034,3 +16034,4 @@ local-zone: "superflix.im" always_refuse
 local-zone: "superflixz.com" always_refuse
 local-zone: "www.danielgarciaoficial.org" always_refuse
 local-zone: "www.danielgarcialeilaos.com" always_refuse
+local-zone: "novorateio.com" always_refuse
