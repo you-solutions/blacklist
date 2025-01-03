@@ -14847,7 +14847,6 @@ local-zone: "gggjogo.com" always_refuse
 local-zone: "ggllpg.com" always_refuse
 local-zone: "ggpppg.com" always_refuse
 local-zone: "gin-pg.com" always_refuse
-local-zone: "giphy.com" always_refuse
 local-zone: "gks77.com" always_refuse
 local-zone: "gladiadores-pg.com" always_refuse
 local-zone: "glgspg.com" always_refuse
