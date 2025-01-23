@@ -17329,3 +17329,5 @@ local-zone: "zzzz14.com" always_refuse
 local-zone: "zzzz3.com" always_refuse
 local-zone: "zzzz666.com" always_refuse
 local-zone: "zzzz7.com" always_refuse
+local-zone: "netcinetv.la" always_refuse
+local-zone: "supertela.store" always_refuse
