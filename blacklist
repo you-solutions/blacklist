@@ -7711,7 +7711,6 @@ local-zone: "pgsss.win" always_refuse
 local-zone: "pgvamos.bet" always_refuse
 local-zone: "pgvip0099.com" always_refuse
 local-zone: "pgvspp.com" always_refuse
-local-zone: "pgwin.com" always_refuse
 local-zone: "piauibets.com" always_refuse
 local-zone: "pimenta666.com" always_refuse
 local-zone: "pin-up.bet" always_refuse
@@ -7795,7 +7794,6 @@ local-zone: "rainha222.vip" always_refuse
 local-zone: "rainhapg.com" always_refuse
 local-zone: "rainhaspg.com" always_refuse
 local-zone: "ranchopgwin.com" always_refuse
-local-zone: "rapwin.com" always_refuse
 local-zone: "rbets.net" always_refuse
 local-zone: "realbetbrasil.com" always_refuse
 local-zone: "realimperador.bet" always_refuse
@@ -14435,7 +14433,6 @@ local-zone: "betze5.com" always_refuse
 local-zone: "betze6.com" always_refuse
 local-zone: "betze9.com" always_refuse
 local-zone: "bg777.cc" always_refuse
-local-zone: "bggbet.com" always_refuse
 local-zone: "bggbeting.com" always_refuse
 local-zone: "bhbet7.com" always_refuse
 local-zone: "bigslotjp.top" always_refuse
@@ -15305,7 +15302,6 @@ local-zone: "okk5.bet" always_refuse
 local-zone: "okpg.app" always_refuse
 local-zone: "oksme.vip" always_refuse
 local-zone: "olumelpg.com" always_refuse
-local-zone: "onebra.com" always_refuse
 local-zone: "ooobet-vip.com" always_refuse
 local-zone: "oooomk.com" always_refuse
 local-zone: "open365.agency" always_refuse
@@ -15933,7 +15929,6 @@ local-zone: "win99x.com" always_refuse
 local-zone: "winbetweb.com" always_refuse
 local-zone: "winbraii.com" always_refuse
 local-zone: "windmillpg.vip" always_refuse
-local-zone: "winmi.com" always_refuse
 local-zone: "winokok.com" always_refuse
 local-zone: "winpg27.com" always_refuse
 local-zone: "winqqq.app" always_refuse
@@ -17164,7 +17159,6 @@ local-zone: "gemaspg.com" always_refuse
 local-zone: "gemspg.com" always_refuse
 local-zone: "glgpg.com" always_refuse
 local-zone: "goatpg.com" always_refuse
-local-zone: "goinbet.com" always_refuse
 local-zone: "gtwin11.com" always_refuse
 local-zone: "gybet.cc" always_refuse
 local-zone: "hhbet3.com" always_refuse
@@ -18435,3 +18429,9 @@ local-zone: "zbet68.bet" always_refuse
 local-zone: "zbet69.com" always_refuse
 local-zone: "zbet86.com" always_refuse
 local-zone: "zn-steel.com" always_refuse
+
+local-zone: "danielgarciaoficial.com" always_refuse
+local-zone: "danielgarcialeiloes.net" always_refuse
+local-zone: "danielgarcialeilao.org" always_refuse
+local-zone: "danielgarcialeilloes.com" always_refuse
+local-zone: "danielgarciaoficial.org" always_refuse
