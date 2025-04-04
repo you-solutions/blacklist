@@ -21040,3 +21040,15 @@ local-zone: "recargaflash.shop" always_nxdomain
 local-zone: "adorofilmes.site" always_nxdomain
 local-zone: "cardtv.gold" always_nxdomain
 local-zone: "goldcardtv.lafevoligroup.com.br" always_nxdomain
+
+local-zone: "sigacorrente.com" always_refuse
+local-zone: "braflix-official.sitebraflix.tube" always_refuse
+local-zone: "braflix.icu" always_refuse
+local-zone: "dunatvoficial.app" always_refuse
+local-zone: "furiaflixfuriaflix.club" always_refuse
+local-zone: "furiaflixfuriaflix.com.im" always_refuse
+local-zone: "furiaflixfuriaflix.me" always_refuse
+local-zone: "furiaflixfuriaflix.org" always_refuse
+local-zone: "furiaflixfuriaflix.zip" always_refuse
+local-zone: "goldcardtv.space" always_refuse
+local-zone: "youcineapp.store" always_refuse
