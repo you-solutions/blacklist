@@ -21703,3 +21703,8 @@ local-zone: "unitvoficial.shop" always_refuse
 local-zone: "unitvrecargaoficial.xyz" always_refuse
 local-zone: "unitvrevenda.com.br" always_refuse
 local-zone: "unitvstore.com.br" always_refuse
+
+local-zone: "canaistop.info" always_refuse
+local-zone: "multicanais.florist" always_refuse
+local-zone: "multicanais.ke" always_refuse
+local-zone: "seriesflix.date" always_refuse
