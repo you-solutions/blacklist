@@ -20072,20 +20072,14 @@ local-zone: "4545br.com" always_refuse
 local-zone: "456tiger.com" always_refuse
 local-zone: "4mochilaspg.com" always_refuse
 local-zone: "53br.com" always_refuse
-local-zone: "5500win.com" always_refuse
 local-zone: "551br.com" always_refuse
-local-zone: "5588win.com" always_refuse
 local-zone: "5589win.com" always_refuse
 local-zone: "5597br.com" always_refuse
 local-zone: "55u.org" always_refuse
 local-zone: "5666win.com" always_refuse
 local-zone: "5678br.com" always_refuse
 local-zone: "575br.com" always_refuse
-local-zone: "5766win.com" always_refuse
 local-zone: "5768br.com" always_refuse
-local-zone: "5770win.com" always_refuse
-local-zone: "5780win.com" always_refuse
-local-zone: "5790win.com" always_refuse
 local-zone: "580br.com" always_refuse
 local-zone: "5853g.com" always_refuse
 local-zone: "58tcaxm53.vip" always_refuse
@@ -20126,14 +20120,11 @@ local-zone: "8388win.com" always_refuse
 local-zone: "8588win.com" always_refuse
 local-zone: "8788win.com" always_refuse
 local-zone: "878br.com" always_refuse
-local-zone: "8828win.com" always_refuse
 local-zone: "8888br.com" always_refuse
 local-zone: "888mar.com" always_refuse
 local-zone: "89kvip.com" always_refuse
 local-zone: "89tiger.com" always_refuse
 local-zone: "909623.com" always_refuse
-local-zone: "9199win.com" always_refuse
-local-zone: "9299win.com" always_refuse
 local-zone: "955br.com" always_refuse
 local-zone: "977br.com" always_refuse
 local-zone: "97games.bet" always_refuse
@@ -20148,21 +20139,12 @@ local-zone: "ap777.com" always_refuse
 local-zone: "ap777.me" always_refuse
 local-zone: "aysllabet.com" always_refuse
 local-zone: "bbgg777.com" always_refuse
-local-zone: "bbrbet0002.com" always_refuse
-local-zone: "bbrbet0003.com" always_refuse
-local-zone: "bbrbet0004.com" always_refuse
-local-zone: "bbrbet0005.com" always_refuse
 local-zone: "bbrbet0007.com" always_refuse
-local-zone: "bbrbet0008.com" always_refuse
-local-zone: "bbrbet0009.com" always_refuse
 local-zone: "bbrbet0011.com" always_refuse
 local-zone: "bbrbet0012.com" always_refuse
 local-zone: "bbrbet0013.com" always_refuse
-local-zone: "bbrbet0014.com" always_refuse
 local-zone: "bbrbet0015.com" always_refuse
-local-zone: "bbrbet0016.com" always_refuse
 local-zone: "bbrbet0017.com" always_refuse
-local-zone: "bbrbet0018.com" always_refuse
 local-zone: "bbrbet0019.com" always_refuse
 local-zone: "bbrbet0020.com" always_refuse
 local-zone: "bbrbet0021.com" always_refuse
@@ -20254,7 +20236,6 @@ local-zone: "reals.ofc.bet" always_refuse
 local-zone: "recebabonus.com" always_refuse
 local-zone: "rwinlink.pages.dev" always_refuse
 local-zone: "s29.space" always_refuse
-local-zone: "s7betpg.com" always_refuse
 local-zone: "senna777pg.com" always_refuse
 local-zone: "seuwin11.org" always_refuse
 local-zone: "shazamcasino.com" always_refuse
@@ -20734,7 +20715,6 @@ local-zone: "betbra.com" always_refuse
 local-zone: "b555.co" always_refuse
 local-zone: "magic-jackpot.net" always_refuse
 
-local-zone: "333bet.com" always_nxdomain
 local-zone: "6655bet.com" always_nxdomain
 local-zone: "mel881.com" always_nxdomain
 local-zone: "gabipg.com" always_nxdomain
@@ -20938,7 +20918,6 @@ local-zone: "bet36.win" always_nxdomain
 local-zone: "bet59500.com" always_nxdomain
 local-zone: "w1-correndo.com" always_nxdomain
 local-zone: "piano777.vip" always_nxdomain
-local-zone: "393bet13.com" always_nxdomain
 local-zone: "h44bet.com" always_nxdomain
 local-zone: "6660game.com" always_nxdomain
 local-zone: "rabbit377.com" always_nxdomain
@@ -21038,17 +21017,12 @@ local-zone: "adorofilmes.site" always_nxdomain
 local-zone: "cardtv.gold" always_nxdomain
 local-zone: "goldcardtv.lafevoligroup.com.br" always_nxdomain
 
-local-zone: "sigacorrente.com" always_refuse
 local-zone: "braflix-official.sitebraflix.tube" always_refuse
-local-zone: "braflix.icu" always_refuse
-local-zone: "dunatvoficial.app" always_refuse
 local-zone: "furiaflixfuriaflix.club" always_refuse
 local-zone: "furiaflixfuriaflix.com.im" always_refuse
 local-zone: "furiaflixfuriaflix.me" always_refuse
 local-zone: "furiaflixfuriaflix.org" always_refuse
 local-zone: "furiaflixfuriaflix.zip" always_refuse
-local-zone: "goldcardtv.space" always_refuse
-local-zone: "youcineapp.store" always_refuse
 
 local-zone: "seriesflixtv2.pro" always_refuse
 local-zone: "seriesflix.win" always_refuse
@@ -21150,13 +21124,11 @@ local-zone: "bet5055.com" always_refuse
 local-zone: "d155d5imnoywea.cloudfront.net" always_refuse
 local-zone: "bet97999.com" always_refuse
 local-zone: "30xbet.net" always_refuse
-local-zone: "bet58516.com" always_refuse
 local-zone: "9992bet.org" always_refuse
 local-zone: "6500bet.com" always_refuse
 local-zone: "881bet8.com" always_refuse
 local-zone: "bw321.shop" always_refuse
 local-zone: "79bet31.com" always_refuse
-local-zone: "bet252.com" always_refuse
 local-zone: "576352.com" always_refuse
 local-zone: "850bet26.com" always_refuse
 local-zone: "312bet21.com" always_refuse
@@ -21165,11 +21137,9 @@ local-zone: "5hbet.vip" always_refuse
 local-zone: "3fun1911.com" always_refuse
 local-zone: "bet10v.com" always_refuse
 local-zone: "w1-ballet.com" always_refuse
-local-zone: "lf-durian.com" always_refuse
 local-zone: "mymelody777.com" always_refuse
 local-zone: "bicicletapg.com" always_refuse
 local-zone: "tangelo17.com" always_refuse
-local-zone: "alfagold777.com" always_refuse
 local-zone: "166mouse.com" always_refuse
 local-zone: "70pmbet333.com" always_refuse
 local-zone: "b70pmbet.com" always_refuse
@@ -21204,8 +21174,6 @@ local-zone: "cardwin.sk" always_refuse
 local-zone: "patekmk5.com" always_refuse
 local-zone: "wall-epg.com" always_refuse
 local-zone: "brjogos3.cc" always_refuse
-local-zone: "6666bet.vip" always_refuse
-local-zone: "w1-fencing.com" always_refuse
 local-zone: "qq888.biz" always_refuse
 local-zone: "ff99922.com" always_refuse
 local-zone: "cc99911.com" always_refuse
@@ -21225,12 +21193,8 @@ local-zone: "gj49g3.com" always_refuse
 
 local-zone: "joaodograuoficial.com.br" always_refuse
 local-zone: "danielgarcialeiloesoficial.com" always_refuse
-local-zone: "danielgarcialeiloes.net" always_refuse
-local-zone: "danielgarcialeilao.org" always_refuse
 local-zone: "danielgarcialeilloes.com" always_refuse
-local-zone: "danielgarciaoficial.org" always_refuse
 local-zone: "danielgarcialeilaos.com" always_refuse
-local-zone: "danielgarciaoficial.com" always_refuse
 local-zone: "danielgarciaoficialbr.com" always_refuse
 local-zone: "filmes.cc" always_refuse
 local-zone: "hdrtorrent.com" always_refuse
@@ -21259,23 +21223,10 @@ local-zone: "seriesflixtv2.ws" always_refuse
 local-zone: "superflixapi.cx" always_refuse
 local-zone: "superflixapi.dev" always_refuse
 local-zone: "superflixhd.mobi" always_refuse
-local-zone: "filmestorrent.top" always_refuse
-local-zone: "filmestorrentes.me" always_refuse
-local-zone: "multicanaistv.ws" always_refuse
-local-zone: "netcine.gd" always_refuse
-local-zone: "netcinetv.ch" always_refuse
-local-zone: "seriesflix.dev" always_refuse
-local-zone: "seriesflixtv2.ws" always_refuse
-local-zone: "superflixapi.cx" always_refuse
-local-zone: "superflixapi.dev" always_refuse
-local-zone: "superflixhd.mobi" always_refuse
 
 local-zone: "multicanais.rehab" always_refuse
 local-zone: "multicanais.bi" always_refuse
 local-zone: "multicanais.asia" always_refuse
-local-zone: "multicanais.asia" always_refuse
-local-zone: "multicanais.bi" always_refuse
-local-zone: "multicanais.rehab" always_refuse
 
 local-zone: "123movie.pics" always_refuse
 local-zone: "123moviefreesite.com" always_refuse
@@ -21716,7 +21667,6 @@ local-zone: "18brl.top" always_refuse
 local-zone: "2025-win.com" always_refuse
 local-zone: "2344bet.com" always_refuse
 local-zone: "23bet29.com" always_refuse
-local-zone: "2877bet.vip" always_refuse
 local-zone: "2abet14.com" always_refuse
 local-zone: "30xbet.com" always_refuse
 local-zone: "30xbet1.com" always_refuse
@@ -21740,8 +21690,6 @@ local-zone: "5gbet77.com" always_refuse
 local-zone: "5nv.top" always_refuse
 local-zone: "5nw.top" always_refuse
 local-zone: "6020bet.com" always_refuse
-local-zone: "6655bet.com" always_refuse
-local-zone: "6680bet.com" always_refuse
 local-zone: "67bet29.com" always_refuse
 local-zone: "68brl.com" always_refuse
 local-zone: "707bet17.com" always_refuse
@@ -21759,7 +21707,6 @@ local-zone: "8855bet29.com" always_refuse
 local-zone: "888jogo52.com" always_refuse
 local-zone: "8bmw.cc" always_refuse
 local-zone: "8casino26.com" always_refuse
-local-zone: "8casino99.com" always_refuse
 local-zone: "922bet.one" always_refuse
 local-zone: "922bet6.com" always_refuse
 local-zone: "922bet8.com" always_refuse
