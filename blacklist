@@ -22421,11 +22421,9 @@ local-zone: "5757win111.com" always_refuse
 local-zone: "5757win222.com" always_refuse
 local-zone: "5757win333.com" always_refuse
 local-zone: "5757win444.com" always_refuse
-local-zone: "5757win555.com" always_refuse
 local-zone: "5757win777.com" always_refuse
 local-zone: "5757win888.com" always_refuse
 local-zone: "5757win999.com" always_refuse
-local-zone: "5757win.com" always_refuse
 local-zone: "slots367.com" always_refuse
 local-zone: "pgbeti.com" always_refuse
 local-zone: "dwwv7zbg9vnm4.cloudfront.net" always_refuse
