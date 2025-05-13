@@ -22166,7 +22166,13 @@ local-zone: "777love.cc" always_refuse
 local-zone: "okk6.me" always_refuse
 local-zone: "kkk3.vip" always_refuse
 local-zone: "2ambet33.com" always_refuse
-local-zone: "9d.bet.br" always_refuse
+
+#==================================================
+#https://sistemas.anatel.gov.br/anexar-api/publico/anexos/download/51661364ac3baa288691ad56bc9c564c
+#
+#local-zone: "9d.bet.br" always_refuse
+#==================================================
+
 local-zone: "w1-futebol.com" always_refuse
 local-zone: "4444win.win" always_refuse
 local-zone: "535bet4.com" always_refuse
@@ -22252,7 +22258,13 @@ local-zone: "gtwin26.com" always_refuse
 local-zone: "pc.carnaval-hk.com" always_refuse
 local-zone: "bet29p.com" always_refuse
 local-zone: "23bet25.com" always_refuse
-local-zone: "wee.bet" always_refuse
+
+#==================================================
+#https://sistemas.anatel.gov.br/anexar-api/publico/anexos/download/51661364ac3baa288691ad56bc9c564c
+#
+#local-zone: "wee.bet" always_refuse
+#==================================================
+
 local-zone: "bet58515.com" always_refuse
 local-zone: "xjwin26.com" always_refuse
 local-zone: "utbet29.com" always_refuse
