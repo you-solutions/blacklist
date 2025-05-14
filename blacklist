@@ -22476,3 +22476,9 @@ local-zone: "popbra99.com" always_refuse
 local-zone: "a3.mom-777.vi" always_refuse
 local-zone: "x8h6s7.com" always_refuse
 local-zone: "fr8ppwjnnjm.com" always_refuse
+
+#============================================================================
+#
+#https://sistemas.anatel.gov.br/anexar-api/publico/anexos/download/4915722967b79ee7e90a03b7fa3a9580
+local-zone: "limontorrents.com" always_refuse
+#============================================================================
