@@ -22482,3 +22482,16 @@ local-zone: "fr8ppwjnnjm.com" always_refuse
 #https://sistemas.anatel.gov.br/anexar-api/publico/anexos/download/4915722967b79ee7e90a03b7fa3a9580
 local-zone: "limontorrents.com" always_refuse
 #============================================================================
+#
+#https://yousolutions.monday.com/boards/8077084953/pulses/9136631571
+local-zone: "xn--777sopaulo-i5a.me" always_refuse
+local-zone: "a188.bar" always_refuse
+local-zone: "chapinhapg.com" always_refuse
+local-zone: "ckbet2000.com" always_refuse
+local-zone: "888win53.com" always_refuse
+local-zone: "euzzqcc.com" always_refuse
+local-zone: "blbet3.vip" always_refuse
+local-zone: "788u8.com" always_refuse
+local-zone: "hk1dbym0bt.com" always_refuse
+local-zone: "a3.mom-777.vip" always_refuse
+#============================================================================
