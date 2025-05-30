@@ -22495,3 +22495,12 @@ local-zone: "788u8.com" always_refuse
 local-zone: "hk1dbym0bt.com" always_refuse
 local-zone: "a3.mom-777.vip" always_refuse
 #============================================================================
+
+#=============================================================================
+#https://sistemas.anatel.gov.br/anexar-api/publico/anexos/download/e7a9e93786afbb1208e01e12de400dd9
+#https://sistemas.anatel.gov.br/anexar-api/publico/anexos/download/31da3f0a65218c7f5ea105cda8009f1b
+
+local-zone: "wolfshopbrasil.com" always_refuse
+local-zone: "sampavapor.com" always_refuse
+local-zone: "senhorvaporbrasil.com" always_refuse
+
