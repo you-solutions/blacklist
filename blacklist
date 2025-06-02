@@ -22722,3 +22722,53 @@ local-zone: "topflixcaiu.com" always_refuse
 #
 # Ofício nº 075/2025-Del 
 local-zone: "servicoiptvplus.com.br" always_refuse
+#
+# https://yousolutions.monday.com/boards/8077084953/pulses/9101269935
+# Ofício nº 076/2025-Del
+local-zone: "123movies.ms" always_refuse
+local-zone: "fmoviesz.ws" always_refuse
+local-zone: "ww1-fmovies.com" always_refuse
+local-zone: "flixhq-tv.cfd" always_refuse
+local-zone: "hdfilme.forum" always_refuse
+local-zone: "hdfilme1.my" always_refuse
+local-zone: "hdflix1.space" always_refuse
+local-zone: "pelisplusmax.com" always_refuse
+local-zone: "familiared.tv" always_refuse
+
+#
+# https://yousolutions.monday.com/boards/8077084953/pulses/9101269935
+# Ofício nº 077/2025-Del
+local-zone: "assistirfilmesonlinehd.net" always_refuse
+local-zone: "futemax.asia" always_refuse
+local-zone: "futemax.ng" always_refuse
+local-zone: "futemaxtv.la" always_refuse
+local-zone: "pobreflixtv.tel" always_refuse
+local-zone: "playunitv.com" always_refuse
+#
+# https://yousolutions.monday.com/boards/8077084953/pulses/9101269935
+# Ofício nº 079/2025-Del 
+local-zone: "assistirtvonlinebr.com.br" always_refuse
+local-zone: "fuhdtv.com.br" always_refuse
+local-zone: "supertvaovivo.app" always_refuse
+local-zone: "tvonlinebr.com.br" always_refuse
+local-zone: "vertvonline.com.br" always_refuse
+local-zone: "baixefilmesgratis.top" always_refuse
+local-zone: "futemax.it" always_refuse
+local-zone: "futemax.loan" always_refuse
+local-zone: "futemax.lol" always_refuse
+local-zone: "ofutemax.com" always_refuse
+local-zone: "megafilmeshd50.uno" always_refuse
+local-zone: "topflixtorrent.net" always_refuse
+#
+# https://yousolutions.monday.com/boards/8077084953/pulses/9101269935
+# Ofício nº 080/2025-Del 
+local-zone: "bflixofficial.com" always_refuse
+local-zone: "cuevana3ver.biz" always_refuse
+local-zone: "fmoviestv.tv" always_refuse
+local-zone: "eppicinemabr.com.br" always_refuse
+local-zone: "pelisplus.ing" always_refuse
+local-zone: "thepiratefilmeshd.com.br" always_refuse
+#
+# https://yousolutions.monday.com/boards/8077084953/pulses/9101269935
+# Ofício nº 081/2025-Del  
+local-zone: "topflix.now" always_refuse
