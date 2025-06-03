@@ -22772,3 +22772,7 @@ local-zone: "thepiratefilmeshd.com.br" always_refuse
 # https://yousolutions.monday.com/boards/8077084953/pulses/9101269935
 # Ofício nº 081/2025-Del  
 local-zone: "topflix.now" always_refuse
+
+#Decisão judicial. 1ª Juizado Especial Cível de São José dos Pinhais. TJPR. 0008556-88.2025.8.16.0035. Bloqueio de domínio.
+#OFÍCIO nº 213/2025
+local-zone: "sebet.tv" always_refuse
