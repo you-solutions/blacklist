@@ -22776,3 +22776,26 @@ local-zone: "topflix.now" always_refuse
 #Decisão judicial. 1ª Juizado Especial Cível de São José dos Pinhais. TJPR. 0008556-88.2025.8.16.0035. Bloqueio de domínio.
 #OFÍCIO nº 213/2025
 local-zone: "sebet.tv" always_refuse
+
+#
+#Ofício nº 21-E/2025-ANCINE/SRG
+#https://sistemas.anatel.gov.br/anexar-api/publico/anexos/download/2d99282e9dcf2ffea098e15d08d001a8
+local-zone: "futemax.free" always_refuse
+local-zone: "nossoplayeronlinehd.net" always_refuse
+local-zone: "chora-embedflix.shop" always_refuse
+local-zone: "hls.chora-embedflix.shop" always_refuse
+local-zone: "embedtv-1.icu" always_refuse
+local-zone: "futemaxtv.to" always_refuse
+local-zone: "topflixplus.me" always_refuse
+local-zone: "multicanais.vision" always_refuse
+local-zone: "streamtp3.com" always_refuse
+local-zone: "streamtp4.com" always_refuse
+local-zone: "lima.crackstreamslivehd.com" always_refuse
+local-zone: "la12hd.com" always_refuse
+local-zone: "ag9wzq.fubohd.com" always_refuse
+local-zone: "multicanais.casa" always_refuse
+local-zone: "multiplayhd.com" always_refuse
+local-zone: "multicanais.maison" always_refuse
+local-zone: "pecdl1.crackstreamslivehd.com" always_refuse
+local-zone: "futbollibregoltv.com" always_refuse
+local-zone: "x4bnd7lq.fubohd.com" always_refuse
