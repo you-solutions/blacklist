@@ -22999,3 +22999,73 @@ local-zone: "youcine-apk.com" always_refuse
 local-zone: "youcine.link" always_refuse
 local-zone: "youcine.zip" always_refuse
 local-zone: "youcinee.com" always_refuse
+
+#https://yousolutions.monday.com/boards/8077084953/pulses/9247768493
+#Ofício nº 15330092 3 CyberGaeco Ref.: SEI 29.0001.0082235.2022-78
+#Ordem de bloqueio autos nº 1031339-38.2022.8.26.0050 - DIPO
+local-zone: "seriesflixtv2.cloud" always_refuse
+local-zone: "canaismulti.top" always_refuse
+local-zone: "multicanais.gifts" always_refuse
+local-zone: "multicanais.ren" always_refuse
+local-zone: "seriesflix.cfd" always_refuse
+local-zone: "oficialcinevision.com" always_refuse
+local-zone: "hiperfilmestorrent.pro" always_refuse
+local-zone: "megatorrenthd1.xyz" always_refuse
+local-zone: "multicanais.channel" always_refuse
+local-zone: "multicanais.mw" always_refuse
+local-zone: "multicanais.ng" always_refuse
+local-zone: "multicanaishd.net" always_refuse
+local-zone: "netcinez.ch" always_refuse
+local-zone: "seriesflix.help" always_refuse
+local-zone: "seriesflix.pw" always_refuse
+local-zone: "seriesonline.vip" always_refuse
+local-zone: "superflix.cloud" always_refuse
+local-zone: "superflixapi.co" always_refuse
+local-zone: "superflixapi.in" always_refuse
+local-zone: "superflixtv.me" always_refuse
+
+#https://yousolutions.monday.com/boards/8077084953/pulses/9247768493
+#Ofício nº 15345817 – CyberGaeco Ref.: SEI 29.0001.0082235.2022-78
+#Ordem de bloqueio autos nº 1031339-38.2022.8.26.0050 - DIPO
+local-zone: "superflixapi.nexus" always_refuse
+local-zone: "mega-torrent5.com" always_refuse
+local-zone: "mega-torrent6.com" always_refuse
+local-zone: "multicanais.guide" always_refuse
+local-zone: "seuseriado.icu" always_refuse
+
+#https://yousolutions.monday.com/boards/8077084953/pulses/9247768493
+#Ofício nº 15367930/2025 – CyberGaeco Ref.: SEI 29.0001.0082235.2022-78
+#Ordem de bloqueio autos nº 1031339-38.2022.8.26.0050 - DIPO
+local-zone: "multicanais.br.com" always_refuse
+local-zone: "multicanais.family" always_refuse
+local-zone: "multicanais.finance" always_refuse
+local-zone: "multicanais.lease" always_refuse
+local-zone: "multicanais.nagoya" always_refuse
+local-zone: "multicanaistv.co" always_refuse
+local-zone: "netcinez.li" always_refuse
+local-zone: "seriesflix.tel" always_refuse
+local-zone: "xn--kksrenoveringlinkping-hecq.nu" always_refuse
+local-zone: "megatorrentshd-hydra.blogspot.com" always_refuse
+
+#https://yousolutions.monday.com/boards/8077084953/pulses/9247768493
+#Ofício nº 15374904/2025 – CyberGaeco Ref.: SEI 29.0001.0082235.2022-78
+#Ordem de bloqueio autos nº 1031339-38.2022.8.26.0050 - DIPO
+local-zone: "multicanais.market" always_refuse
+local-zone: "multicanaistv.im" always_refuse
+local-zone: "deustorrent.com" always_refuse
+
+#https://yousolutions.monday.com/boards/8077084953/pulses/9247768493
+#Ofício nº 15393735 3 CyberGaeco Ref.: SEI 29.0001.0082235.2022-78
+#Ordem de bloqueio autos nº 1031339-38.2022.8.26.0050 - DIPO
+local-zone: "filmestorrenttop.org" always_refuse
+local-zone: "seriesflixtv2.onl" always_refuse
+local-zone: "seuseriado.stream" always_refuse
+local-zone: "superflixapi.fyi" always_refuse
+local-zone: "superflix.zip" always_refuse
+
+#https://yousolutions.monday.com/boards/8077084953/pulses/9247768493
+#Ofício nº 15397047 3 CyberGaeco Ref.: SEI 29.0001.0082235.2022-78
+#Ordem de bloqueio autos nº 1031339-38.2022.8.26.0050 - DIPO
+local-zone: "comandofilmestorrent.site" always_refuse
+local-zone: "multicanais.limited" always_refuse
+local-zone: "multicanais.solar" always_refuse
