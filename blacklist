@@ -23069,3 +23069,14 @@ local-zone: "superflix.zip" always_refuse
 local-zone: "comandofilmestorrent.site" always_refuse
 local-zone: "multicanais.limited" always_refuse
 local-zone: "multicanais.solar" always_refuse
+
+#
+#
+#https://sistemas.anatel.gov.br/anexar-api/publico/anexos/download/819e6e3b59719ebb41ef480141bac6ce
+local-zone: "futemax.cm" always_refuse
+local-zone: "multicanais.photo" always_refuse
+local-zone: "playdash-cdn.xyz" always_refuse
+local-zone: "embmaxtv.online" always_refuse
+local-zone: "zekonew.newkso.ru" always_refuse
+local-zone: "multicanais.domains" always_refuse
+local-zone: "anotheryes.com" always_refuse
