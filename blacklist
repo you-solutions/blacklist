@@ -23383,3 +23383,7 @@ local-zone: "xwin35.com" always_refuse
 local-zone: "m.fantasma-lg.com" always_refuse
 local-zone: "jardimpg.vip" always_refuse
 local-zone: "betlua77.org" always_refuse
+
+#Decisão judicial. 3ª Vara Federal de Porto Alegre/RS. SJRS. 5020275-96.2025.4.04.7100/RS.
+#Bloqueio do site "https://pequemimos.store/".
+local-zone: "pequemimos.store" always_refuse
