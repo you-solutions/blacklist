@@ -23499,7 +23499,6 @@ local-zone: "radiorb.shop" always_refuse
 local-zone: "radioryzen4.shop" always_refuse
 local-zone: "telefone.site" always_refuse
 local-zone: "tvzinha.org" always_refuse
-local-zone: "cloud" always_refuse
 local-zone: "4k.rodeo" always_refuse
 local-zone: "appxc.top" always_refuse
 local-zone: "desejado.top" always_refuse
