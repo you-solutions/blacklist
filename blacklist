@@ -23807,5 +23807,5 @@ local-zone: "777-ranking777.com" always_refuse
 #
 #
 #https://sistemas.anatel.gov.br/anexar-api/publico/anexos/download/dc1a239d0a5f81f96d4bb9c250f2f624
-local-zone: "forums.Social-mediagirls" always_refuse
-local-zone: "bunkr.Ph" always_refuse
+local-zone: "forums.socialmediagirls.com" always_refuse
+local-zone: "bunkr.ph" always_refuse
