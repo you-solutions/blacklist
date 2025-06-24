@@ -23974,4 +23974,7 @@ local-zone: "devin148.com" always_refuse
 local-zone: "rr.vip" always_refuse
 local-zone: "vvvbet2.com" always_refuse
 local-zone: "777apis.com" always_refuse
-
+#
+#Ofício nº 400/2025/SFI-ANATEL
+#https://yousolutions.monday.com/boards/8077084953/pulses/9443728351
+local-zone: "danielveiculosbr.com" always_refuse
