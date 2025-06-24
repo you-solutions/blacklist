@@ -22914,7 +22914,6 @@ local-zone: "boxtvrecargas.com" always_refuse
 local-zone: "clubedarecarga.com" always_refuse
 local-zone: "codigoderecarga.app" always_refuse
 local-zone: "codigosderecarga.com" always_refuse
-local-zone: "facilzap.com.br" always_refuse
 local-zone: "foxrecarga.com" always_refuse
 local-zone: "foxrecargas.com.br" always_refuse
 local-zone: "lojabrasilcards.com" always_refuse
