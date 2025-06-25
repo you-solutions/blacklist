@@ -22901,7 +22901,6 @@ local-zone: "inxplusoficial.com" always_refuse
 local-zone: "kingrecargas.com.br" always_refuse
 local-zone: "xplusapp.com" always_refuse
 local-zone: "azrecarga.net" always_refuse
-local-zone: "cwbcard.com" always_refuse
 local-zone: "odeon.app" always_refuse
 local-zone: "odeonvod.com" always_refuse
 local-zone: "renovabox.com" always_refuse
