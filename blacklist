@@ -9339,7 +9339,6 @@ local-zone: "novosuperflix.online" always_refuse
 local-zone: "oneflix.cfd" always_refuse
 local-zone: "oneflix.fr" always_refuse
 local-zone: "oneflix.vip" always_refuse
-local-zone: "pt.youcine.net" always_refuse
 local-zone: "seufilme.pics" always_refuse
 local-zone: "spaceflix.org" always_refuse
 local-zone: "supeflix.com" always_refuse
@@ -22780,13 +22779,10 @@ local-zone: "sebet.tv" always_refuse
 #
 #Ofício nº 21-E/2025-ANCINE/SRG
 #https://sistemas.anatel.gov.br/anexar-api/publico/anexos/download/2d99282e9dcf2ffea098e15d08d001a8
-local-zone: "futemax.free" always_refuse
 local-zone: "nossoplayeronlinehd.net" always_refuse
 local-zone: "chora-embedflix.shop" always_refuse
 local-zone: "hls.chora-embedflix.shop" always_refuse
 local-zone: "embedtv-1.icu" always_refuse
-local-zone: "futemaxtv.to" always_refuse
-local-zone: "topflixplus.me" always_refuse
 local-zone: "multicanais.vision" always_refuse
 local-zone: "streamtp3.com" always_refuse
 local-zone: "streamtp4.com" always_refuse
@@ -22813,8 +22809,6 @@ local-zone: "acessoty.com" always_refuse
 local-zone: "centrodecontas.com" always_refuse
 local-zone: "oficialg9noticias.com" always_refuse
 local-zone: "revenderp2p.xyz" always_refuse
-local-zone: "allmoviedb.com" always_refuse
-local-zone: "movieonfullhd.com" always_refuse
 local-zone: "baixarofilme.biz" always_refuse
 local-zone: "megafilmeshd8.com" always_refuse
 local-zone: "filmesxonline.com" always_refuse
