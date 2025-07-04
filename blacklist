@@ -25470,3 +25470,22 @@ local-zone: "luckygame.tv" always_refuse
 
 #https://sistemas.anatel.gov.br/anexar-api/publico/anexos/download/2568029e77f99722da0236d54a18bbb9 
 local-zone: "marquespecabr.com" always_refuse
+
+#https://sistemas.anatel.gov.br/anexar-api/publico/anexos/download/c8befb14d506085bf17cbac8f3f6f965
+local-zone: "futemax.guru" always_refuse
+local-zone: "futemax.surf" always_refuse
+local-zone: "streameast.mom" always_refuse
+local-zone: "cdn.livetv854.me" always_refuse
+local-zone: "topflix.observer" always_refuse
+local-zone: "hahlai3.xyz" always_refuse
+local-zone: "s-delivery43.mxcontent.net" always_refuse
+local-zone: "multicanais.jewelry" always_refuse
+local-zone: "socio.crackstreamslivehd.com" always_refuse
+local-zone: "cdnfast1.xyz" always_refuse
+local-zone: "dmvudge.fubohd.com" always_refuse
+local-zone: "librepelota.pe" always_refuse
+local-zone: "pelotalibre.lat" always_refuse
+local-zone: "rojadirectaenvivo.me" always_refuse
+local-zone: "rojadirectvlive.pl" always_refuse
+local-zone: "rojadirecta.com.pe" always_refuse
+local-zone: "rojadirectavip.net" always_refuse
