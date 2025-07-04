@@ -7150,7 +7150,6 @@ local-zone: "esportebets.bet" always_refuse
 local-zone: "esportebetvip.bet" always_refuse
 #
 #https://sistemas.anatel.gov.br/anexar-api/publico/anexos/download/b56f424a6867a20e31e2c97ae780cee7
-#local-zone: "esportedasorte.com" always_refuse
 local-zone: "esportefeliz.com" always_refuse
 local-zone: "esportegol.bet" always_refuse
 local-zone: "esportegold.vip" always_refuse
@@ -21805,7 +21804,6 @@ local-zone: "relogiospg.com" always_refuse
 local-zone: "rjaneiroboi.bet" always_refuse
 local-zone: "rjaneiroboi.com.br" always_refuse
 local-zone: "rolexkk.pro" always_refuse
-local-zone: "rubinhosports.wee.bet" always_refuse
 local-zone: "sailboat777.com" always_refuse
 local-zone: "skate777slot.com" always_refuse
 local-zone: "slots37.vip " always_refuse
@@ -24004,9 +24002,7 @@ local-zone: "playuzu.com" always_refuse
 local-zone: "tvbet.com" always_refuse
 local-zone: "bitstarz.com" always_refuse
 local-zone: "flashscore.com.br" always_refuse
-local-zone: "zeroum.bet" always_refuse
 local-zone: "52bet10.com" always_refuse
-local-zone: "10.games" always_refuse
 local-zone: "giphy.com" always_refuse
 local-zone: "007game.com" always_refuse
 local-zone: "008sss.com" always_refuse
@@ -24802,7 +24798,6 @@ local-zone: "166br.com" always_refuse
 local-zone: "1777br.com" always_refuse
 local-zone: "17jogo.bet" always_refuse
 local-zone: "181br.com" always_refuse
-local-zone: "1998br.com" always_refuse
 local-zone: "2014win.vip" always_refuse
 local-zone: "2025tiger.cc" always_refuse
 local-zone: "20br.com" always_refuse
