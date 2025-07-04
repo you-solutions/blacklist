@@ -23971,3 +23971,19 @@ local-zone: "777apis.com" always_refuse
 #Ofício nº 400/2025/SFI-ANATEL
 #https://yousolutions.monday.com/boards/8077084953/pulses/9443728351
 local-zone: "danielveiculosbr.com" always_refuse
+#
+#Ofício nº 29-E/2025-ANCINE/SRG
+#https://sistemas.anatel.gov.br/anexar-api/publico/anexos/download/e23876a8d1fac644c7f2c77b403bacde
+
+local-zone: "futemax.golf" always_refuse
+local-zone: "01-mcteteu.shop" always_refuse
+local-zone: "user-9874852145-33.usa-storage2-backblaze.shop" always_refuse
+local-zone: "glob-dream-c61f.cdntitan710.workers.dev" always_refuse
+local-zone: "topflixhd.cloud" always_refuse
+local-zone: "playembedapi.upns.online" always_refuse
+local-zone: "sojg.feistjmyrodne.sbs" always_refuse
+local-zone: "comandofilmestorrent.xyz" always_refuse
+local-zone: "pelotalibres.pe" always_refuse
+local-zone: "futbollibre.mx" always_refuse
+local-zone: "rojadirectaa.org" always_refuse
+local-zone: "roja-directa.io" always_refuse
