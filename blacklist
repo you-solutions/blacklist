@@ -25468,3 +25468,6 @@ local-zone: "737game.xyz" always_refuse
 local-zone: "leon125.bet" always_refuse
 local-zone: "pagolbet.org" always_refuse
 local-zone: "luckygame.tv" always_refuse
+
+#https://sistemas.anatel.gov.br/anexar-api/publico/anexos/download/2568029e77f99722da0236d54a18bbb9 
+local-zone: "marquespecabr.com" always_refuse
