@@ -7148,7 +7148,9 @@ local-zone: "esportdopix.com" always_refuse
 local-zone: "esportebetbrasil.com" always_refuse
 local-zone: "esportebets.bet" always_refuse
 local-zone: "esportebetvip.bet" always_refuse
-local-zone: "esportedasorte.com" always_refuse
+#
+#https://sistemas.anatel.gov.br/anexar-api/publico/anexos/download/b56f424a6867a20e31e2c97ae780cee7
+#local-zone: "esportedasorte.com" always_refuse
 local-zone: "esportefeliz.com" always_refuse
 local-zone: "esportegol.bet" always_refuse
 local-zone: "esportegold.vip" always_refuse
@@ -13000,7 +13002,9 @@ local-zone: "099bet.io" always_refuse
 local-zone: "0betweb.com" always_refuse
 local-zone: "0win345.com" always_refuse
 local-zone: "0win44.com" always_refuse
-local-zone: "10.games" always_refuse
+#
+#https://sistemas.anatel.gov.br/anexar-api/publico/anexos/download/b56f424a6867a20e31e2c97ae780cee7
+#local-zone: "10.games" always_refuse
 local-zone: "1012bet.shop" always_refuse
 local-zone: "101xclub.com" always_refuse
 local-zone: "10bb.bet" always_refuse
