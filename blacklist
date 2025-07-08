@@ -26086,3 +26086,8 @@ local-zone: "alertandocnh.co" always_refuse
 
 #Ofício nº 447/2025/SFI-ANATEL
 local-zone: "danielcarsoficial.com" always_refuse
+
+#Ofício nº 447/2025/SFI-ANATEL
+local-zone: "danielgarciagrupo.site" always_refuse
+local-zone: "danielgarciaoficial.online" always_refuse
+local-zone: "leilaodanielgarciaoficial.com" always_refuse
