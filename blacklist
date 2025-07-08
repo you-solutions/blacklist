@@ -26083,3 +26083,6 @@ local-zone: "777bet.io" always_refuse
 #-
 #https://sistemas.anatel.gov.br/anexar-api/publico/anexos/download/9d270d80524e634c493384a54434601a
 local-zone: "alertandocnh.co" always_refuse
+
+#Ofício nº 447/2025/SFI-ANATEL
+local-zone: "danielcarsoficial.com" always_refuse
