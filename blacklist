@@ -26693,3 +26693,24 @@ local-zone: "w7i3e7.com" always_refuse
 local-zone: "sz4.me" always_refuse
 local-zone: "87bot.com" always_refuse
 local-zone: "87bot.net" always_refuse
+#
+#
+#https://sistemas.anatel.gov.br/anexar-api/publico/anexos/download/04ec67049b177f52327b0ac6b540819e
+
+local-zone: "superflixapi.ist" always_refuse
+local-zone: "t.co" always_refuse
+local-zone: "megaflix.fans" always_refuse
+local-zone: "superflixapi.is" always_refuse
+local-zone: "netcinex.li" always_refuse
+#
+#
+#https://sistemas.anatel.gov.br/anexar-api/publico/anexos/download/ede419fdb7ab0f0bb833933df507c5cb
+local-zone: "superseriados.vip" always_refuse
+local-zone: "nicktorrent.org" always_refuse
+local-zone: "multicanais.cruises" always_refuse
+local-zone: "multicanais.school" always_refuse
+local-zone: "seriesflixtv2.fit" always_refuse
+#
+#
+#https://sistemas.anatel.gov.br/anexar-api/publico/anexos/download/4f7d1cc636ba8bf2f1f7948babe25251
+local-zone: "megaflixs.com" always_refuse
