@@ -26091,3 +26091,9 @@ local-zone: "danielcarsoficial.com" always_refuse
 local-zone: "danielgarciagrupo.site" always_refuse
 local-zone: "danielgarciaoficial.online" always_refuse
 local-zone: "leilaodanielgarciaoficial.com" always_refuse
+#
+#Fwd: Ofício n.º 31-E/2025-ANCINE/SRG. Bloqueio de domínios (sítios eletrônicos).
+#https://sistemas.anatel.gov.br/anexar-api/publico/anexos/download/43856f713835e7d0d7cffcb300424b9d
+local-zone: "bramslb.hghd675ak.xyz" always_refuse
+local-zone: "NDLSFJ230D.5B26Y83H.COM" always_refuse
+local-zone: "sawe2703.com" always_refuse
