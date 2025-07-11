@@ -26714,3 +26714,71 @@ local-zone: "seriesflixtv2.fit" always_refuse
 #
 #https://sistemas.anatel.gov.br/anexar-api/publico/anexos/download/4f7d1cc636ba8bf2f1f7948babe25251
 local-zone: "megaflixs.com" always_refuse
+#
+#Ofício nº 117/2025-Del
+#https://sistemas.anatel.gov.br/anexar-api/publico/anexos/download/f7fe62566e5f2b8717493984ea06d521
+local-zone: "futemax.fail" always_refuse
+local-zone: "futemax.gifts" always_refuse
+local-zone: "futemax.rent" always_refuse
+local-zone: "opentvbr.com" always_refuse
+local-zone: "pobreflixtv.run" always_refuse
+#
+#Ofício nº 118/2025-Del
+#https://sistemas.anatel.gov.br/anexar-api/publico/anexos/download/fa9f80cf68b2d25f466efa9a49637eee
+local-zone: "brasiltv4k.site" always_refuse
+local-zone: "htv-novo.com" always_refuse
+local-zone: "htv8.shop" always_refuse
+local-zone: "btvbox.tv" always_refuse
+local-zone: "btvlive.com.br" always_refuse
+local-zone: "btvstorebox.com" always_refuse
+local-zone: "lojaconexaotv.online" always_refuse
+local-zone: "duna-tv.app" always_refuse
+local-zone: "dunatv.click" always_refuse
+local-zone: "dunatvs.pro" always_refuse
+local-zone: "recargastvbox.com.br" always_refuse
+local-zone: "urbacinebr.com" always_refuse
+local-zone: "inxplusoficial.com.br" always_refuse
+local-zone: "malistikos.com.br" always_refuse
+local-zone: "recargafull.com.br" always_refuse
+local-zone: "recarganahora.com" always_refuse
+local-zone: "unitv-app.com" always_refuse
+local-zone: "unitv.app.br" always_refuse
+local-zone: "unitv.com.co" always_refuse
+local-zone: "unitvnet.cloud" always_refuse
+local-zone: "unitvnet.club" always_refuse
+local-zone: "unitvrecargavip.com" always_refuse
+local-zone: "loveyoucine.com" always_refuse
+#
+#Ofício nº 119/2025-Del
+#https://sistemas.anatel.gov.br/anexar-api/publico/anexos/download/f88b0bb5a924f1df94982af06febc234
+local-zone: "blcards.shop" always_refuse
+local-zone: "eppicinema-apk.com" always_refuse
+local-zone: "eppicinema.forum" always_refuse
+local-zone: "playmaxrecarga.com" always_refuse
+local-zone: "recargacwb.com" always_refuse
+local-zone: "recargafilmes.com" always_refuse
+local-zone: "topeppi.com" always_refuse
+local-zone: "overflixtv.men" always_refuse
+local-zone: "comprasred.shop" always_refuse
+local-zone: "familiavermelha.com" always_refuse
+local-zone: "omelhordatv.shop" always_refuse
+local-zone: "planosred.store" always_refuse
+local-zone: "playonecards.com" always_refuse
+local-zone: "redbraziltv.com" always_refuse
+local-zone: "redplay.net.br" always_refuse
+local-zone: "elianetvexpress.com.br" always_refuse
+local-zone: "streamingpipoca.com" always_refuse
+local-zone: "vizertv.mom" always_refuse
+#
+#Ofício nº 123/2025-Del
+#https://sistemas.anatel.gov.br/anexar-api/publico/anexos/download/f624ab81e403fb781df2183b0f637aab
+local-zone: "ondeassistirfilmes.online" always_refuse
+local-zone: "filmestorrentmagnet.net" always_refuse
+local-zone: "futebolplayhd.fail" always_refuse
+local-zone: "futemax.luxe" always_refuse
+local-zone: "megafilmeshd50.blog" always_refuse
+local-zone: "megafilmeshd50.mom" always_refuse
+local-zone: "megafilmeshd50.sbs" always_refuse
+local-zone: "megafilmeshdz.cyou" always_refuse
+local-zone: "pobreflixtv.mom" always_refuse
+local-zone: "topflix.watch" always_refuse
