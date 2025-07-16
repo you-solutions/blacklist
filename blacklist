@@ -24003,7 +24003,9 @@ local-zone: "tvbet.com" always_refuse
 local-zone: "bitstarz.com" always_refuse
 local-zone: "flashscore.com.br" always_refuse
 local-zone: "52bet10.com" always_refuse
-local-zone: "giphy.com" always_refuse
+#
+#https://sistemas.anatel.gov.br/anexar-api/publico/anexos/download/6ea011b28c4d50cf6703f64c15374c1e
+#local-zone: "giphy.com" always_refuse
 local-zone: "007game.com" always_refuse
 local-zone: "008sss.com" always_refuse
 local-zone: "1012bet.com.br" always_refuse
