@@ -23995,7 +23995,7 @@ local-zone: "roja-directa.io" always_refuse
 #
 #
 #https://sistemas.anatel.gov.br/anexar-api/publico/anexos/download/a04b8f0f91f1b99186bbdbd1fa63255e
-local-zone: "apostas.com" always_refuse
+#local-zone: "apostas.com" always_refuse
 #
 #
 #https://sistemas.anatel.gov.br/anexar-api/publico/anexos/download/a04b8f0f91f1b99186bbdbd1fa63255e
@@ -24016,7 +24016,7 @@ local-zone: "bitstarz.com" always_refuse
 #
 #
 #https://sistemas.anatel.gov.br/anexar-api/publico/anexos/download/a04b8f0f91f1b99186bbdbd1fa63255e
-local-zone: "flashscore.com.br" always_refuse
+#local-zone: "flashscore.com.br" always_refuse
 local-zone: "52bet10.com" always_refuse
 #
 #https://sistemas.anatel.gov.br/anexar-api/publico/anexos/download/6ea011b28c4d50cf6703f64c15374c1e
