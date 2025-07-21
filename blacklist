@@ -23992,15 +23992,30 @@ local-zone: "roja-directa.io" always_refuse
 #
 #https://sistemas.anatel.gov.br/anexar-api/publico/anexos/download/c7a15734c5c5d522d9cd049b461dfde1
 #local-zone: "98br.com" always_refuse
+#
+#
+#https://sistemas.anatel.gov.br/anexar-api/publico/anexos/download/a04b8f0f91f1b99186bbdbd1fa63255e
 local-zone: "apostas.com" always_refuse
-local-zone: "brasilvegas.com" always_refuse
-local-zone: "clubedaposta.com" always_refuse
+#
+#
+#https://sistemas.anatel.gov.br/anexar-api/publico/anexos/download/a04b8f0f91f1b99186bbdbd1fa63255e
+#local-zone: "brasilvegas.com" always_refuse
+#
+#
+#https://sistemas.anatel.gov.br/anexar-api/publico/anexos/download/a04b8f0f91f1b99186bbdbd1fa63255e
+#local-zone: "clubedaposta.com" always_refuse
 local-zone: "dezenasbet.com" always_refuse
 #local-zone: "esportedasorte.com" always_refuse
 local-zone: "mejorcasinos.mx" always_refuse
-local-zone: "playuzu.com" always_refuse
+#
+#
+#https://sistemas.anatel.gov.br/anexar-api/publico/anexos/download/a04b8f0f91f1b99186bbdbd1fa63255e
+#local-zone: "playuzu.com" always_refuse
 local-zone: "tvbet.com" always_refuse
 local-zone: "bitstarz.com" always_refuse
+#
+#
+#https://sistemas.anatel.gov.br/anexar-api/publico/anexos/download/a04b8f0f91f1b99186bbdbd1fa63255e
 local-zone: "flashscore.com.br" always_refuse
 local-zone: "52bet10.com" always_refuse
 #
