@@ -22950,7 +22950,6 @@ local-zone: "unitvrecargaspro.com" always_refuse
 local-zone: "vitoriaimportados.com.br" always_refuse
 local-zone: "ycoficial.com" always_refuse
 local-zone: "youcine.download" always_refuse
-local-zone: "youcine.net" always_refuse
 local-zone: "youcinemob.pro" always_refuse
 local-zone: "youcinetv.cloud" always_refuse
 local-zone: "youcinetv.vip" always_refuse
@@ -27268,3 +27267,24 @@ local-zone: "v9k4l7.com" always_refuse
 local-zone: "ih777c.com" always_refuse
 local-zone: "jgj29f3.com" always_refuse
 local-zone: "1766win.vip" always_refuse
+#
+#Ofício n.º 37-E/2025-ANCINE/SRG.
+#https://sistemas.anatel.gov.br/anexar-api/publico/anexos/download/43843c727768c82c57b6bf0a10ec1bbc
+local-zone: "akakou.84j42d1.click" always_refuse
+local-zone: "ud9j2d.876fvddbcm.com" always_refuse
+local-zone: "moeue.cnmqfhjps.com" always_refuse
+local-zone: "doued.fdsfo2digfgd.com" always_refuse
+local-zone: "hyruku.hfdgf8ffd.com" always_refuse
+local-zone: "0i0bwpddw.juicfkamv.com" always_refuse
+local-zone: "ndpzlh.rjvpsocye.com" always_refuse
+local-zone: "6x0jwndp6.ivwgkecmn.com" always_refuse
+local-zone: "zpvz4sq.hcvatbqsn.com" always_refuse
+local-zone: "comandofilmestorrent.biz" always_refuse
+local-zone: "multicanais.spot" always_refuse
+local-zone: "tufutbollibre.com" always_refuse
+local-zone: "hypeflix.pro" always_refuse
+local-zone: "hypeflix.my" always_refuse
+local-zone: "vajaax.uadzsbhik.com" always_refuse
+local-zone: "rouk7uy.bugzhcxsj.com" always_refuse
+local-zone: "akakou.d523dfsdfdd.com" always_refuse
+local-zone: "q3h6yumsj.ybxtfwnpq.com" always_refuse
