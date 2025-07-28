@@ -27851,3 +27851,48 @@ local-zone: "gtlzdd.uxkbhcpsn.vip" always_refuse
 local-zone: "32s2j263i.wvhbduxcq.com" always_refuse
 local-zone: "4dzsoktp6.fhjpajfc1.com" always_refuse
 local-zone: "cvnzik.kxhiflnrj.club" always_refuse
+#
+#I - Ofício nº 15561809 – CyberGaeco, de 02.07.2025, e Tabela ISP/Domínios.
+#https://sistemas.anatel.gov.br/anexar-api/publico/anexos/download/a9e943bbfc1ba329219c926f4485c9b1
+local-zone: "multicanais.coach" always_refuse
+local-zone: "megaflix.ws" always_refuse
+local-zone: "netcinez.si" always_refuse
+local-zone: "seriesflixtv2.cc" always_refuse
+local-zone: "superflixr.pro" always_refuse
+local-zone: "filmestorrenttop.net" always_refuse
+local-zone: "filmestorrenttv.org" always_refuse
+local-zone: "superfilmestorrent.xyz" always_refuse
+local-zone: "torrentsdosfilmes.to" always_refuse
+local-zone: "megaflix.wales" always_refuse
+local-zone: "videomegaflix.com" always_refuse
+local-zone: "multicanais.degree" always_refuse
+local-zone: "multicanais.holiday" always_refuse
+local-zone: "multicanais.realty" always_refuse
+local-zone: "multicanais.tours" always_refuse
+local-zone: "multicanaislink.com" always_refuse
+local-zone: "serieflix2.fun" always_refuse
+local-zone: "seriesflix.at" always_refuse
+local-zone: "seriesflix.blue" always_refuse
+local-zone: "seriesflixtv2.help" always_refuse
+local-zone: "seriesflixtv2.skin" always_refuse
+local-zone: "seriesflv.onl" always_refuse
+local-zone: "seuseriado.click" always_refuse
+local-zone: "seuseriado.space" always_refuse
+local-zone: "superflix.cv" always_refuse
+local-zone: "superflix.stream" always_refuse
+local-zone: "superflix7.vip" always_refuse
+local-zone: "superflixapi.lat" always_refuse
+local-zone: "superflixapi.wales" always_refuse
+local-zone: "superflixz.pro" always_refuse
+local-zone: "topcanais.biz" always_refuse
+local-zone: "tvtopcanais.com.br" always_refuse
+#
+#I - Ofício nº 15563438 – CyberGaeco, de 02.07.2025, e Tabela ISP/Domínios.
+#https://sistemas.anatel.gov.br/anexar-api/publico/anexos/download/59588b036c32c5ff6e80403148f62e2b
+local-zone: "cinevisionoficial.com" always_refuse
+local-zone: "megaflix7.com" always_refuse
+#
+#Ofício nº 15570462 – CyberGaeco
+#https://sistemas.anatel.gov.br/anexar-api/publico/anexos/download/5d631b038182f599d54cb4a68e8afebb
+local-zone: "multicanaistv.vip" always_refuse
+local-zone: "superflixapi.blog" always_refuse
