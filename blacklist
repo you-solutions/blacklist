@@ -28696,3 +28696,48 @@ local-zone: "u3z.eu" always_refuse
 local-zone: "wbapps.site" always_refuse
 local-zone: "zeusplay.app" always_refuse
 local-zone: "zeusprimetv.com" always_refuse
+#
+#Ofício nº 184/2025-Del 
+#https://sistemas.anatel.gov.br/anexar-api/publico/anexos/download/c72e381784fab5e8a4e92df9cfe40610
+local-zone: "brasiltv.net" always_refuse
+local-zone: "brasiltvapp.com" always_refuse
+local-zone: "htvbrasil.com" always_refuse
+local-zone: "htvnovo.club" always_refuse
+local-zone: "htvnovo.com" always_refuse
+local-zone: "htvoficial.site" always_refuse
+local-zone: "htvboxamerica.com" always_refuse
+local-zone: "btvboxshop.store" always_refuse
+local-zone: "btvoficialbrasil.com" always_refuse
+local-zone: "recargabox.com" always_refuse
+local-zone: "dunatv.com" always_refuse
+local-zone: "goldcardtvoficial.site" always_refuse
+local-zone: "redecanais.org" always_refuse
+local-zone: "tvonlinehd.fan" always_refuse
+local-zone: "recargaunitv.com" always_refuse
+local-zone: "recargaunitv.net" always_refuse
+local-zone: "unitvapp.com" always_refuse
+local-zone: "unitvlite.vip" always_refuse
+local-zone: "unitvprime.site" always_refuse
+local-zone: "unitvnetoficial.one" always_refuse
+local-zone: "youcineapk.app" always_refuse
+local-zone: "youcineapk.net" always_refuse
+#
+#Ofício nº 186/2025-Del
+#https://sistemas.anatel.gov.br/anexar-api/publico/anexos/download/6d144750588d829fb1ac3627bf384e22
+local-zone: "superrecargasbox.com.br" always_refuse
+local-zone: "filmesflixonline.com" always_refuse
+local-zone: "superseries.icu" always_refuse
+#
+#Ofício nº 187/2025-Del
+#https://sistemas.anatel.gov.br/anexar-api/publico/anexos/download/38f41a6baf49f45b70d87f316a5c3f40
+local-zone: "velozfilmes.com" always_refuse
+local-zone: "cinehdplus.love" always_refuse
+local-zone: "cinemahd.ch" always_refuse
+local-zone: "cinemahd.is" always_refuse
+local-zone: "cineshow.site" always_refuse
+local-zone: "goflix.lol" always_refuse
+local-zone: "pobreflixhd.buzz" always_refuse
+#
+#Ofício nº 188/2025-Del 
+#https://sistemas.anatel.gov.br/anexar-api/publico/anexos/download/7caf1fcbceaccbccf421b6a2303c0e30
+local-zone: "overflix.stream" always_refuse
