@@ -28741,3 +28741,9 @@ local-zone: "pobreflixhd.buzz" always_refuse
 #Ofício nº 188/2025-Del 
 #https://sistemas.anatel.gov.br/anexar-api/publico/anexos/download/7caf1fcbceaccbccf421b6a2303c0e30
 local-zone: "overflix.stream" always_refuse
+#
+#Ofício nº 189/2025-Del 
+#https://sistemas.anatel.gov.br/anexar-api/publico/anexos/download/2250fefb6ca2279f7c02f44536e584e1
+local-zone: "futemax.beer" always_refuse
+local-zone: "futemax1.art" always_refuse
+local-zone: "recargaunitvoficial.site" always_refuse
