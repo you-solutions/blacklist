@@ -28747,3 +28747,40 @@ local-zone: "overflix.stream" always_refuse
 local-zone: "futemax.beer" always_refuse
 local-zone: "futemax1.art" always_refuse
 local-zone: "recargaunitvoficial.site" always_refuse
+
+
+#Ofício nº 42-E/2025-ANCINE/SRG
+#https://sistemas.anatel.gov.br/anexar-api/publico/anexos/download/5be0996f169ebf5883c93bb487eec3c6
+local-zone: "au921f.tpjoengym.com" always_refuse
+local-zone: "hyruku.hfdgf8ffd.com" always_refuse
+local-zone: "gsntln.mjvdtqxgc.com" always_refuse
+local-zone: "pkyvyr.snxgazcul.com" always_refuse
+local-zone: "lb1rnhun4.daeazqwd.com" always_refuse
+local-zone: "cherry.mmdh5jygv1.com" always_refuse
+local-zone: "geera.vdscamaday.store" always_refuse
+local-zone: "futemax.place" always_refuse
+local-zone: "futemax.xin" always_refuse
+local-zone: "04-mcteteu.shop" always_refuse
+local-zone: "lb1.embmaxtv.online" always_refuse
+local-zone: "glivrecargas.com" always_refuse
+local-zone: "duocinema.com" always_refuse
+local-zone: "familierstela.site" always_refuse
+local-zone: "meatualiza.com" always_refuse
+local-zone: "mfcpremium.com" always_refuse
+local-zone: "mundodasrecargass.site" always_refuse
+local-zone: "playrecargasup.com" always_refuse
+local-zone: "recargasmfc.store" always_refuse
+local-zone: "recargastvexpressbr.com.br" always_refuse
+local-zone: "redplaynew.com.br" always_refuse
+local-zone: "torcidaroxa.com" always_refuse
+local-zone: "tvexprespro.online" always_refuse
+local-zone: "violetarecarga.com" always_refuse
+local-zone: "familycine.shop" always_refuse
+local-zone: "clickcards.com.br" always_refuse
+local-zone: "boxfluxtv.com.br" always_refuse
+local-zone: "recarga24h.com.br" always_refuse
+local-zone: "codigosplay.com" always_refuse
+local-zone: "outbound-proxy-us-east1-0-glob-usercontent-client-id-9126295733.googleapis.com.pt" always_refuse
+local-zone: "outbound-proxy-us-east1-0-glob-usercontent-client-id-8026647335.googleapis.com.pt" always_refuse
+
+
