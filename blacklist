@@ -29433,3 +29433,7 @@ local-zone: "antenafacil.com" always_refuse
 local-zone: "tvboxcuritiba.com" always_refuse
 local-zone: "decoscwbrecarga.com" always_refuse
 local-zone: "superoficial.com" always_refuse
+#
+#Ofício n.º 40-E/2025-ANCINE/SRG.
+#https://sistemas.anatel.gov.br/anexar-api/publico/anexos/download/941739ca44f414eaf18d52e08965e380
+local-zone: "inpotmonb.bf23dfsdgc.homes" always_refuse
