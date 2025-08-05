@@ -29426,3 +29426,10 @@ local-zone: "7bairro777.com" always_refuse
 local-zone: "777w.plus" always_refuse
 local-zone: "triadmarkets.com" always_refuse
 local-zone: "79x.bet" always_refuse
+#
+#OFÍCIO Nº 700018589928
+#https://sistemas.anatel.gov.br/anexar-api/publico/anexos/download/13c7c8b617214d3f7366fa820f8327b4
+local-zone: "antenafacil.com" always_refuse
+local-zone: "tvboxcuritiba.com" always_refuse
+local-zone: "decoscwbrecarga.com" always_refuse
+local-zone: "superoficial.com" always_refuse
