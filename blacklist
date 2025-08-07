@@ -29370,10 +29370,16 @@ local-zone: "g7728bet.com" always_refuse
 local-zone: "jfr5fu5.com" always_refuse
 local-zone: "5544bet.com.br" always_refuse
 local-zone: "betnacionaln.com" always_refuse
-local-zone: "linktr.ee/eeapg_371" always_refuse
+#
+#desbloqueio
+#https://sistemas.anatel.gov.br/anexar-api/publico/anexos/download/9c933d09de3479a04c5a5d8fdcf6d840
+#local-zone: "linktr.ee/eeapg_371" always_refuse
 local-zone: "yh.yy4b5p3.com" always_refuse
 local-zone: "t8o2f8.com" always_refuse
-local-zone: "linktr.ee/5544bet" always_refuse
+#
+#desbloqueio
+#https://sistemas.anatel.gov.br/anexar-api/publico/anexos/download/9c933d09de3479a04c5a5d8fdcf6d840
+#local-zone: "linktr.ee/5544bet" always_refuse
 local-zone: "bvlgaripg91.com" always_refuse
 local-zone: "y7yzpyxz6.com" always_refuse
 local-zone: "kvar2n3vq.com" always_refuse
@@ -29400,9 +29406,15 @@ local-zone: "betnacionalj.com" always_refuse
 local-zone: "lotto60.com" always_refuse
 local-zone: "betnacionale.com" always_refuse
 local-zone: "betnacionalh.com" always_refuse
-local-zone: "linktr.ee/polarispg_196" always_refuse
+#
+#desbloqueio
+#https://sistemas.anatel.gov.br/anexar-api/publico/anexos/download/9c933d09de3479a04c5a5d8fdcf6d840
+#local-zone: "linktr.ee/polarispg_196" always_refuse
 local-zone: "betnacionalk.com" always_refuse
-local-zone: "linktr.ee/pegasopg_267" always_refuse
+#
+#desbloqueio
+#https://sistemas.anatel.gov.br/anexar-api/publico/anexos/download/9c933d09de3479a04c5a5d8fdcf6d840
+#local-zone: "linktr.ee/pegasopg_267" always_refuse
 local-zone: "betnacionalo.com" always_refuse
 local-zone: "7bslot.com" always_refuse
 local-zone: "betnacionalx.com" always_refuse
@@ -29412,7 +29424,10 @@ local-zone: "betabets.cc" always_refuse
 local-zone: "betnacional8.com" always_refuse
 local-zone: "voj8.online" always_refuse
 local-zone: "betnacionald.com" always_refuse
-local-zone: "linktr.ee/1ambet_954" always_refuse
+#
+#desbloqueio
+#https://sistemas.anatel.gov.br/anexar-api/publico/anexos/download/9c933d09de3479a04c5a5d8fdcf6d840
+#local-zone: "linktr.ee/1ambet_954" always_refuse
 local-zone: "1bairro777.com" always_refuse
 local-zone: "1bvlgaripg.com" always_refuse
 local-zone: "gazela777-fa.com" always_refuse
