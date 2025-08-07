@@ -29437,3 +29437,7 @@ local-zone: "superoficial.com" always_refuse
 #Ofício n.º 40-E/2025-ANCINE/SRG.
 #https://sistemas.anatel.gov.br/anexar-api/publico/anexos/download/941739ca44f414eaf18d52e08965e380
 local-zone: "inpotmonb.bf23dfsdgc.homes" always_refuse
+
+#Ofício nº 501/2025/SFI-ANATEL
+#https://sistemas.anatel.gov.br/anexar-api/publico/anexos/download/7fcfed52fe1d4f28e1c1615533d7ad84
+local-zone: "redshark.me" always_refuse
