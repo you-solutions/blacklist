@@ -26713,7 +26713,8 @@ local-zone: "87bot.net" always_refuse
 #https://sistemas.anatel.gov.br/anexar-api/publico/anexos/download/04ec67049b177f52327b0ac6b540819e
 
 local-zone: "superflixapi.ist" always_refuse
-local-zone: "t.co" always_refuse
+#t.co removido devido ao chat goin
+#local-zone: "t.co" always_refuse
 local-zone: "megaflix.fans" always_refuse
 local-zone: "superflixapi.is" always_refuse
 local-zone: "netcinex.li" always_refuse
