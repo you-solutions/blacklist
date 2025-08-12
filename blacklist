@@ -22,7 +22,7 @@ local-zone: "marcosdoval.com.br" always_refuse
 local-zone: "yt2mp3mp4.com" always_refuse
 local-zone: "peggo.fun" always_refuse
 local-zone: "yt2mp3s.me" always_refuse
-local-zone: "easymp3converter.org" always_refusexf
+local-zone: "easymp3converter.org" always_refuse
 local-zone: "onlinevideoconverter.party" always_refuse
 local-zone: "onlinevideoconverter.video" always_refuse
 local-zone: "x2convert.to" always_refuse
