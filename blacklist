@@ -22,7 +22,7 @@ local-zone: "marcosdoval.com.br" always_refuse
 local-zone: "yt2mp3mp4.com" always_refuse
 local-zone: "peggo.fun" always_refuse
 local-zone: "yt2mp3s.me" always_refuse
-local-zone: "easymp3converter.org" always_refuse
+local-zone: "easymp3converter.org" always_refusexf
 local-zone: "onlinevideoconverter.party" always_refuse
 local-zone: "onlinevideoconverter.video" always_refuse
 local-zone: "x2convert.to" always_refuse
@@ -6920,7 +6920,7 @@ local-zone: "brasildasorte.com" always_refuse
 local-zone: "brasiliadg.com" always_refuse
 local-zone: "brasiliapg.com" always_refuse
 local-zone: "brasilsports.bet" always_refuse
-# local-zone: "brasilvegas.com" always_refuse
+#local-zone: "brasilvegas.com" always_refuse
 local-zone: "brazilianpg.com" always_refuse
 local-zone: "brazino777.online" always_refuse
 local-zone: "brbba.com" always_refuse
@@ -8322,12 +8322,12 @@ local-zone: "futemax.rest" always_refuse
 local-zone: "maxfute.org" always_refuse
 local-zone: "rmcfutebol.com" always_refuse
 local-zone: "073bet9.com" always_refuse
-local-zone: "54999f.com/" always_refuse
+local-zone: "54999f.com" always_refuse
 local-zone: "betl 8k.app" always_refuse
 # local-zone: "br.novibet.com" always_refuse
-local-zone: "kangubet.com/live-casino" always_refuse
+local-zone: "kangubet.com" always_refuse
 local-zone: "mej orcasinos.mx" always_refuse
-local-zone: "www.bitstarz.com/" always_refuse
+local-zone: "www.bitstarz.com" always_refuse
 # local-zone: "www.flashscore.com.br" always_refuse 
 local-zone: "seurateio.com" always_refuse
 local-zone: "politicaregional.blog" always_refuse
@@ -8636,7 +8636,6 @@ local-zone: "seufilmestorrent.net" always_refuse
 local-zone: "seufilmetorrent.com" always_refuse
 local-zone: "sofilmeshd.com.br" always_refuse
 local-zone: "sofilmestorrent.com.br" always_refuse
-local-zone: "t.co/rtg5bj3jkz" always_refuse
 local-zone: "thefilmes.biz" always_refuse
 local-zone: "thefilmestorrentdownload.net" always_refuse
 local-zone: "thepiratefilmes.in" always_refuse
@@ -9575,7 +9574,7 @@ local-zone: "seufilme.net" always_refuse
 local-zone: "veanimesonline.com" always_refuse
 local-zone: "veranimeonline.net" always_refuse
 local-zone: "verfilmeseseriesonline.org" always_refuse
-local-zone: "wmovies.top/redecanais" always_refuse
+local-zone: "wmovies.top" always_refuse
 local-zone: "ww27.animesonline.online" always_refuse
 local-zone: "ww29.animesonline.online" always_refuse
 local-zone: "xfilmes.me" always_refuse
