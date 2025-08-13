@@ -30102,3 +30102,13 @@ local-zone: "ybmwtk.bdvyqpwxo.com" always_refuse
 #Ofício nº 507/2025/SFI-ANATEL
 #https://sistemas.anatel.gov.br/anexar-api/publico/anexos/download/69e30b0f103c0a9b5af3a2a684c824b7
 local-zone: "www.telelistas.net" always_refuse
+#
+#Ofício SEI nº 44915/2025/MF.
+#https://sistemas.anatel.gov.br/anexar-api/publico/anexos/download/f74e8d3bf146e26e414f985836976f2a
+local-zone: "49-jili1.com" always_refuse
+local-zone: "777-salmao777.vip" always_refuse
+local-zone: "777jlbet.online" always_refuse
+local-zone: "777win.mom" always_refuse
+local-zone: "betze.win" always_refuse
+local-zone: "ph987a.com" always_refuse
+local-zone: "tigervip5.cc" always_refuse
