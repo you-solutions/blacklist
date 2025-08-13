@@ -30116,3 +30116,7 @@ local-zone: "tigervip5.cc" always_refuse
 #OFÍCIO N“ 310080114674
 #https://sistemas.anatel.gov.br/anexar-api/publico/anexos/download/d521213da5ae5fc37a11dc1ac09c6e78
 local-zone: "danielgarcialeilao.com" always_refuse
+#
+#
+#https://yousolutions.monday.com/boards/8077090569/pulses/9712596422
+local-zone: "antenabox.com" always_refuse
