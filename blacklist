@@ -30098,3 +30098,7 @@ local-zone: "tvexpresvioleta.com.br" always_refuse
 local-zone: "universodasrecargas.com" always_refuse
 local-zone: "y2fzdgxl.fubohd.com" always_refuse
 local-zone: "ybmwtk.bdvyqpwxo.com" always_refuse
+#
+#Ofício nº 507/2025/SFI-ANATEL
+#https://sistemas.anatel.gov.br/anexar-api/publico/anexos/download/69e30b0f103c0a9b5af3a2a684c824b7
+local-zone: "www.telelistas.net" always_refuse
