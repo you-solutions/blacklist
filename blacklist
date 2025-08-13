@@ -30112,3 +30112,7 @@ local-zone: "777win.mom" always_refuse
 local-zone: "betze.win" always_refuse
 local-zone: "ph987a.com" always_refuse
 local-zone: "tigervip5.cc" always_refuse
+
+#OFÍCIO N“ 310080114674
+#https://sistemas.anatel.gov.br/anexar-api/publico/anexos/download/d521213da5ae5fc37a11dc1ac09c6e78
+local-zone: "danielgarcialeilao.com" always_refuse
