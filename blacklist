@@ -30120,3 +30120,57 @@ local-zone: "danielgarcialeilao.com" always_refuse
 #
 #https://yousolutions.monday.com/boards/8077090569/pulses/9712596422
 local-zone: "antenabox.com" always_refuse
+#
+#Ofício nº 46-E/2025-ANCINE/SRG
+#https://sistemas.anatel.gov.br/anexar-api/publico/anexos/download/37d990551e7238dff9f723827781dc34
+local-zone: "98ca2.crackstreamslivehd.com" always_refuse
+local-zone: "assistirseriesonline.cc" always_refuse
+local-zone: "canalrecargas.com" always_refuse
+local-zone: "carloscodigosderecargas.com.br" always_refuse
+local-zone: "cdoukw.ayveftmdu.com" always_refuse
+local-zone: "codigoscinema.shop" always_refuse
+local-zone: "codigoseppibl.online" always_refuse
+local-zone: "codigosoficial.com" always_refuse
+local-zone: "codigosoficialagoora.com" always_refuse
+local-zone: "comandofilme.com" always_refuse
+local-zone: "digitalpresenca.com" always_refuse
+local-zone: "embedplay.upn.one" always_refuse
+local-zone: "embedtv-2.icu" always_refuse
+local-zone: "familycinema.shop" always_refuse
+local-zone: "florcd1.crackstreamslivehd.com" always_refuse
+local-zone: "futemax.social" always_refuse
+local-zone: "gellicardsplay2.shop" always_refuse
+local-zone: "gerentedastelas.shop" always_refuse
+local-zone: "gorillacards.shop" always_refuse
+local-zone: "infinitcards.com" always_refuse
+local-zone: "mfcpro.shop" always_refuse
+local-zone: "multicanais.cologne" always_refuse
+local-zone: "multicanaishd.biz" always_refuse
+local-zone: "multicanaishd.xyz" always_refuse
+local-zone: "nacaorecargas.com" always_refuse
+local-zone: "nossoplayeronlinehd.blog" always_refuse
+local-zone: "noxusstore.site" always_refuse
+local-zone: "nuvempremium.com" always_refuse
+local-zone: "nuvempremiumplayfilms.com" always_refuse
+local-zone: "playmaxcodigo.com" always_refuse
+local-zone: "playrecargaspremiumoficial.com" always_refuse
+local-zone: "playrecargasspremium.com" always_refuse
+local-zone: "playrecargasupoficial.com" always_refuse
+local-zone: "portalrecpremium.com" always_refuse
+local-zone: "rdcplay.live" always_refuse
+local-zone: "recarga24h.com" always_refuse
+local-zone: "recargastamires.com" always_refuse
+local-zone: "recargatop.com.br" always_refuse
+local-zone: "reidoscanais.life" always_refuse
+local-zone: "ruksdfhgh.jvliagbxd.com" always_refuse
+local-zone: "sejaclientered.com" always_refuse
+local-zone: "sessaocine.shop" always_refuse
+local-zone: "streamtpglobal.com" always_refuse
+local-zone: "topflixtv.cloud" always_refuse
+local-zone: "tvexpressoficialrecargas.com" always_refuse
+local-zone: "tvexpressrecharge.com" always_refuse
+local-zone: "ultracard.shop" always_refuse
+local-zone: "verdeorbi.store" always_refuse
+local-zone: "violetaplay.com" always_refuse
+local-zone: "violetaroxa.com" always_refuse
+local-zone: "zaptvonline.com" always_refuse
