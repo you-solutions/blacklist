@@ -3953,7 +3953,6 @@ local-zone: "supertv.io" always_refuse
 local-zone: "tvsbr.red" always_refuse
 local-zone: "xtvbr.red" always_refuse
 local-zone: "xtvspt.live" always_refuse
-local-zone: "adoroassistir.online" always_refuse
 local-zone: "adorofilme.com" always_refuse
 local-zone: "adorofilme.net" always_refuse
 local-zone: "adorofilme.net.br" always_refuse
@@ -7088,7 +7087,6 @@ local-zone: "ddddgame6.com" always_refuse
 local-zone: "dddy8pg.com" always_refuse
 local-zone: "deubet.com" always_refuse
 local-zone: "deusa777.vip" always_refuse
-local-zone: "dezenasbet.com" always_refuse
 local-zone: "dhd777.com" always_refuse
 local-zone: "dialogue777.com" always_refuse
 local-zone: "digibet.com" always_refuse
