@@ -30605,3 +30605,72 @@ local-zone: "redecinepremium.com" always_refuse
 local-zone: "recargasboxstream.com" always_refuse
 local-zone: "lojaroxa.shop" always_refuse
 local-zone: "multicanais.organic" always_refuse
+#
+#Ofício n.º 56-E/2025-ANCINE/SRG. Bloqueio de domínios (sítios eletrônicos).
+#https://sistemas.anatel.gov.br/anexar-api/publico/anexos/download/96c51e57dee1c2ddbef7dbbf74943da4
+local-zone: "57b1.crackstreamslivehd.com" always_refuse
+local-zone: "appicinemaoficial.com" always_refuse
+local-zone: "ativavioleta.com" always_refuse
+local-zone: "aw1wcm92zq.fubohd.com" always_refuse
+local-zone: "beautifulpeople.betcdn.cfd" always_refuse
+local-zone: "beautifulpeople.embefox.cyou" always_refuse
+local-zone: "beautifulpeople.galaxycdn.cyou" always_refuse
+local-zone: "beautifulpeople.losscdn.cfd" always_refuse
+local-zone: "beautifulpeople.melcdn.cfd" always_refuse
+local-zone: "futemax.br.com" always_refuse
+local-zone: "futemax.fashion" always_refuse
+local-zone: "gelliplayrecargas.shop" always_refuse
+local-zone: "glivvioleta.online" always_refuse
+local-zone: "hostcine.com" always_refuse
+local-zone: "infinitycarga.shop" always_refuse
+local-zone: "lojarecargalandia.com" always_refuse
+local-zone: "meatualizapro.com" always_refuse
+local-zone: "mercadovioleta.com" always_refuse
+local-zone: "multicanaisw.online" always_refuse
+local-zone: "mundoboxbrasil.shop" always_refuse
+local-zone: "pacoterecargas.com" always_refuse
+local-zone: "playmercadoup.com" always_refuse
+local-zone: "recargasapptv.com.br" always_refuse
+local-zone: "recargatamires.shop" always_refuse
+local-zone: "renovacards.online" always_refuse
+local-zone: "toponebr.com" always_refuse
+local-zone: "turborecarga.com" always_refuse
+local-zone: "www.futemaxhd.lat" always_refuse
+#
+#Ofício n.º 56-E/2025-ANCINE/SRG. Bloqueio de domínios (sítios eletrônicos).
+#https://sistemas.anatel.gov.br/anexar-api/publico/anexos/download/fb817d8880ad407d72de4f0b134ebef6
+local-zone: "ativaboxbr.com.br" always_refuse
+local-zone: "blplanoserecarga.shop" always_refuse
+local-zone: "chriscardson.shop" always_refuse
+local-zone: "cinerecargaplus.com" always_refuse
+local-zone: "codigos.store" always_refuse
+local-zone: "demobluetv2.mtecwp.com" always_refuse
+local-zone: "eppicinemaplanos.shop" always_refuse
+local-zone: "firecinema.shop" always_refuse
+local-zone: "links.vidnexy.cyou" always_refuse
+local-zone: "lojatopcard.com" always_refuse
+local-zone: "marlcargas.shop" always_refuse
+local-zone: "mclrecarga.com" always_refuse
+local-zone: "multicanaisbr.icu" always_refuse
+local-zone: "multicanaiss.club" always_refuse
+local-zone: "nextrecargas.com.br" always_refuse
+local-zone: "play.recargas.agencia-ads.com" always_refuse
+local-zone: "playhubplus.shop" always_refuse
+local-zone: "playplanos.com.br" always_refuse
+local-zone: "playrecargasja.shop" always_refuse
+local-zone: "recargaorigina.lojavirtual.com.br" always_refuse
+local-zone: "recargasbextv.com.br" always_refuse
+local-zone: "recargascinemacard.com.br" always_refuse
+local-zone: "reidocodigo.com" always_refuse
+local-zone: "renovaboxtv.com" always_refuse
+local-zone: "renovainfinity.shop" always_refuse
+local-zone: "renovameueppi.com" always_refuse
+local-zone: "starhomenovo.cyou" always_refuse
+local-zone: "tv-express.oncartx.io" always_refuse
+local-zone: "tvexpress.ola.click" always_refuse
+local-zone: "tvexpresspremium.smallpage.com.br" always_refuse
+local-zone: "tvrecarga.shop" always_refuse
+local-zone: "tvrecargaja.com" always_refuse
+local-zone: "vendasredplay.agencia-ads.com" always_refuse
+local-zone: "zapexpress.kyte.site" always_refuse
+local-zone: "zaptve.blogspot.com" always_refuse
