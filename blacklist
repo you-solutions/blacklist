@@ -30913,3 +30913,8 @@ local-zone: "ultratvexpress.online" always_refuse
 local-zone: "cineduo.vip" always_refuse
 local-zone: "cineemdobro.com" always_refuse
 local-zone: "canaisplay.my" always_refuse
+#
+#
+#https://yousolutions.monday.com/boards/8077090569/pulses/9987483167
+local-zone: "sistemabarao.com.br" always_refuse
+local-zone: "trivoweb.com" always_refuse
