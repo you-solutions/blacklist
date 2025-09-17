@@ -6895,7 +6895,6 @@ local-zone: "boylesports.com" always_refuse
 local-zone: "br.1xbet.com" always_refuse
 local-zone: "br.888casino.com" always_refuse
 local-zone: "br.betcris.com" always_refuse
-local-zone: "br.betcris.com/" always_refuse
 local-zone: "br.magicred.com" always_refuse
 local-zone: "br.melbet.com" always_refuse
 local-zone: "br.mrplay.com" always_refuse
@@ -30918,3 +30917,46 @@ local-zone: "canaisplay.my" always_refuse
 #https://yousolutions.monday.com/boards/8077090569/pulses/9987483167
 local-zone: "sistemabarao.com.br" always_refuse
 local-zone: "trivoweb.com" always_refuse
+#
+#Ofício nº 190/2025-Del
+#https://sistemas.anatel.gov.br/anexar-api/publico/anexos/download/97cb337d1baa29e9167ec7e9789a8050
+local-zone: "892shdhh2ga.cudururirahotahe.info" always_refuse
+local-zone: "a3b4c5d6.lotanugohokukedi.info" always_refuse
+local-zone: "a3b4c5d6.pacajofeparaja.info" always_refuse
+local-zone: "a3b4c5d6.rihewajawole.info" always_refuse
+local-zone: "btvappoficial.online" always_refuse
+local-zone: "btvboxoriginal.com" always_refuse
+local-zone: "carvalhoshopp.com.br" always_refuse
+local-zone: "embedplay.online" always_refuse
+local-zone: "f4sdsr33s.gotadafihufe.info" always_refuse
+local-zone: "i9j0k1l2.gotadafihufe.info" always_refuse
+local-zone: "i9j0k1l2.lotanugohokukedi.info" always_refuse
+local-zone: "i9j0k1l2.pacajofeparaja.info" always_refuse
+local-zone: "i9j0k1l2.rihewajawole.info" always_refuse
+local-zone: "imperiobrasiltv.com" always_refuse
+local-zone: "redecanais.help" always_refuse
+local-zone: "redecanaiss.online" always_refuse
+local-zone: "s5t6u7v8.gotadafihufe.info" always_refuse
+local-zone: "s5t6u7v8.lotanugohokukedi.info" always_refuse
+local-zone: "s5t6u7v8.rihewajawole.info" always_refuse
+local-zone: "w9x0y1z2.lotanugohokukedi.info" always_refuse
+local-zone: "w9x0y1z2.rihewajawole.info" always_refuse
+local-zone: "wrdxfrwassf.lotanugohokukedi.info" always_refuse
+local-zone: "wrdxfrwassf.pacajofeparaja.info" always_refuse
+#
+#Ofício nº 192/2025-Del
+#https://sistemas.anatel.gov.br/anexar-api/publico/anexos/download/3f8fde7a51181d1b16956ab2a284ca61
+local-zone: "assistirfilmes.eu" always_refuse
+local-zone: "comandofilmestorrenthd.org" always_refuse
+local-zone: "comandohdfilmes.site" always_refuse
+local-zone: "futemax.phd" always_refuse
+local-zone: "gofilmesplus.me" always_refuse
+local-zone: "pobreflix.now" always_refuse
+local-zone: "topflix20.com" always_refuse
+local-zone: "unitvoficial.blog" always_refuse
+local-zone: "unitvrecargavip.site" always_refuse
+#
+#Ofício nº 197/2025-Del 
+#https://sistemas.anatel.gov.br/anexar-api/publico/anexos/download/9c1e2f162576fe37b7bfb3fe7d95f4e0
+local-zone: "goflix1.lol" always_refuse
+local-zone: "topflixfilmes.com.br" always_refuse
