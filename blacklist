@@ -31157,3 +31157,26 @@ local-zone: "zeamerica.com.br" always_refuse
 #Ofício nº 213/2025-Del
 #https://sistemas.anatel.gov.br/anexar-api/publico/anexos/download/8db52d1910b3d3f368cf483d37144c33
 local-zone: "topflixonline.me" always_refuse
+
+
+#https://sistemas.anatel.gov.br/anexar-api/publico/anexos/download/a4c9b64880336d666352b04fa85d5793
+local-zone: "futemaxhd.zip" always_refuse
+local-zone: "outbound-proxy-us-east1-0-glob-usercontent-client-id0677256599.googleapis.com.pt" always_refuse
+local-zone: "outbound-proxy-us-east1-0-glob-usercontent-client-id6057846715.googleapis.com.pt" always_refuse
+local-zone: "cloud-usa-user76689866-sv02-stream.s27-usacloudfront-net.online" always_refuse
+local-zone: "futemaxhd.life" always_refuse
+local-zone: "outbound-proxy-us-east1-0-glob-usercontent-client-id4804258030.googleapis.com.pt" always_refuse
+local-zone: "outbound-proxy-us-east1-0-glob-usercontent-client-id4804258030.googleapis.com.pt" always_refuse
+local-zone: "beautifulpeople.goodcdn.cfd" always_refuse
+local-zone: "beautifulpeople.kettocdn.cyou" always_refuse
+local-zone: "beautifulpeople.stopcdn.cfd" always_refuse
+local-zone: "www.embed-3.icu" always_refuse
+local-zone: "www.embedcanais.net" always_refuse
+local-zone: "www.embedflix.org" always_refuse
+local-zone: "www.futemax.vlog.br" always_refuse
+local-zone: "beautifulpeople.rapidcdn.cfd" always_refuse
+local-zone: "multicanaisw.sbs" always_refuse
+local-zone: "outbound-proxy-us-east1-0-glob-usercontent-client-id8509522737.googleapis.com.pt" always_refuse
+local-zone: "popo67.live" always_refuse
+local-zone: "proxy.strixwave.top" always_refuse
+local-zone: "fireoz.org" always_refuse
