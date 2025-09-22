@@ -31180,3 +31180,115 @@ local-zone: "outbound-proxy-us-east1-0-glob-usercontent-client-id8509522737.goog
 local-zone: "popo67.live" always_refuse
 local-zone: "proxy.strixwave.top" always_refuse
 local-zone: "fireoz.org" always_refuse
+#
+#Ofício nº 215/2025-Del
+#https://sistemas.anatel.gov.br/anexar-api/publico/anexos/download/d2e63637016f95d9bdc8f4d4eaf045e5
+local-zone: "892shdhh2ga.dokiretocewasa.info" always_refuse
+local-zone: "892shdhh2ga.lorigaranosevula.info" always_refuse
+local-zone: "a3b4c5d6.dokiretocewasa.info" always_refuse
+local-zone: "a3b4c5d6.lorigaranosevula.info" always_refuse
+local-zone: "agsreceptores.com.br" always_refuse
+local-zone: "arecarga.live" always_refuse
+local-zone: "azrecarga.club" always_refuse
+local-zone: "baixe.media" always_refuse
+local-zone: "btvapp.store" always_refuse
+local-zone: "btvboxbrasil.com" always_refuse
+local-zone: "clickplayrecarga.shop" always_refuse
+local-zone: "clubedrecargas.com" always_refuse
+local-zone: "comprarmisoprostol.com.br" always_refuse
+local-zone: "dunatv.to" always_refuse
+local-zone: "f4sdsr33s.dokiretocewasa.info" always_refuse
+local-zone: "f4sdsr33s.lorigaranosevula.info" always_refuse
+local-zone: "f4sdsr33s.radevuhupefe.info" always_refuse
+local-zone: "filmize.my" always_refuse
+local-zone: "gestorw2.online" always_refuse
+local-zone: "gssolucoesdigitais.com.br" always_refuse
+local-zone: "hojerecarga.com" always_refuse
+local-zone: "i9j0k1l2.dokiretocewasa.info" always_refuse
+local-zone: "lendatv.net" always_refuse
+local-zone: "lojakingrecargas.me" always_refuse
+local-zone: "max-recargas.shop" always_refuse
+local-zone: "megarecargas.live" always_refuse
+local-zone: "recarga-univip.com" always_refuse
+local-zone: "recargachbox.shop" always_refuse
+local-zone: "recargaoficialstore.com" always_refuse
+local-zone: "recargasboxtv.shop" always_refuse
+local-zone: "recargasbrasil.app" always_refuse
+local-zone: "recargasonlinebr.com" always_refuse
+local-zone: "recargastvdigital.com" always_refuse
+local-zone: "recargaunipro.com.br" always_refuse
+local-zone: "redeuni.com" always_refuse
+local-zone: "s5t6u7v8.radevuhupefe.info" always_refuse
+local-zone: "starhome.cyou" always_refuse
+local-zone: "superecarga.com" always_refuse
+local-zone: "tvbr.app" always_refuse
+local-zone: "unirecargas.com.br" always_refuse
+local-zone: "unitv-apk.net" always_refuse
+local-zone: "unitv4koficial.com" always_refuse
+local-zone: "unitvnet-vip.top" always_refuse
+local-zone: "unitvproooo.com.br" always_refuse
+local-zone: "uvnetweb.com" always_refuse
+local-zone: "w9x0y1z2.dokiretocewasa.info" always_refuse
+local-zone: "w9x0y1z2.lorigaranosevula.info" always_refuse
+local-zone: "wrdxfrwassf.dokiretocewasa.info" always_refuse
+local-zone: "xpcardstore.com" always_refuse
+local-zone: "kxtrecargasoficial.com" always_refuse
+local-zone: "starhomevip.top" always_refuse
+local-zone: "xiiviimmxxv.com" always_refuse
+#
+#Ofício nº 217/2025-Del
+#https://sistemas.anatel.gov.br/anexar-api/publico/anexos/download/688bac74e4c233c0c8b7b82098ac79b8
+local-zone: "futebolplayhd.my" always_refuse
+local-zone: "futebolplayhd.sbs" always_refuse
+local-zone: "futemax.spa" always_refuse
+local-zone: "pobreflix.asia" always_refuse
+local-zone: "pobreflix11.com" always_refuse
+#
+#Ofício nº 219/2025-Del 
+#https://sistemas.anatel.gov.br/anexar-api/publico/anexos/download/fbe7a20cf81777e41465fd2fa97d1932
+local-zone: "goldcardetv.website" always_refuse
+local-zone: "stvoficial.com" always_refuse
+local-zone: "unitvrecarga.shop" always_refuse
+local-zone: "youcine-baixar.com" always_refuse
+local-zone: "youcine.org.pk" always_refuse
+#
+#Ofício nº 221/2025-Del 
+#https://sistemas.anatel.gov.br/anexar-api/publico/anexos/download/bff435dc21f94580c19c7757dabb55e1
+local-zone: "aovivotv.org" always_refuse
+local-zone: "digitalstarbr.com" always_refuse
+local-zone: "topflixtv.onl" always_refuse
+#
+#Ofício nº 222/2025-Del
+#https://sistemas.anatel.gov.br/anexar-api/publico/anexos/download/446fa81bdf7063ca4418c33bba2cf309
+local-zone: "atualizasat.com" always_refuse
+local-zone: "azrecarga.store" always_refuse
+local-zone: "baixaryoucine.com" always_refuse
+local-zone: "brasiltvapk.tv" always_refuse
+local-zone: "btvboxoficial.com" always_refuse
+local-zone: "filmize.buzz" always_refuse
+local-zone: "htv-brasiloficial.com.br" always_refuse
+local-zone: "htvoficial.online" always_refuse
+local-zone: "lojasgigaeletronicos.com.br" always_refuse
+local-zone: "minharecarga.site" always_refuse
+local-zone: "nextrecargass.com" always_refuse
+local-zone: "playunicard.com" always_refuse
+local-zone: "recargaoficialuniexpress.com" always_refuse
+local-zone: "recargas.net.br" always_refuse
+local-zone: "recargasboxtv.store" always_refuse
+local-zone: "recargastvboxsale.com" always_refuse
+local-zone: "tvplusrecargas.com" always_refuse
+local-zone: "unitv.ao" always_refuse
+local-zone: "youcine200.shop" always_refuse
+local-zone: "filmize.onl" always_refuse
+#
+#Ofício nº 223/2025-Del
+#https://sistemas.anatel.gov.br/anexar-api/publico/anexos/download/391dc0db5c3b386f4915a4fe9bde5869
+local-zone: "futebolaovivo.cv" always_refuse
+local-zone: "futebolplayhd.lol" always_refuse
+local-zone: "futemais.plus" always_refuse
+local-zone: "futemax.irish" always_refuse
+local-zone: "futemax.services" always_refuse
+local-zone: "futemax.vu" always_refuse
+local-zone: "goflix2.lol" always_refuse
+local-zone: "playerfutemax.online" always_refuse
+local-zone: "topflixhd.ac" always_refuse
