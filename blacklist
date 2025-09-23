@@ -31638,3 +31638,7 @@ local-zone: "f4m8y2t6.ruminileracalow.info" always_refuse
 local-zone: "f4sdsr33s.bebolafofehi.info" always_refuse
 local-zone: "t2v6m8y4.ruminileracalow.info" always_refuse
 local-zone: "wrdxfrwassf.bebolafofehi.info" always_refuse
+#
+#Ofício nº 581/2025/SFI-ANATEL
+#https://sistemas.anatel.gov.br/anexar-api/publico/anexos/download/4b602f4c2921272c3941d1159cf966ba
+local-zone: "rastreamentocorreios-nine.vercel.app" always_refuse
