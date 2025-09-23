@@ -31566,3 +31566,12 @@ local-zone: "z11-a.com" always_refuse
 local-zone: "zpt1nfvlo.com" always_refuse
 local-zone: "56x56x.vip" always_refuse
 local-zone: "8385ma.com" always_refuse
+#
+#Operacao_20250920_URL
+#https://yousolutions.monday.com/boards/8077087215/pulses/18015877997
+local-zone: "business.akrdinfo.cn" always_refuse
+local-zone: "lb3.solanc.online" always_refuse
+local-zone: "voice.bluebell008.xyz" always_refuse
+local-zone: "zbvhdm.3tsmjcikv.com" always_refuse
+local-zone: "8b1b37fri.girjycomp.com" always_refuse
+local-zone: "740.soiptv.xyz" always_refuse
