@@ -31642,3 +31642,34 @@ local-zone: "wrdxfrwassf.bebolafofehi.info" always_refuse
 #Ofício nº 581/2025/SFI-ANATEL
 #https://sistemas.anatel.gov.br/anexar-api/publico/anexos/download/4b602f4c2921272c3941d1159cf966ba
 local-zone: "rastreamentocorreios-nine.vercel.app" always_refuse
+#
+#o Ofício nº 54-E/2025-ANCINE/SRG (SEI 3822525)
+#https://sistemas.anatel.gov.br/anexar-api/publico/anexos/download/d1e382199a1735a07748bf4d4c325c55
+local-zone: "topvioleta.com" always_refuse
+local-zone: "beatrizmerenova.com" always_refuse
+local-zone: "canaisapptv.com" always_refuse
+local-zone: "chriscargason.shop" always_refuse
+local-zone: "codigotvexpress.com" always_refuse
+local-zone: "eppicinemarecargasbl.online" always_refuse
+local-zone: "expresrecargas.com" always_refuse
+local-zone: "globalrecargas.online" always_refuse
+local-zone: "infinitcargas.shop" always_refuse
+local-zone: "lojatve.com" always_refuse
+local-zone: "masterservicee.shop" always_refuse
+local-zone: "mercadoplayup.com" always_refuse
+local-zone: "mlrcargas.shop" always_refuse
+local-zone: "multicanaisx.shiksha" always_refuse
+local-zone: "papatv.com.br" always_refuse
+local-zone: "playexpress.me" always_refuse
+local-zone: "playhubmax.shop" always_refuse
+local-zone: "recargaconfiavel.com" always_refuse
+local-zone: "recargalandia.com" always_refuse
+local-zone: "recargared.com.br" always_refuse
+local-zone: "recargavioletaplay.com.br" always_refuse
+local-zone: "recarregartvexpress.com" always_refuse
+local-zone: "smartboxsite.com" always_refuse
+local-zone: "supremostreamings.com" always_refuse
+local-zone: "timevioleta.store" always_refuse
+local-zone: "torcidavioletapro.com" always_refuse
+local-zone: "tvexpress-recarga.com" always_refuse
+local-zone: "violetaplaycard.com" always_refuse
