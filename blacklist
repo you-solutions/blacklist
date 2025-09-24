@@ -31673,3 +31673,28 @@ local-zone: "timevioleta.store" always_refuse
 local-zone: "torcidavioletapro.com" always_refuse
 local-zone: "tvexpress-recarga.com" always_refuse
 local-zone: "violetaplaycard.com" always_refuse
+#
+#Ofício nº. 1436/2025 – NAI 
+#https://sistemas.anatel.gov.br/anexar-api/publico/anexos/download/ddcb87163352299ead77b45eaabff70a
+local-zone: "clubedovapor.com" always_refuse
+local-zone: "clubedovapor.net" always_refuse
+local-zone: "clubevapor.com" always_refuse
+local-zone: "lojavaper.com" always_refuse
+local-zone: "lojavapoking.com" always_refuse
+local-zone: "mundovaporofc.com" always_refuse
+local-zone: "mundovaporoficial.com" always_refuse
+local-zone: "omshop.catalog.kyte.site" always_refuse
+local-zone: "omshop.com" always_refuse
+local-zone: "vapeloja.com" always_refuse
+local-zone: "vapokings.com" always_refuse
+local-zone: "vaporclub.com.br" always_refuse
+local-zone: "vaporclubbr.com" always_refuse
+local-zone: "vaporclube.com" always_refuse
+local-zone: "vdevape.com" always_refuse
+local-zone: "vitrinedovape.com" always_refuse
+local-zone: "vitrinedovape.net" always_refuse
+local-zone: "vitrinedovapor.com" always_refuse
+local-zone: "clubevaper.com" always_refuse
+local-zone: "vaperletronico.com" always_refuse
+local-zone: "vapore sabor.com" always_refuse
+local-zone: "vdevaaper.com" always_refuse
