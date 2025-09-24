@@ -31166,7 +31166,6 @@ local-zone: "outbound-proxy-us-east1-0-glob-usercontent-client-id6057846715.goog
 local-zone: "cloud-usa-user76689866-sv02-stream.s27-usacloudfront-net.online" always_refuse
 local-zone: "futemaxhd.life" always_refuse
 local-zone: "outbound-proxy-us-east1-0-glob-usercontent-client-id4804258030.googleapis.com.pt" always_refuse
-local-zone: "outbound-proxy-us-east1-0-glob-usercontent-client-id4804258030.googleapis.com.pt" always_refuse
 local-zone: "beautifulpeople.goodcdn.cfd" always_refuse
 local-zone: "beautifulpeople.kettocdn.cyou" always_refuse
 local-zone: "beautifulpeople.stopcdn.cfd" always_refuse
