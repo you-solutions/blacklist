@@ -32229,3 +32229,6 @@ local-zone: "s5t6u7v8.dirohomuwofujuje.info" always_refuse
 local-zone: "f4sdsr33s.dirohomuwofujuje.info" always_refuse
 local-zone: "i9j0k1l2.dirohomuwofujuje.inf" always_refuse
 local-zone: "r8f4m6y2.damosunocemutur.info" always_refuse
+
+#https://sistemas.anatel.gov.br/anexar-api/publico/anexos/download/4b602f4c2921272c3941d1159cf966ba / #Ofício nº 581/2025/SFI-ANATEL
+local-zone: "rastreamentocorreios-nine.vercel.app" always_refuse
