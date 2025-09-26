@@ -31698,7 +31698,8 @@ local-zone: "vaperletronico.com" always_refuse
 local-zone: "vapore sabor.com" always_refuse
 local-zone: "vdevaaper.com" always_refuse
 
-#https://sistemas.anatel.gov.br/anexar-api/publico/anexos/download/d94b62c4ef75be9318fbcd0307b8c09d / #Oficio SEI nº 56296/2025/MF. SMF. SPA
+#https://sistemas.anatel.gov.br/anexar-api/publico/anexos/download/d94b62c4ef75be9318fbcd0307b8c09d
+#Oficio SEI nº 56296/2025/MF. SMF. SPA
 local-zone: "0808bet1.com" always_refuse
 local-zone: "1flechapg.com" always_refuse
 local-zone: "1pneupg.com" always_refuse
@@ -32171,7 +32172,8 @@ local-zone: "win444.top" always_refuse
 local-zone: "winzee.online" always_refuse
 local-zone: "zebrafishpg.com" always_refuse
 
-#https://sistemas.anatel.gov.br/anexar-api/publico/anexos/download/6f5ec11415dfd690804d3e791cf9c39f / #Ofício n.º 60-E/2025-ANCINE/SRG.
+#https://sistemas.anatel.gov.br/anexar-api/publico/anexos/download/6f5ec11415dfd690804d3e791cf9c39f
+#Ofício n.º 60-E/2025-ANCINE/SRG.
 local-zone: "w5q9r3k7.damosunocemutur.info" always_refuse
 local-zone: "k7h3j5n1.damosunocemutur.info" always_refuse
 local-zone: "w9x0y1z2.lufufivilurav.info" always_refuse
@@ -32230,11 +32232,14 @@ local-zone: "f4sdsr33s.dirohomuwofujuje.info" always_refuse
 local-zone: "i9j0k1l2.dirohomuwofujuje.inf" always_refuse
 local-zone: "r8f4m6y2.damosunocemutur.info" always_refuse
 
-#https://sistemas.anatel.gov.br/anexar-api/publico/anexos/download/4b602f4c2921272c3941d1159cf966ba / #Ofício nº 581/2025/SFI-ANATEL
+#https://sistemas.anatel.gov.br/anexar-api/publico/anexos/download/4b602f4c2921272c3941d1159cf966ba
+#Ofício nº 581/2025/SFI-ANATEL
 local-zone: "rastreamentocorreios-nine.vercel.app" always_refuse
 
-#https://sistemas.anatel.gov.br/anexar-api/publico/anexos/download/fb817d8880ad407d72de4f0b134ebef6 #Ofício n.º 56-E/2025-ANCINE/SRG.
-#https://sistemas.anatel.gov.br/anexar-api/publico/anexos/download/96c51e57dee1c2ddbef7dbbf74943da4 #Ofício n.º 56-E/2025-ANCINE/SRG.
+#https://sistemas.anatel.gov.br/anexar-api/publico/anexos/download/fb817d8880ad407d72de4f0b134ebef6
+#Ofício n.º 56-E/2025-ANCINE/SRG.
+#https://sistemas.anatel.gov.br/anexar-api/publico/anexos/download/96c51e57dee1c2ddbef7dbbf74943da4
+#Ofício n.º 56-E/2025-ANCINE/SRG.
 local-zone: "meatualizapro.com" always_refuse
 local-zone: "renovacards.online" always_refuse
 local-zone: "mundoboxbrasil.shop" always_refuse
