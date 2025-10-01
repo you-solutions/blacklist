@@ -26891,7 +26891,7 @@ local-zone: "brasilunitv.com" always_refuse
 local-zone: "codigounitv.com" always_refuse
 local-zone: "csvariedades.com" always_refuse
 local-zone: "duosat.tv" always_refuse
-local-zone: "facilzap.com.br" always_refuse
+#local-zone: "facilzap.com.br" always_refuse
 local-zone: "evaneletro.com.br" always_refuse
 local-zone: "evoluaeletronicos.com.br" always_refuse
 local-zone: "minharecargas.net" always_refuse
