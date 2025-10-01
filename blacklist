@@ -32309,3 +32309,7 @@ local-zone: "starhomenovo.cyou" always_refuse
 local-zone: "panel.web.starhome.vip" always_refuse
 local-zone: "links.vidnexy.cyou" always_refuse
 local-zone: "mclrecarga.com" always_refuse
+#
+#Ofício n.º 60-E/2025-ANCINE/SRG
+#https://sistemas.anatel.gov.br/anexar-api/publico/anexos/download/5a1890e8b82077fff761d7d7a22a6956
+local-zone: "i9j0k1l2.dirohomuwofujuje.info" always_refuse
