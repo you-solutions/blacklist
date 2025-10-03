@@ -32316,8 +32316,8 @@ local-zone: "i9j0k1l2.dirohomuwofujuje.info" always_refuse
 
 #O cio SEI nº 57764/2025/MF.
 #https://sistemas.anatel.gov.br/anexar-api/publico/anexos/download/3ffd3a25439bf2f263fd194dee166ded
-local-zone: "118sss.com" always_refuse ok
-local-zone: "1br335.com" always_refuse  no
+local-zone: "118sss.com" always_refuse
+local-zone: "1br335.com" always_refuse
 local-zone: "1xixbet.com" always_refuse
 local-zone: "223bet19.com" always_refuse
 local-zone: "2br335.com" always_refuse
