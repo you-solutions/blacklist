@@ -32778,3 +32778,16 @@ local-zone: "001game5.co" always_refuse
 local-zone: "m.okbet.casino" always_refuse
 local-zone: "urso-777.com" always_refuse
 local-zone: "l1je2zh.com" always_refuse
+
+#https://www.gov.br/anatel/pt-br/assuntos/noticias
+#anatel-emite-alerta-sobre-malware-bad-box-2-0-em-tv-boxes-piratas/estudo-da-anatel-sobre-o-badbox-2-0.pdf
+local-zone: "ipmoyu.com" always_refuse
+local-zone: "catmore88.com" always_refuse
+local-zone: "cbphe.com" always_refuse
+local-zone: "cbpheback.com" always_refuse
+local-zone: "ycxrl.com" always_refuse
+local-zone: "dcylog.com" always_refuse
+local-zone: "ti.qianxin.com" always_refuse
+local-zone: "flyermobi.com" always_refuse
+local-zone: "apkcar.com" always_refuse
+
