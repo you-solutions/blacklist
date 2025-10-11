@@ -32853,3 +32853,7 @@ local-zone: "t2v6m8y4.basawasedudeg.info" always_refuse
 local-zone: "t2v6m8y4.damosunocemutur.info" always_refuse
 local-zone: "u5t9h3v7.basawasedudeg.info" always_refuse
 local-zone: "w9x0y1z2.hovolerudunesa.info" always_refuse
+#
+#
+#https://sistemas.anatel.gov.br/anexar-api/publico/anexos/download/6bde702bc5fe37cf2ad9b46b28283e05
+local-zone: "7998bet.com" always_refuse
