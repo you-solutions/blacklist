@@ -3494,7 +3494,6 @@ local-zone: "smartpro.fun playon.click" always_refuse
 local-zone: "appredplay.com planosred.com" always_refuse
 local-zone: "compreredplay.online recargaspremiumbrasil.com" always_refuse
 local-zone: "compreredplay.site redplaygso.com" always_refuse
-local-zone: "compreredplaybr.com vnorecargas.com" always_refuse
 local-zone: "enviosredplay.agencia-ads.com." always_refuse
 local-zone: "familiaredplay.app" always_refuse
 local-zone: "familiaredplay.com" always_refuse
@@ -7263,7 +7262,6 @@ local-zone: "ggd777.com" always_refuse
 local-zone: "ggg1998.com" always_refuse
 local-zone: "gigpg.com" always_refuse
 local-zone: "gil777.cc" always_refuse
-local-zone: "gin777.com" always_refuse
 local-zone: "glgbrasil.com" always_refuse
 local-zone: "glo777.com" always_refuse
 local-zone: "glo777.vip" always_refuse
@@ -7875,7 +7873,6 @@ local-zone: "skypebet.com" always_refuse
 local-zone: "slots30.com" always_refuse
 local-zone: "slottica.com" always_refuse
 local-zone: "slotv.com" always_refuse
-local-zone: "sly777.com" always_refuse
 local-zone: "smarkets.com" always_refuse
 local-zone: "sniperbets.net" always_refuse
 local-zone: "soccabet.com" always_refuse
@@ -11963,7 +11960,6 @@ local-zone: "ferraripg555.com" always_refuse
 local-zone: "foz9.bet" always_refuse
 local-zone: "fubet.fun" always_refuse
 local-zone: "futurasbet.com" always_refuse
-local-zone: "gdc777.com" always_refuse
 local-zone: "gestowin.com" always_refuse
 local-zone: "ggbetpro.com" always_refuse
 local-zone: "gigpgzz.com" always_refuse
@@ -12717,7 +12713,6 @@ local-zone: "redplayer.top" always_refuse
 local-zone: "redplayofficial.shop" always_refuse
 local-zone: "redplayon.shop" always_refuse
 local-zone: "redplayonline.com.br" always_refuse
-local-zone: "redplaystvs.com" always_refuse
 local-zone: "redplayturbo.com" always_refuse
 local-zone: "4p.vc" always_refuse
 local-zone: "6p.vc" always_refuse
@@ -13952,7 +13947,6 @@ local-zone: "888dj8k.com" always_refuse
 local-zone: "888game.com" always_refuse
 local-zone: "888game.vip" always_refuse
 local-zone: "888game33.com" always_refuse
-local-zone: "888game44.com" always_refuse
 local-zone: "888game5.com" always_refuse
 local-zone: "888game55.com" always_refuse
 local-zone: "888game8.com" always_refuse
@@ -15272,7 +15266,6 @@ local-zone: "nnnnmk.com" always_refuse
 local-zone: "noitepg.com" always_refuse
 local-zone: "noronhapg777.com" always_refuse
 local-zone: "nozespg.com" always_refuse
-local-zone: "nuvempg-clbet.com" always_refuse
 local-zone: "nxnxpg.com" always_refuse
 local-zone: "o3.casino" always_refuse
 local-zone: "oigjogo.com" always_refuse
@@ -17159,7 +17152,6 @@ local-zone: "ii87d3.com" always_refuse
 local-zone: "iiikf.com" always_refuse
 local-zone: "in88pg.com" always_refuse
 local-zone: "iogapg.com" always_refuse
-local-zone: "iplwin8.com" always_refuse
 local-zone: "iwcpg.com" always_refuse
 local-zone: "jhbet.cc" always_refuse
 local-zone: "jhonpg.com" always_refuse
@@ -18211,7 +18203,6 @@ local-zone: "top882.net" always_refuse
 local-zone: "top883.co" always_refuse
 local-zone: "top883.vip" always_refuse
 local-zone: "trekpg.com" always_refuse
-local-zone: "twt777.com" always_refuse
 local-zone: "ubet10.com" always_refuse
 local-zone: "ubet1121.com" always_refuse
 local-zone: "ubet1688.com" always_refuse
@@ -18357,7 +18348,6 @@ local-zone: "msnpg.com" always_refuse
 local-zone: "9brpg.space" always_refuse
 local-zone: "bbrbet0014.com" always_refuse
 local-zone: "777tttt6.com" always_refuse
-local-zone: "betr777.com" always_refuse
 local-zone: "65x.com" always_refuse
 local-zone: "guaxinim777pg.com" always_refuse
 local-zone: "voy-skispg.com" always_refuse
@@ -19367,7 +19357,6 @@ local-zone: "798624.com" always_refuse
 local-zone: "365gg.com" always_refuse
 local-zone: "pp7bet.cc" always_refuse
 local-zone: "811bet17.com" always_refuse
-local-zone: "fun1900.com" always_refuse
 local-zone: "ffapg.co" always_refuse
 local-zone: "tatto777.com" always_refuse
 local-zone: "fairytail-pg.com" always_refuse
@@ -20919,7 +20908,6 @@ local-zone: "811bet29.com" always_nxdomain
 local-zone: "bom5577.com" always_nxdomain
 local-zone: "h77bet.vip" always_nxdomain
 local-zone: "312bet13.com" always_nxdomain
-local-zone: "bet0377.com" always_nxdomain
 local-zone: "5500bet28.com" always_nxdomain
 local-zone: "bufallosport.com" always_nxdomain
 local-zone: "barbecuewin.com" always_nxdomain
@@ -21829,7 +21817,6 @@ local-zone: "betfive.io" always_refuse
 local-zone: "sportsbet.io" always_refuse
 local-zone: "jetbet365.com" always_refuse
 local-zone: "sorte.bet" always_refuse
-local-zone: "pinbet.io" always_refuse
 
 # fonte:https://sistemas.anatel.gov.br/anexar-api/publico/anexos/download/96ee5dedaac2e3594434d2edab4a9fa5
 # Especificação de Tráfego Término da Operação (Desbloqueio)
@@ -23298,7 +23285,6 @@ local-zone: "rap777.com" always_refuse
 local-zone: "seguro777.com" always_refuse
 local-zone: "brilho777.com" always_refuse
 local-zone: "baixo777.com" always_refuse
-local-zone: "arca777.com" always_refuse
 local-zone: "flute777.com" always_refuse
 local-zone: "queij777.com" always_refuse
 local-zone: "renas777.com" always_refuse
@@ -23313,8 +23299,6 @@ local-zone: "bife777.win" always_refuse
 local-zone: "batata777.com" always_refuse
 local-zone: "uff777.com" always_refuse
 local-zone: "quo777.com" always_refuse
-local-zone: "ira777.com" always_refuse
-local-zone: "yep777.com" always_refuse
 local-zone: "praca777.com" always_refuse
 local-zone: "cachaca777.com" always_refuse
 local-zone: "viu777.com" always_refuse
@@ -23333,7 +23317,6 @@ local-zone: "usp777.com" always_refuse
 local-zone: "fui777.com" always_refuse
 local-zone: "drums777.com" always_refuse
 local-zone: "ato777.com" always_refuse
-local-zone: "vez777.com" always_refuse
 local-zone: "obg777.com" always_refuse
 local-zone: "mar777.com" always_refuse
 local-zone: "sofa777.com" always_refuse
@@ -25028,9 +25011,7 @@ local-zone: "2012bra7.com" always_refuse
 local-zone: "2012bra8.com" always_refuse
 local-zone: "2012bra9.com" always_refuse
 local-zone: "ceia777.com" always_refuse
-local-zone: "pus777.com" always_refuse
 local-zone: "centro777.com" always_refuse
-local-zone: "foi777.com" always_refuse
 local-zone: "ser777.win" always_refuse
 local-zone: "vlw777.com" always_refuse
 local-zone: "pluma777.win" always_refuse
@@ -25038,7 +25019,6 @@ local-zone: "guia777.com" always_refuse
 local-zone: "cio777.win" always_refuse
 local-zone: "folha777.com" always_refuse
 local-zone: "aeroporto777.com" always_refuse
-local-zone: "fez777.com" always_refuse
 local-zone: "comida777.com" always_refuse
 local-zone: "ranking777.com" always_refuse
 local-zone: "80pmbet.xyz" always_refuse
@@ -25550,7 +25530,6 @@ local-zone: "wgurso08.com" always_refuse
 local-zone: "nnn55.vip" always_refuse
 local-zone: "v5tsar.com" always_refuse
 local-zone: "bichono.bet" always_refuse
-local-zone: "agua777.com" always_refuse
 local-zone: "zww99.com" always_refuse
 local-zone: "555u.social" always_refuse
 local-zone: "567br777.com" always_refuse
@@ -25718,7 +25697,6 @@ local-zone: "5gbet.fit" always_refuse
 local-zone: "1d0005.com" always_refuse
 local-zone: "abcbet25.com" always_refuse
 local-zone: "qrbet20.org" always_refuse
-local-zone: "b456bra.com" always_refuse
 local-zone: "tg458.com" always_refuse
 local-zone: "777a.social" always_refuse
 local-zone: "337823.com" always_refuse
@@ -25874,7 +25852,6 @@ local-zone: "e117brl.com" always_refuse
 local-zone: "5811bet.cc" always_refuse
 local-zone: "sky855.com" always_refuse
 local-zone: "775bet.bet" always_refuse
-local-zone: "versusbet.com.br" always_refuse
 local-zone: "b5s8h3.com" always_refuse
 local-zone: "7887pg.com" always_refuse
 local-zone: "8xpgaa.com" always_refuse
@@ -26002,26 +25979,20 @@ local-zone: "uau777.com" always_refuse
 local-zone: "hil777.com" always_refuse
 local-zone: "tem777.bet" always_refuse
 local-zone: "seu777.win" always_refuse
-local-zone: "vem777.com" always_refuse
 local-zone: "cpu777.com" always_refuse
 local-zone: "bel777.com" always_refuse
 local-zone: "gil777.com" always_refuse
 local-zone: "noz777.com" always_refuse
-local-zone: "ver777.com" always_refuse
 local-zone: "oxe777.com" always_refuse
 local-zone: "ceo777.win" always_refuse
 local-zone: "voz777.com" always_refuse
-local-zone: "meu777.com" always_refuse
-local-zone: "nos777.com" always_refuse
 local-zone: "vao777.com" always_refuse
-local-zone: "faz777.com" always_refuse
 local-zone: "ela777.com" always_refuse
 local-zone: "cep777.com" always_refuse
 local-zone: "uma777.com" always_refuse
 local-zone: "desejo777.com" always_refuse
 local-zone: "sorriso777.com" always_refuse
 local-zone: "sonho777.com" always_refuse
-local-zone: "unb777.com" always_refuse
 local-zone: "ufmg777.com" always_refuse
 local-zone: "unesp777.win" always_refuse
 local-zone: "zum777.com" always_refuse
@@ -29875,13 +29846,11 @@ local-zone: "codigoscinema.shop" always_refuse
 local-zone: "codigoseppibl.online" always_refuse
 local-zone: "codigosoficial.com" always_refuse
 local-zone: "codigosoficialagoora.com" always_refuse
-local-zone: "comandofilme.com" always_refuse
 local-zone: "digitalpresenca.com" always_refuse
 local-zone: "embedplay.upn.one" always_refuse
 local-zone: "embedtv-2.icu" always_refuse
 local-zone: "familycinema.shop" always_refuse
 local-zone: "florcd1.crackstreamslivehd.com" always_refuse
-local-zone: "futemax.social" always_refuse
 local-zone: "gellicardsplay2.shop" always_refuse
 local-zone: "gerentedastelas.shop" always_refuse
 local-zone: "gorillacards.shop" always_refuse
@@ -29904,12 +29873,10 @@ local-zone: "rdcplay.live" always_refuse
 local-zone: "recarga24h.com" always_refuse
 local-zone: "recargastamires.com" always_refuse
 local-zone: "recargatop.com.br" always_refuse
-local-zone: "reidoscanais.life" always_refuse
 local-zone: "ruksdfhgh.jvliagbxd.com" always_refuse
 local-zone: "sejaclientered.com" always_refuse
 local-zone: "sessaocine.shop" always_refuse
 local-zone: "streamtpglobal.com" always_refuse
-local-zone: "topflixtv.cloud" always_refuse
 local-zone: "tvexpressoficialrecargas.com" always_refuse
 local-zone: "tvexpressrecharge.com" always_refuse
 local-zone: "ultracard.shop" always_refuse
@@ -30347,9 +30314,7 @@ local-zone: "ok-pg.bet" always_refuse
 local-zone: "omc--777.com" always_refuse
 local-zone: "pc.oraculo777bet.com" always_refuse
 local-zone: "pc.sonic777-bet.com" always_refuse
-local-zone: "pgkto.com" always_refuse
 local-zone: "pgkto.vip" always_refuse
-local-zone: "pgmgo.com" always_refuse
 local-zone: "pixganho.com" always_refuse
 local-zone: "pt1.pro" always_refuse
 local-zone: "pt10.pro" always_refuse
@@ -30612,28 +30577,18 @@ local-zone: "appicinemaoficial.com" always_refuse
 local-zone: "ativavioleta.com" always_refuse
 local-zone: "aw1wcm92zq.fubohd.com" always_refuse
 local-zone: "beautifulpeople.betcdn.cfd" always_refuse
-local-zone: "beautifulpeople.embefox.cyou" always_refuse
 local-zone: "beautifulpeople.galaxycdn.cyou" always_refuse
-local-zone: "beautifulpeople.losscdn.cfd" always_refuse
 local-zone: "beautifulpeople.melcdn.cfd" always_refuse
 local-zone: "futemax.br.com" always_refuse
 local-zone: "futemax.fashion" always_refuse
 local-zone: "gelliplayrecargas.shop" always_refuse
 local-zone: "glivvioleta.online" always_refuse
-local-zone: "hostcine.com" always_refuse
-local-zone: "infinitycarga.shop" always_refuse
-local-zone: "lojarecargalandia.com" always_refuse
 local-zone: "meatualizapro.com" always_refuse
-local-zone: "mercadovioleta.com" always_refuse
-local-zone: "multicanaisw.online" always_refuse
 local-zone: "mundoboxbrasil.shop" always_refuse
-local-zone: "pacoterecargas.com" always_refuse
 local-zone: "playmercadoup.com" always_refuse
 local-zone: "recargasapptv.com.br" always_refuse
 local-zone: "recargatamires.shop" always_refuse
-local-zone: "renovacards.online" always_refuse
 local-zone: "toponebr.com" always_refuse
-local-zone: "turborecarga.com" always_refuse
 local-zone: "www.futemaxhd.lat" always_refuse
 #
 #Ofício n.º 56-E/2025-ANCINE/SRG. Bloqueio de domínios (sítios eletrônicos).
@@ -30641,38 +30596,23 @@ local-zone: "www.futemaxhd.lat" always_refuse
 local-zone: "ativaboxbr.com.br" always_refuse
 local-zone: "blplanoserecarga.shop" always_refuse
 local-zone: "chriscardson.shop" always_refuse
-local-zone: "cinerecargaplus.com" always_refuse
 local-zone: "codigos.store" always_refuse
 local-zone: "demobluetv2.mtecwp.com" always_refuse
-local-zone: "eppicinemaplanos.shop" always_refuse
 local-zone: "firecinema.shop" always_refuse
 local-zone: "links.vidnexy.cyou" always_refuse
 local-zone: "lojatopcard.com" always_refuse
-local-zone: "marlcargas.shop" always_refuse
 local-zone: "mclrecarga.com" always_refuse
 local-zone: "multicanaisbr.icu" always_refuse
-local-zone: "multicanaiss.club" always_refuse
-local-zone: "nextrecargas.com.br" always_refuse
-local-zone: "play.recargas.agencia-ads.com" always_refuse
 local-zone: "playhubplus.shop" always_refuse
-local-zone: "playplanos.com.br" always_refuse
 local-zone: "playrecargasja.shop" always_refuse
 local-zone: "recargaorigina.lojavirtual.com.br" always_refuse
-local-zone: "recargasbextv.com.br" always_refuse
 local-zone: "recargascinemacard.com.br" always_refuse
-local-zone: "reidocodigo.com" always_refuse
-local-zone: "renovaboxtv.com" always_refuse
 local-zone: "renovainfinity.shop" always_refuse
-local-zone: "renovameueppi.com" always_refuse
 local-zone: "starhomenovo.cyou" always_refuse
-local-zone: "tv-express.oncartx.io" always_refuse
-local-zone: "tvexpress.ola.click" always_refuse
 local-zone: "tvexpresspremium.smallpage.com.br" always_refuse
 local-zone: "tvrecarga.shop" always_refuse
-local-zone: "tvrecargaja.com" always_refuse
 local-zone: "vendasredplay.agencia-ads.com" always_refuse
 local-zone: "zapexpress.kyte.site" always_refuse
-local-zone: "zaptve.blogspot.com" always_refuse
 #
 #Ocio SEI nº 52591/2025/MF. SMF. SP
 #https://sistemas.anatel.gov.br/anexar-api/publico/anexos/download/6d8808a8c2ed25596f5471a7c92ea70d
@@ -31548,14 +31488,12 @@ local-zone: "uuyy-bet.com" always_refuse
 local-zone: "v5bikini.bet" always_refuse
 local-zone: "vi7.game" always_refuse
 local-zone: "vipk85.com" always_refuse
-local-zone: "vlt777.com" always_refuse
 local-zone: "vodkapg-br.com" always_refuse
 local-zone: "voy-cicadapg.com" always_refuse
 local-zone: "voy-petscarepg.com" always_refuse
 local-zone: "voy-sorcererpg.com" always_refuse
 local-zone: "w1-palmpg.com" always_refuse
 local-zone: "w1-plumagepg.com" always_refuse
-local-zone: "w1-shawlpg.com" always_refuse
 local-zone: "we-bakerypg.com" always_refuse
 local-zone: "wg-777.bet" always_refuse
 local-zone: "wg-lotus.com" always_refuse
@@ -31706,7 +31644,6 @@ local-zone: "1pneupg.com" always_refuse
 local-zone: "1x-gl.com" always_refuse
 local-zone: "20ubetpg.com" always_refuse
 local-zone: "234bet.casino" always_refuse
-local-zone: "284bet2.com" always_refuse
 local-zone: "289win4.com" always_refuse
 local-zone: "2flechapg.com" always_refuse
 local-zone: "2otp777.xyz" always_refuse
@@ -31746,12 +31683,9 @@ local-zone: "91-cactuspg.com" always_refuse
 local-zone: "91-milhopg.com" always_refuse
 local-zone: "91-morayeelpg.com" always_refuse
 local-zone: "9flechapg.com" always_refuse
-local-zone: "a695brl.com" always_refuse
 local-zone: "a8654bet.com" always_refuse
 local-zone: "airplanepg.com" always_refuse
-local-zone: "ak7.online" always_refuse
 local-zone: "app.slot247.co" always_refuse
-local-zone: "b169brl.com" always_refuse
 local-zone: "b456bra.com" always_refuse
 local-zone: "bb9i1x.com" always_refuse
 local-zone: "bc0q3x.com" always_refuse
@@ -31768,12 +31702,10 @@ local-zone: "cantorpg.com" always_refuse
 local-zone: "culturapg.com" always_refuse
 local-zone: "d24aha38nrr9ho.cloudfront.net" always_refuse
 local-zone: "d3f3jfo8jjjetj.cloudfront.net" always_refuse
-local-zone: "dz-sketchpg.com" always_refuse
 local-zone: "e588brl.com" always_refuse
 local-zone: "eejl55.com" always_refuse
 local-zone: "et.game" always_refuse
 local-zone: "eze777.com" always_refuse
-local-zone: "f3588win.com" always_refuse
 local-zone: "faa777.com" always_refuse
 local-zone: "facilpg.com" always_refuse
 local-zone: "faf777.com" always_refuse
@@ -31813,7 +31745,6 @@ local-zone: "fmf777.com" always_refuse
 local-zone: "foi777.com" always_refuse
 local-zone: "fol777.com" always_refuse
 local-zone: "ftd777.com" always_refuse
-local-zone: "fui777.com" always_refuse
 local-zone: "fun1900.cc" always_refuse
 local-zone: "fun1900.com" always_refuse
 local-zone: "fun1900.live" always_refuse
@@ -31823,7 +31754,6 @@ local-zone: "fun777.com" always_refuse
 local-zone: "fwxjig.site" always_refuse
 local-zone: "fyf777.com" always_refuse
 local-zone: "fyp777.com" always_refuse
-local-zone: "g7588win.com" always_refuse
 local-zone: "gameescola.bet" always_refuse
 local-zone: "gameescola.com" always_refuse
 local-zone: "game-escola.com" always_refuse
@@ -31841,7 +31771,6 @@ local-zone: "ggn777.com" always_refuse
 local-zone: "ggp777.com" always_refuse
 local-zone: "ghc97.com" always_refuse
 local-zone: "ghj777.com" always_refuse
-local-zone: "gil777.com" always_refuse
 local-zone: "gin777.com" always_refuse
 local-zone: "gingapg.com" always_refuse
 local-zone: "gjs777.com" always_refuse
@@ -31882,7 +31811,6 @@ local-zone: "hlh777.com" always_refuse
 local-zone: "hlo777.com" always_refuse
 local-zone: "hls777.com" always_refuse
 local-zone: "hms-monstropg.bet" always_refuse
-local-zone: "hot777.com" always_refuse
 local-zone: "hoy777.com" always_refuse
 local-zone: "hpy777.com" always_refuse
 local-zone: "hqb777.com" always_refuse
@@ -31918,7 +31846,6 @@ local-zone: "itr777.com" always_refuse
 local-zone: "itu777.com" always_refuse
 local-zone: "ium777.com" always_refuse
 local-zone: "iwb777.com" always_refuse
-local-zone: "iwc777.com" always_refuse
 local-zone: "iza777.com" always_refuse
 local-zone: "jas777.com" always_refuse
 local-zone: "jau777.com" always_refuse
@@ -31987,7 +31914,6 @@ local-zone: "leon18.bet" always_refuse
 local-zone: "leon46.bet" always_refuse
 local-zone: "leon58.bet" always_refuse
 local-zone: "leon6482.bet" always_refuse
-local-zone: "leon777.bet" always_refuse
 local-zone: "leon888.bet" always_refuse
 local-zone: "ler777.com" always_refuse
 local-zone: "lf-futebol.com" always_refuse
@@ -32005,7 +31931,6 @@ local-zone: "lrz777.bet" always_refuse
 local-zone: "lrz777.casino" always_refuse
 local-zone: "lrz777.win" always_refuse
 local-zone: "lsi777.com" always_refuse
-local-zone: "luz777.com" always_refuse
 local-zone: "lvb777.com" always_refuse
 local-zone: "lvbra.com" always_refuse
 local-zone: "m.cliente777bet.com" always_refuse
@@ -32016,7 +31941,6 @@ local-zone: "m1-pg.vip" always_refuse
 local-zone: "m1-relampagomcqueen.bet" always_refuse
 local-zone: "manga-chiclete-pg.com" always_refuse
 local-zone: "manga-fogo-pg.com" always_refuse
-local-zone: "mar777.com" always_refuse
 local-zone: "mbh777.com" always_refuse
 local-zone: "mbi777.com" always_refuse
 local-zone: "mbk777.com" always_refuse
@@ -32075,12 +31999,9 @@ local-zone: "nn4n4n.com" always_refuse
 local-zone: "nnu777.com" always_refuse
 local-zone: "nor777.com" always_refuse
 local-zone: "nos777.com" always_refuse
-local-zone: "noz777.com" always_refuse
 local-zone: "npo777.com" always_refuse
 local-zone: "nrs777.com" always_refuse
 local-zone: "nvw777.com" always_refuse
-local-zone: "obg777.com" always_refuse
-local-zone: "obv777.com" always_refuse
 local-zone: "ofa777.com" always_refuse
 local-zone: "ofo777.com" always_refuse
 local-zone: "oja777.com" always_refuse
@@ -32092,7 +32013,6 @@ local-zone: "okw777.com" always_refuse
 local-zone: "oky777.com" always_refuse
 local-zone: "ole777.com" always_refuse
 local-zone: "oli777.com" always_refuse
-local-zone: "omc777.com" always_refuse
 local-zone: "omg777.com" always_refuse
 local-zone: "omo777.com" always_refuse
 local-zone: "omu777.com" always_refuse
@@ -32102,8 +32022,6 @@ local-zone: "ood777.com" always_refuse
 local-zone: "orn777.com" always_refuse
 local-zone: "otp777.com" always_refuse
 local-zone: "outonokk.vip" always_refuse
-local-zone: "own777.com" always_refuse
-local-zone: "oxe777.com" always_refuse
 local-zone: "oxi777.com" always_refuse
 local-zone: "oxp777.com" always_refuse
 local-zone: "pac777.com" always_refuse
@@ -32168,7 +32086,6 @@ local-zone: "wg-cavalo.com" always_refuse
 local-zone: "wg-estrela.com" always_refuse
 local-zone: "wg-perfume.com" always_refuse
 local-zone: "win104.org" always_refuse
-local-zone: "win444.top" always_refuse
 local-zone: "winzee.online" always_refuse
 local-zone: "zebrafishpg.com" always_refuse
 
@@ -32232,91 +32149,49 @@ local-zone: "f4sdsr33s.dirohomuwofujuje.info" always_refuse
 local-zone: "i9j0k1l2.dirohomuwofujuje.inf" always_refuse
 local-zone: "r8f4m6y2.damosunocemutur.info" always_refuse
 
-#https://sistemas.anatel.gov.br/anexar-api/publico/anexos/download/4b602f4c2921272c3941d1159cf966ba
-#Ofício nº 581/2025/SFI-ANATEL
-local-zone: "rastreamentocorreios-nine.vercel.app" always_refuse
-
 #https://sistemas.anatel.gov.br/anexar-api/publico/anexos/download/fb817d8880ad407d72de4f0b134ebef6
 #Ofício n.º 56-E/2025-ANCINE/SRG.
 #https://sistemas.anatel.gov.br/anexar-api/publico/anexos/download/96c51e57dee1c2ddbef7dbbf74943da4
 #Ofício n.º 56-E/2025-ANCINE/SRG.
-local-zone: "meatualizapro.com" always_refuse
+
 local-zone: "renovacards.online" always_refuse
-local-zone: "mundoboxbrasil.shop" always_refuse
-local-zone: "recargatamires.shop" always_refuse
-local-zone: "glivvioleta.online" always_refuse
 local-zone: "plusrecargatv.com.br" always_refuse
 local-zone: "lojarecargalandia.com" always_refuse
-local-zone: "gelliplayrecargas.shop" always_refuse
 local-zone: "infinitycarga.shop" always_refuse
-local-zone: "appicinemaoficial.com" always_refuse
-local-zone: "playmercadoup.com" always_refuse
-local-zone: "recargasapptv.com.br" always_refuse
-local-zone: "toponebr.com" always_refuse
 local-zone: "pacoterecargas.com" always_refuse
-local-zone: "ativavioleta.com" always_refuse
-local-zone: "turborecarga.com" always_refuse
 local-zone: "mercadovioleta.com" always_refuse
 local-zone: "hostcine.com" always_refuse
 local-zone: "cloud-usa-user76689874-sv01-stream.s27-" always_refuse
 local-zone: "usa-cloudfront-net.online" always_refuse
-local-zone: "futemax.fashion" always_refuse
-local-zone: "beautifulpeople.losscdn.cfd" always_refuse
 local-zone: "multicanaisw.online" always_refuse
-local-zone: "aw1wcm92zq.fubohd.com" always_refuse
-local-zone: "beautifulpeople.betcdn.cfd" always_refuse
 local-zone: "beautifulpeople.embefox.cyou" always_refuse
-local-zone: "beautifulpeople.galaxycdn.cyou" always_refuse
 local-zone: "beautifulpeople.melcdn.cfd" always_refuse
-local-zone: "futemax.br.com" always_refuse
-local-zone: "57b1.crackstreamslivehd.com" always_refuse
-local-zone: "www.futemaxhd.lat" always_refuse
 local-zone: "redplaystvs.com" always_refuse
 local-zone: "compreredplaybr.com" always_refuse
-local-zone: "multicanaisbr.icu" always_refuse
-local-zone: "multicanaiss.club" always_refuse
-local-zone: "firecinema.shop" always_refuse
-local-zone: "chriscardson.shop" always_refuse
-local-zone: "renovainfinity.shop" always_refuse
-local-zone: "blplanoserecarga.shop" always_refuse
-local-zone: "ativaboxbr.com.br" always_refuse
+local-zone: "multicanaiss.club" always_refuse  
 local-zone: "renovaboxtv.com" always_refuse
 local-zone: "reidocodigo.com" always_refuse
-local-zone: "lojatopcard.com" always_refuse
 local-zone: "cinerecargaplus.com" always_refuse
-local-zone: "demobluetv2.mtecwp.com" always_refuse
 local-zone: "tv-express.oncartx.io" always_refuse
 local-zone: "tvexpress.ola.click" always_refuse
 local-zone: "play.recargas.agencia-ads.com" always_refuse
-local-zone: "vendasredplay.agencia-ads.com" always_refuse
-local-zone: "zapexpress.kyte.site" always_refuse
 local-zone: "zaptve.blogspot.com" always_refuse
-local-zone: "recargaorigina.lojavirtual.com.br" always_refuse
-local-zone: "tvexpresspremium.smallpage.com.br" always_refuse
 local-zone: "tvrecargaja.com" always_refuse
-local-zone: "playrecargasja.shop" always_refuse
 local-zone: "marlcargas.shop" always_refuse
-local-zone: "playhubplus.shop" always_refuse
 local-zone: "renovameueppi.com" always_refuse
 local-zone: "recargasbextv.com.br" always_refuse
-local-zone: "recargascinemacard.com.br" always_refuse
 local-zone: "eppicinemaplanos.shop" always_refuse
 local-zone: "nextrecargas.com.br" always_refuse
-local-zone: "tvrecarga.shop" always_refuse
-local-zone: "codigos.store" always_refuse
 local-zone: "playplanos.com.br" always_refuse
-local-zone: "starhomenovo.cyou" always_refuse
 local-zone: "panel.web.starhome.vip" always_refuse
-local-zone: "links.vidnexy.cyou" always_refuse
-local-zone: "mclrecarga.com" always_refuse
+
 #
 #Ofício n.º 60-E/2025-ANCINE/SRG
 #https://sistemas.anatel.gov.br/anexar-api/publico/anexos/download/5a1890e8b82077fff761d7d7a22a6956
 local-zone: "i9j0k1l2.dirohomuwofujuje.info" always_refuse
 
 #O cio SEI nº 57764/2025/MF.
-#https://sistemas.anatel.gov.br/anexar-api/publico/anexos/download/3ffd3a25439bf2f263fd194dee166ded
-local-zone: "118sss.com" always_refuse
+#https://sistemas.anatel.gov.br/anexar-api/publico/anexos/download/3ffd3a25439bf2f263fd194dee166ded    
 local-zone: "1br335.com" always_refuse
 local-zone: "1xixbet.com" always_refuse
 local-zone: "223bet19.com" always_refuse
@@ -32327,7 +32202,6 @@ local-zone: "3QQ.com" always_refuse
 local-zone: "3xixbet.com" always_refuse
 local-zone: "4br335.com" always_refuse
 local-zone: "55ckkq.com" always_refuse
-local-zone: "5br335.com" always_refuse
 local-zone: "65x.team" always_refuse
 local-zone: "6br335.com" always_refuse
 local-zone: "7br335.com" always_refuse
@@ -32345,14 +32219,11 @@ local-zone: "d2068bet.com" always_refuse
 local-zone: "e3jk2dajkdjkaw2.store" always_refuse
 local-zone: "kciowl.com" always_refuse
 local-zone: "kewnf.com" always_refuse
-local-zone: "ler777.com" always_refuse
 local-zone: "lotadopg.com" always_refuse
 local-zone: "manga-guerreiros-pg.com" always_refuse
-local-zone: "mcasino0082.com" always_refuse
 local-zone: "mcsn2024.com" always_refuse
 local-zone: "okokpla9.com" always_refuse
 local-zone: "pgkto.com" always_refuse
-local-zone: "pgkto.vip" always_refuse
 local-zone: "play.ppth99.com" always_refuse
 local-zone: "ptp777.com" always_refuse
 local-zone: "pub777.com" always_refuse
@@ -32367,12 +32238,9 @@ local-zone: "qop777.com" always_refuse
 local-zone: "qqa777.com" always_refuse
 local-zone: "qqx777.com" always_refuse
 local-zone: "qua777.com" always_refuse
-local-zone: "quo777.com" always_refuse
-local-zone: "rap777.com" always_refuse
 local-zone: "rbd777.com" always_refuse
 local-zone: "rbt777.com" always_refuse
 local-zone: "reh777.com" always_refuse
-local-zone: "rei777.com" always_refuse
 local-zone: "rek777.com" always_refuse
 local-zone: "rex777.com" always_refuse
 local-zone: "rfc777.com" always_refuse
@@ -32430,7 +32298,6 @@ local-zone: "srg777.com" always_refuse
 local-zone: "sri777.com" always_refuse
 local-zone: "srj777.com" always_refuse
 local-zone: "sso777.com" always_refuse
-local-zone: "staketopbet.com" always_refuse
 local-zone: "sun777.com" always_refuse
 local-zone: "suu777.com" always_refuse
 local-zone: "szz777.com" always_refuse
@@ -32463,12 +32330,10 @@ local-zone: "tzy777.com" always_refuse
 local-zone: "uba777.com" always_refuse
 local-zone: "ubi777.com" always_refuse
 local-zone: "ubt777.com" always_refuse
-local-zone: "uff777.com" always_refuse
 local-zone: "ugd777.com" always_refuse
 local-zone: "ugm777.com" always_refuse
 local-zone: "ugo777.com" always_refuse
 local-zone: "uju777.com" always_refuse
-local-zone: "uma777.com" always_refuse
 local-zone: "umi777.com" always_refuse
 local-zone: "umr777.com" always_refuse
 local-zone: "unb777.com" always_refuse
@@ -32476,7 +32341,6 @@ local-zone: "uol777.com" always_refuse
 local-zone: "upp777.com" always_refuse
 local-zone: "uru777.com" always_refuse
 local-zone: "usg777.com" always_refuse
-local-zone: "uso777.com" always_refuse
 local-zone: "uvo777.com" always_refuse
 local-zone: "uya777.com" always_refuse
 local-zone: "vai777.com" always_refuse
@@ -32491,14 +32355,12 @@ local-zone: "vip777.com" always_refuse
 local-zone: "vip777.money" always_refuse
 local-zone: "vip777a9.com" always_refuse
 local-zone: "vipwin01.com" always_refuse
-local-zone: "viu777.com" always_refuse
 local-zone: "viv777.com" always_refuse
 local-zone: "vlt777.com" always_refuse
 local-zone: "voe777.com" always_refuse
 local-zone: "vos777.com" always_refuse
 local-zone: "vox777.com" always_refuse
 local-zone: "voy777.com" always_refuse
-local-zone: "voz777.com" always_refuse
 local-zone: "vph777.com" always_refuse
 local-zone: "vru777.com" always_refuse
 local-zone: "vso777.com" always_refuse
@@ -32576,7 +32438,6 @@ local-zone: "betfortuna.com.br" always_refuse
 local-zone: "1xCasino.com" always_refuse
 local-zone: "betmillion.io" always_refuse
 local-zone: "clbet.com" always_refuse
-local-zone: "br.parimatch.com" always_refuse
 local-zone: "bet.app" always_refuse
 local-zone: "aabr777.com" always_refuse
 local-zone: "aaqq777.com" always_refuse
@@ -32585,18 +32446,15 @@ local-zone: "abdi777.com" always_refuse
 local-zone: "acep777.com" always_refuse
 local-zone: "aces777.com" always_refuse
 local-zone: "acgc777.com" always_refuse
-local-zone: "0sem35.com" always_refuse
 local-zone: "acre777.com" always_refuse
 local-zone: "adhd777.com" always_refuse
 local-zone: "aeae777.com" always_refuse
 local-zone: "aero777.com" always_refuse
 local-zone: "afaf777.com" always_refuse
 local-zone: "agua777.com" always_refuse
-local-zone: "bbrbet6413.com" always_refuse
 local-zone: "jogowin777.club" always_refuse
 local-zone: "trevobet7.co" always_refuse
 local-zone: "am-m97.com" always_refuse
-local-zone: "55rion.vip" always_refuse
 local-zone: "am-m98.com" always_refuse
 local-zone: "koala777.bet" always_refuse
 local-zone: "sssalfa.net" always_refuse
@@ -32616,7 +32474,6 @@ local-zone: "lutapg.cc" always_refuse
 local-zone: "pavaoboi.co" always_refuse
 local-zone: "ajtipo-pg.com" always_refuse
 local-zone: "google.y7y7liytcj.com" always_refuse
-local-zone: "xx8vip7.com" always_refuse
 local-zone: "382beta.com" always_refuse
 local-zone: "win905.cc" always_refuse
 local-zone: "win140.org" always_refuse
@@ -32690,10 +32547,8 @@ local-zone: "gqg8fk.com" always_refuse
 local-zone: "reidopitacog.com" always_refuse
 local-zone: "7nggd8.com" always_refuse
 local-zone: "reidopitacoe.com" always_refuse
-local-zone: "uih6vx.com" always_refuse
 local-zone: "altk777.com" always_refuse
 local-zone: "alus777.com" always_refuse
-local-zone: "alvo777.com" always_refuse
 local-zone: "amam777.com" always_refuse
 local-zone: "aman777.com" always_refuse
 local-zone: "amei777.com" always_refuse
@@ -32704,11 +32559,8 @@ local-zone: "betcp.co" always_refuse
 local-zone: "e1633bet.com" always_refuse
 local-zone: "desportopg.bet" always_refuse
 local-zone: "t0101bet.com" always_refuse
-local-zone: "we-marlospg.com" always_refuse
 local-zone: "dz-tshirtpg.com" always_refuse
 local-zone: "w1-bluewhalepg.com" always_refuse
-local-zone: "manga-guerreiros-pg.com" always_refuse
-local-zone: "voy-fursealpg.com" always_refuse
 local-zone: "tipopg.bet" always_refuse
 local-zone: "alturapg.com" always_refuse
 local-zone: "i3t2r5.com" always_refuse
@@ -32731,11 +32583,9 @@ local-zone: "888game2.com" always_refuse
 local-zone: "888game3.com" always_refuse
 local-zone: "888game4.com" always_refuse
 local-zone: "888game7.com" always_refuse
-local-zone: "888game9.com" always_refuse
 local-zone: "888game11.com" always_refuse
 local-zone: "888game21.com" always_refuse
 local-zone: "888game22.com" always_refuse
-local-zone: "888game26.com" always_refuse
 local-zone: "888game27.com" always_refuse
 local-zone: "888game30.com" always_refuse
 local-zone: "888game31.com" always_refuse
@@ -32770,14 +32620,6 @@ local-zone: "am-m99.com" always_refuse
 local-zone: "lutapg.vip" always_refuse
 local-zone: "lutapg.net" always_refuse
 local-zone: "xx8vip7.com" always_refuse
-local-zone: "win905.cc" always_refuse
-local-zone: "yxybet.com" always_refuse
-local-zone: "vip.yg4.net" always_refuse
-local-zone: "6096bet.com" always_refuse
-local-zone: "001game5.co" always_refuse
-local-zone: "m.okbet.casino" always_refuse
-local-zone: "urso-777.com" always_refuse
-local-zone: "l1je2zh.com" always_refuse
 
 #https://www.gov.br/anatel/pt-br/assuntos/noticias
 #anatel-emite-alerta-sobre-malware-bad-box-2-0-em-tv-boxes-piratas/estudo-da-anatel-sobre-o-badbox-2-0.pdf
@@ -33144,7 +32986,6 @@ local-zone: "batu777.com" always_refuse
 local-zone: "bazi777.com" always_refuse
 local-zone: "bbaa777.com" always_refuse
 local-zone: "bbae777.com" always_refuse
-local-zone: "qp7myx.com" always_refuse
 local-zone: "apostamax.bet" always_refuse
 local-zone: "apostamaxbet.net" always_refuse
 local-zone: "bbas777.com" always_refuse
@@ -33153,7 +32994,6 @@ local-zone: "bbet777.com" always_refuse
 local-zone: "bbet777.win" always_refuse
 local-zone: "bbkk777.com" always_refuse
 local-zone: "bbrl777.com" always_refuse
-local-zone: "ravena777.com" always_refuse
 local-zone: "bbtt777.com" always_refuse
 local-zone: "bcat777.com" always_refuse
 local-zone: "bcat777.net" always_refuse
@@ -33165,7 +33005,6 @@ local-zone: "bent777.com" always_refuse
 local-zone: "berd777.com" always_refuse
 local-zone: "beri777.com" always_refuse
 local-zone: "best777.com" always_refuse
-local-zone: "beto777.com" always_refuse
 local-zone: "beto-slots.com" always_refuse
 local-zone: "betosloty.com" always_refuse
 local-zone: "beto-spillemaskiner.dk" always_refuse
@@ -33195,12 +33034,8 @@ local-zone: "betoavtomaty.com" always_refuse
 local-zone: "betolaib.com" always_refuse
 local-zone: "betojito.com" always_refuse
 local-zone: "betobaba.com" always_refuse
-local-zone: "beto999.com" always_refuse
-local-zone: "beto168.com" always_refuse
 local-zone: "beto-168.com" always_refuse
-local-zone: "beto7.com" always_refuse
 local-zone: "betr777.com" always_refuse
-local-zone: "betw777.com" always_refuse
 local-zone: "bhau777.com" always_refuse
 local-zone: "bigr777.com" always_refuse
 local-zone: "bigw777.com" always_refuse
@@ -33212,8 +33047,7 @@ local-zone: "bone777.com" always_refuse
 local-zone: "boni777.com" always_refuse
 local-zone: "bono777.com" always_refuse
 local-zone: "bood777.com" always_refuse
-local-zone: "m.bood777.com" always_refuse
-local-zone: "bote777.com" always_refuse
+local-zone: "m.bood777.com" always_refuse  
 local-zone: "bowo777.com" always_refuse
 local-zone: "bpjs777.com" always_refuse
 local-zone: "brag777.com" always_refuse
@@ -33238,7 +33072,6 @@ local-zone: "zy559.com" always_refuse
 local-zone: "a2068bet.com" always_refuse
 local-zone: "b2068bet.com" always_refuse
 local-zone: "c2068bet.com" always_refuse
-local-zone: "d2068bet.com" always_refuse
 local-zone: "e2068bet.com" always_refuse
 local-zone: "f2068bet.com" always_refuse
 local-zone: "g2068bet.com" always_refuse
@@ -33261,7 +33094,6 @@ local-zone: "win444.xyz" always_refuse
 local-zone: "d1nfme950fdsd0.cloudfront.net" always_refuse
 local-zone: "nnbet91.com" always_refuse
 local-zone: "cc5gbet.com" always_refuse
-local-zone: "bet0912.com" always_refuse
 local-zone: "bet0913.com" always_refuse
 local-zone: "bet0914.com" always_refuse
 local-zone: "bet0915.com" always_refuse
@@ -33273,9 +33105,6 @@ local-zone: "mbhp96.com" always_refuse
 local-zone: "erfqf2.com" always_refuse
 local-zone: "617-bet1.com" always_refuse
 local-zone: "bet0310.com" always_refuse
-local-zone: "bet0311.com" always_refuse
-local-zone: "bet0312.com" always_refuse
-local-zone: "bet0313.com" always_refuse
 local-zone: "bet0314.com" always_refuse
 local-zone: "bet0315.com" always_refuse
 local-zone: "bet0316.com" always_refuse
@@ -33300,7 +33129,6 @@ local-zone: "bahiakk6.vip" always_refuse
 local-zone: "bahiakk7.vip" always_refuse
 local-zone: "bet09.com" always_refuse
 local-zone: "bet09.co" always_refuse
-local-zone: "bet0966.com" always_refuse
 local-zone: "tapiocapg.bet" always_refuse
 local-zone: "voy-hawthornpg.com" always_refuse
 local-zone: "diadascriancaspg.com" always_refuse
@@ -33440,8 +33268,7 @@ local-zone: "youcine-official.net" always_refuse
 local-zone: "youcine200.net" always_refuse
 local-zone: "youcineapk.online" always_refuse
 
-#Ofício nº 237/2025-Del 
-local-zone: "cloud7-l2-user98745241-2.s27-usacloudfront-net.online" always_refuse
+#Ofício nº 237/2025-Del
 local-zone: "storage-usa-sv07-user78787451.6siusan.workers.dev" always_refuse
 local-zone: "megafilmes.store" always_refuse
 local-zone: "megafilmesbr.me" always_refuse
