@@ -33290,3 +33290,19 @@ local-zone: "loveflix.buzz" always_refuse
 local-zone: "loveflixbr.pro" always_refuse
 local-zone: "pobreflixoficial.com" always_refuse
 local-zone: "topflixtv.cloud" always_refuse
+
+
+#Ofício nº. 15969181 
+local-zone: "anygame.net" always_refuse
+local-zone: "dodi-repacks.site" always_refuse
+local-zone: "elamigos.site" always_refuse
+local-zone: "elamigosedition.com" always_refuse
+local-zone: "www.elamigosgames.org" always_refuse
+local-zone: "fitgirl-repacks.site" always_refuse
+local-zone: "game3rb.com" always_refuse
+local-zone: "igg-games.com" always_refuse
+local-zone: "ovagames.com" always_refuse
+local-zone: "skidrowcodex.net" always_refuse
+local-zone: "skidrow-games.com" always_refuse
+local-zone: "skidrowreloaded.com" always_refuse
+local-zone: "torgamez.com" always_refuse
