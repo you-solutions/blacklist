@@ -33306,3 +33306,15 @@ local-zone: "skidrowcodex.net" always_refuse
 local-zone: "skidrow-games.com" always_refuse
 local-zone: "skidrowreloaded.com" always_refuse
 local-zone: "torgamez.com" always_refuse
+
+#Ofício nº 15931098/2025
+local-zone: "mio-tvplus.com" always_refuse
+local-zone: "prosharecodes.com" always_refuse
+local-zone: "showtvoficial.com" always_refuse
+local-zone: "artemiscodigos.com" always_refuse
+local-zone: "visionsat.blog" always_refuse
+local-zone: "eaitv.com" always_refuse
+local-zone: "onflowgo.me" always_refuse
+local-zone: "echotvoficial.com" always_refuse
+local-zone: "mundoathomics.com" always_refuse
+local-zone: "receiver-software.com" always_refuse
