@@ -33318,3 +33318,18 @@ local-zone: "onflowgo.me" always_refuse
 local-zone: "echotvoficial.com" always_refuse
 local-zone: "mundoathomics.com" always_refuse
 local-zone: "receiver-software.com" always_refuse
+
+
+#Ofício nº 635/2025
+local-zone: "app.appsflyer.com" always_refuse
+local-zone: "imusic.nl" always_refuse
+local-zone: "m.soucha.net" always_refuse
+local-zone: "mobile.ximalaya.com" always_refuse
+local-zone: "musthave.ua" always_refuse
+local-zone: "n1ret.mengshanpengye.com" always_refuse
+local-zone: "new-endpoints.byteconnect.io" always_refuse
+local-zone: "rareroots.co.in" always_refuse
+local-zone: "shop.rosebarni.it" always_refuse
+local-zone: "trc.taboola.com" always_refuse
+local-zone: "imusic.dk" always_refuse
+local-zone: "www.purposegames.com" always_refuse
