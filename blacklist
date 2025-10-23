@@ -33396,3 +33396,6 @@ local-zone: "smartcpp.com" always_refuse
 local-zone: "multicanais.vu" always_refuse
 local-zone: "multicanaisw.lat" always_refuse
 local-zone: "topflixhd.lat" always_refuse
+
+#Ofício nº 643/2025/SFI-ANATEL.
+local-zone: "shopcardesmanche.com" always_refuse
