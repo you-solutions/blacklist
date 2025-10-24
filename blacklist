@@ -33399,3 +33399,16 @@ local-zone: "topflixhd.lat" always_refuse
 
 #Ofício nº 643/2025/SFI-ANATEL.
 local-zone: "shopcardesmanche.com" always_refuse
+
+#Ofício nº 15723952
+local-zone: "imegaflix.com" always_refuse
+local-zone: "superflix12.lol" always_refuse
+local-zone: "startflix.vip" always_refuse
+local-zone: "megatorrentfilmes.com" always_refuse
+local-zone: "supertorrent.org" always_refuse
+local-zone: "multicanaishd.my" always_refuse
+local-zone: "seriesonline.skin" always_refuse
+
+#Ofício nº 15736751 3
+local-zone: "filmestorrentes.org" always_refuse
+local-zone: "multicanaisx.com" always_refuse
