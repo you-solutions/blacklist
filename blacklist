@@ -33822,3 +33822,32 @@ local-zone: "wrdxfrwassf.jirakakevahevuf.info" always_refuse
 local-zone: "wrdxfrwassf.nibitarinefew.info" always_refuse
 local-zone: "wrdxfrwassf.rojabuhidahev.info" always_refuse
 local-zone: "y6r2k4v8.vatosukiwono.info" always_refuse
+
+
+#Oficio n 15698067 CyberGaeco
+local-zone: "netcinetv.lat" always_refuse
+local-zone: "seriesonlineweb.lol" always_refuse
+local-zone: "superflix.yachts" always_refuse
+local-zone: "superflix11.lol" always_refuse
+local-zone: "superflixbr.my" always_refuse
+local-zone: "superflixx.lol" always_refuse
+local-zone: "nerdtorrent.com" always_refuse
+local-zone: "ninjasfilmes.com" always_refuse
+local-zone: "plustorrent.net" always_refuse
+local-zone: "megaflix8.com" always_refuse
+local-zone: "multicanais.ee" always_refuse
+local-zone: "seriesflix.rest" always_refuse
+local-zone: "seuseriado.skin" always_refuse
+local-zone: "superflixapi.digital" always_refuse
+local-zone: "superflixapi.mom" always_refuse
+
+#Oficio n 15700691 CyberGaeco
+local-zone: "superflixbr.xyz" always_refuse
+
+#Oficio n 15707434 3 CyberGaeco
+local-zone: "ninjastorrent.net" always_refuse
+local-zone: "multicanaishd.lol" always_refuse
+local-zone: "netcinehd.lat" always_refuse
+local-zone: "netmoviesbr.me" always_refuse
+local-zone: "seriesflixtv2.lat" always_refuse
+local-zone: "superflix.cyou" always_refuse
