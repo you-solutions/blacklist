@@ -33851,3 +33851,19 @@ local-zone: "netcinehd.lat" always_refuse
 local-zone: "netmoviesbr.me" always_refuse
 local-zone: "seriesflixtv2.lat" always_refuse
 local-zone: "superflix.cyou" always_refuse
+
+
+#Ofício nº 15740666 - CyberGaeco. #Ofício nº 15741223 - CyberGaeco. #Ofício PJC nº 1741/2025. #Ofício nº 662/2025/SFI-ANATEL.
+local-zone: "playvaper.catalog.kyte.com" always_refuse
+local-zone: "reinodovapor.com" always_refuse
+local-zone: "reinodovaporoficial.com" always_refuse
+local-zone: "einodovapor.com" always_refuse
+local-zone: "sacivape.com" always_refuse
+local-zone: "tabacosbr.com" always_refuse
+local-zone: "tudovape.com" always_refuse
+local-zone: "universodovapor.com" always_refuse
+local-zone: "vapeinga.com" always_refuse
+local-zone: "vapelandbr.com" always_refuse
+local-zone: "onpuffs.net" always_refuse
+local-zone: "vapeinga.club" always_refuse
+local-zone: "reinodovaporofc.com" always_refuse
