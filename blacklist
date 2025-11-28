@@ -1,5 +1,92 @@
 server:
 
+#Ofício nº 701/2025/SFI-ANATEL
+#https://sistemas.anatel.gov.br/anexar-api/publico/anexos/download/b08912b0d66beec150cf817934ef0678
+#https://sistemas.anatel.gov.br/anexar-api/publico/anexos/download/8d5c1b525e047e2d2ba772674aeb6406
+
+local-zone: "a9k3v7q2.regacaseraviv.info" always_refuse
+local-zone: "e5f6g7h8.regacaseraviv.info" always_refuse
+local-zone: "k7h3j5n1.regacaseraviv.info" always_refuse
+local-zone: "m1j5y9u3.regacaseraviv.info" always_refuse
+local-zone: "nczcdn.dunnoparry.click" always_refuse
+local-zone: "ndzcdn.dunnoparry.click" always_refuse
+local-zone: "nezcdn.dunnoparry.click" always_refuse
+local-zone: "nfzcdn.dunnoparry.click" always_refuse
+local-zone: "ngzcdn.dunnoparry.click" always_refuse
+local-zone: "nizcdn.dunnoparry.click" always_refuse
+local-zone: "t4p8r2w6.regacaseraviv.info" always_refuse
+local-zone: "u5t9h3v7.regacaseraviv.info" always_refuse
+local-zone: "892shdhh2ga.jacecivojekubo.info" always_refuse
+local-zone: "892shdhh2ga.japabebugivejora.info" always_refuse
+local-zone: "a1b2c3d4.fiwohipedibun.info" always_refuse
+local-zone: "acessototal.app" always_refuse
+local-zone: "aztv.video" always_refuse
+local-zone: "bluev.tv" always_refuse
+local-zone: "c2q6k8r1.vosucowudori.info" always_refuse
+local-zone: "cloudfireoficial.com" always_refuse
+local-zone: "cloudfireoficial.xyz" always_refuse
+local-zone: "cnflix.vip" always_refuse
+local-zone: "d1muf25xa11so8hp20.s27-usa-cloudfront-net.online" always_refuse
+local-zone: "dreamtv.click" always_refuse
+local-zone: "f4m8y2t6.civulewodiwokowi.info" always_refuse
+local-zone: "f4m8y2t6.fiwohipedibun.info" always_refuse
+local-zone: "f4m8y2t6.jehuripumahoj.info" always_refuse
+local-zone: "f4sdsr33s.jacecivojekubo.info" always_refuse
+local-zone: "f4sdsr33s.japabebugivejora.info" always_refuse
+local-zone: "futemaxfc.com" always_refuse
+local-zone: "h6n2t8v4.fiwohipedibun.info" always_refuse
+local-zone: "hiajghdg3gse.samucipeduwa.info" always_refuse
+local-zone: "hjaghdg3gse.hejakatehuwu.info" always_refuse
+local-zone: "hjaghdg3gse.hetafacicekogok.info" always_refuse
+local-zone: "hjaghdg3gse.japulitebipep.info" always_refuse
+local-zone: "hypeflix.buzz" always_refuse
+local-zone: "i9j0k1l2.japabebugivejora.info" always_refuse
+local-zone: "j3u7f1m5.vosucowudori.info" always_refuse
+local-zone: "k7h3j5n1.civulewodiwokowi.info" always_refuse
+local-zone: "k7h3j5n1.jehuripumahoj.info" always_refuse
+local-zone: "lb1.dkk11.com" always_refuse
+local-zone: "lb2.dkk11.com" always_refuse
+local-zone: "lenews.online" always_refuse
+local-zone: "m1j5y9u3.debumutawopumito.info" always_refuse
+local-zone: "m1j5y9u3.jehuripumahoj.info" always_refuse
+local-zone: "m4p8t2q6.civulewodiwokowi.info" always_refuse
+local-zone: "maxiptv.online" always_refuse
+local-zone: "megafirebr.com" always_refuse
+local-zone: "multicanaishd.bar" always_refuse
+local-zone: "multicanaishd.fans" always_refuse
+local-zone: "multicanaishd.rest" always_refuse
+local-zone: "nensep.xyz" always_refuse
+local-zone: "nenset.xyz" always_refuse
+local-zone: "outbound-proxy-us-east1-0-glob-usercontent-client-id-0898340914.download.vg" always_refuse
+local-zone: "outbound-proxy-us-east1-0-glob-usercontent-client-id-2031446056.download.vg" always_refuse
+local-zone: "outbound-proxy-us-east1-0-glob-usercontent-client-id-2304774857.download.vg" always_refuse
+local-zone: "outbound-proxy-us-east1-0-glob-usercontent-client-id-3456303373.download.vg" always_refuse
+local-zone: "outbound-proxy-us-east1-0-glob-usercontent-client-id-6848166308.download.vg" always_refuse
+local-zone: "outbound-proxy-us-east1-0-glob-usercontent-client-id-9667771260.download.vg" always_refuse
+local-zone: "outbound-proxy-us-east1-0-glob-usercontent-client-id-9975522437.download.vg" always_refuse
+local-zone: "outbound-proxy-us-east1-0-glob-usercontent-client-id1533677642.download.vg" always_refuse
+local-zone: "outbound-proxy-us-east1-0-glob-usercontent-client-id4872957461.download.vg" always_refuse
+local-zone: "outbound-proxy-us-east1-0-glob-usercontent-client-id6354323038.download.vg" always_refuse
+local-zone: "outbound-proxy-us-east1-0-glob-usercontent-client-id7165083547.download.vg" always_refuse
+local-zone: "playpobreflix.net" always_refuse
+local-zone: "q3w7p1k9.civulewodiwokowi.info" always_refuse
+local-zone: "redduo.site" always_refuse
+local-zone: "s5t6u7v8.jacecivojekubo.info" always_refuse
+local-zone: "s5t6u7v8.japabebugivejora.info" always_refuse
+local-zone: "t2v6m8y4.fiwohipedibun.info" always_refuse
+local-zone: "top-flix.wiki" always_refuse
+local-zone: "top-flix.yachts" always_refuse
+local-zone: "top.gpsrv.shop" always_refuse
+local-zone: "tvz.lat" always_refuse
+local-zone: "tvzplay.xyz" always_refuse
+local-zone: "u5t9h3v7.fiwohipedibun.info" always_refuse
+local-zone: "u5t9h3v7.javorutasusov.info" always_refuse
+local-zone: "w5q9r3k7.lawicolewidupa.info" always_refuse
+local-zone: "w5q9r3k7.vosucowudori.info" always_refuse
+local-zone: "w9x0y1z2.japabebugivejora.info" always_refuse
+local-zone: "wrdxfrwassf.jacecivojekubo.info" always_refuse
+local-zone: "wrdxfrwassf.japabebugivejora.info" always_refuse
+
 #Ofício n.º 74-E/2025-ANCINE/SRG
 #https://sistemas.anatel.gov.br/anexar-api/publico/anexos/download/8e441aed12c77208605e7aec53f9449e
 #https://sistemas.anatel.gov.br/anexar-api/publico/anexos/download/d4fb197440742cc33d2c0cd56f0dce06
