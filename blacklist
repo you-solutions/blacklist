@@ -35164,9 +35164,6 @@ local-zone: "reinodovaporofc.com" always_refuse
 #Oficios-n4515,4517,4518,4522,4524-4528/2025/CGCIBER-DIOPI/DIOPI/SENASP/MJ
 local-zone: "visioncine-1.com.br" always_refuse
 local-zone: "visioncine.stream" always_refuse
-local-zone: "visioncine-1.com" always_refuse
-local-zone: "visioncine-2.com" always_refuse
-local-zone: "visioncine.live" always_refuse
 local-zone: "playcinevs.info" always_refuse
 local-zone: "conexao-vs.live" always_refuse
 local-zone: "cinevs.app" always_refuse
@@ -35186,8 +35183,6 @@ local-zone: "dramafansubs.net" always_refuse
 local-zone: "seudorama.com" always_refuse
 local-zone: "painelfire.com" always_refuse
 local-zone: "fireappauto.com" always_refuse
-local-zone: "smdns.dev" always_refuse
-local-zone: "fireoz.org" always_refuse
 local-zone: "hinatasoul.com" always_refuse
 local-zone: "hinatasoul.net" always_refuse
 local-zone: "anitube.vip" always_refuse
