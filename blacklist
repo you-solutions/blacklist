@@ -35162,14 +35162,12 @@ local-zone: "reinodovaporofc.com" always_refuse
 
 
 #Oficios-n4515,4517,4518,4522,4524-4528/2025/CGCIBER-DIOPI/DIOPI/SENASP/MJ
-local-zone: "visioncine-1.com.br" always_refuse
 local-zone: "visioncine.stream" always_refuse
 local-zone: "playcinevs.info" always_refuse
 local-zone: "conexao-vs.live" always_refuse
 local-zone: "cinevs.app" always_refuse
 local-zone: "visioncine.app" always_refuse
 local-zone: "visioncinetv.info" always_refuse
-local-zone: "visioncine.com.br" always_refuse
 local-zone: "webtv-new.iptvsmarters.com" always_refuse
 local-zone: "play.powerbplayer.me" always_refuse
 local-zone: "leoxpgames.com.br" always_refuse
@@ -35230,8 +35228,6 @@ local-zone: "legopg.net" always_refuse
 local-zone: "g70xhq.com" always_refuse
 local-zone: "9wxktdy3cmj.com" always_refuse
 local-zone: "sh777.click" always_refuse
-local-zone: "b456bra.com" always_refuse
-local-zone: "voy-kisskisspg.com" always_refuse
 local-zone: "ferropg.com" always_refuse
 local-zone: "okokkfc5.com" always_refuse
 local-zone: "777kid.bet" always_refuse
@@ -35353,16 +35349,13 @@ local-zone: "6855.ag" always_refuse
 local-zone: "brgame80.xyz" always_refuse
 local-zone: "soljogo9.com" always_refuse
 local-zone: "palpiteemcasa.com" always_refuse
-local-zone: "am-m98.com" always_refuse
 local-zone: "doca777.com" always_refuse
-local-zone: "w1-summerpg.com" always_refuse
 local-zone: "legumepg.com" always_refuse
 local-zone: "satisfepg.com" always_refuse
 local-zone: "vip.tybwin.com" always_refuse
 local-zone: "99899bet.cc" always_refuse
 local-zone: "feliz-pg.com" always_refuse
 local-zone: "br669.cc" always_refuse
-local-zone: "we-marlospg.com" always_refuse
 local-zone: "peachespg.com" always_refuse
 local-zone: "win65600.com" always_refuse
 local-zone: "h22.asia" always_refuse
@@ -35370,11 +35363,9 @@ local-zone: "8998win.com" always_refuse
 local-zone: "1778win.com" always_refuse
 local-zone: "yh.fdtxet.com" always_refuse
 local-zone: "7jj57.com" always_refuse
-local-zone: "2bt.bet" always_refuse
 local-zone: "5xt2.com" always_refuse
 local-zone: "20251119.corgipgc.com" always_refuse
 local-zone: "pardalpg.com" always_refuse
-local-zone: "janela777.com" always_refuse
 local-zone: "fuso777.com" always_refuse
 local-zone: "porta777.com" always_refuse
 local-zone: "torcida777.com" always_refuse
@@ -35386,7 +35377,6 @@ local-zone: "matraca777.com" always_refuse
 local-zone: "8estadiopg.com" always_refuse
 local-zone: "d2w40jpvqmywqg.cloudfront.net" always_refuse
 local-zone: "98z33.com" always_refuse
-local-zone: "365jogos.com.br" always_refuse
 local-zone: "168jogos.com.br" always_refuse
 local-zone: "190jogos.com.br" always_refuse
 local-zone: "f5x8m7.com" always_refuse
@@ -35485,7 +35475,6 @@ local-zone: "lose777.com" always_refuse
 local-zone: "lpkk777.com" always_refuse
 local-zone: "luaj777.com" always_refuse
 local-zone: "luar777.com" always_refuse
-local-zone: "love777.cc" always_refuse
 local-zone: "lupo777.com" always_refuse
 local-zone: "lusa777.com" always_refuse
 local-zone: "lyon777.com" always_refuse
