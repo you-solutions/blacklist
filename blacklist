@@ -1,5 +1,19 @@
 server:
 
+#Ofício nº 294-2025-Del
+#https://sistemas.anatel.gov.br/anexar-api/publico/anexos/download/ba2b17016d3bc0cab51899e93e6e81f2
+#
+local-zone: "cloud7-l2-user98745241-2.s27-usa-cloudfront-net.online" always_refuse
+
+#Ofício nº 297/2025-Del
+#https://sistemas.anatel.gov.br/anexar-api/publico/anexos/download/c3d60a5952befad8f06d7f06d5adffba
+#
+local-zone: "megacine-os-melhoresfilmes.softonic.com.br" always_refuse
+local-zone: "recarregarunitv.com.br" always_refuse
+local-zone: "tv-0800-tv-online-aovivo.softonic.com.br" always_refuse
+local-zone: "unitv-filmes-advice-tv-seriesnap.softonic.com.br" always_refuse
+local-zone: "unitv-filmes-advice-tvseries.softonic.com.br" always_refuse
+
 #
 #Ofício nº 305/2025-Del
 #https://sistemas.anatel.gov.br/anexar-api/publico/anexos/download/295841106f4ae1d865c937bc1ee8e0bc
