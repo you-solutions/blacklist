@@ -8631,7 +8631,6 @@ local-zone: "hoje.win" always_refuse
 local-zone: "honey777win.com" always_refuse
 local-zone: "honrapg.com" always_refuse
 local-zone: "horabet.vip" always_refuse
-local-zone: "hot777.com" always_refuse
 local-zone: "hublotpg.com" always_refuse
 local-zone: "hwbet.live" always_refuse
 local-zone: "i55933.com" always_refuse
@@ -11171,7 +11170,6 @@ local-zone: "1977bet.com" always_refuse
 local-zone: "1984bet.com" always_refuse
 local-zone: "1991bet.com" always_refuse
 local-zone: "1992bet.com" always_refuse
-local-zone: "1993bet.com" always_refuse
 local-zone: "1994bet.com" always_refuse
 local-zone: "1999bet.com" always_refuse
 local-zone: "19jogo.com" always_refuse
@@ -12347,16 +12345,6 @@ local-zone: "xilften.live" always_refuse
 local-zone: "xilftenfilmes.shop" always_refuse
 local-zone: "financeironews.com" always_refuse
 local-zone: "seriesflix2tv.com" always_refuse
-local-zone: "cxxbet.com" always_refuse
-local-zone: "7yjogo.com" always_refuse
-local-zone: "4444king.com" always_refuse
-local-zone: "7slots.casino" always_refuse
-local-zone: "amuletobet.com" always_refuse
-local-zone: "bbajogo.com" always_refuse
-local-zone: "br678.com" always_refuse
-local-zone: "iribet.com" always_refuse
-local-zone: "ninecasino.com" always_refuse
-local-zone: "x1jogo.com" always_refuse
 local-zone: "multicanais.nexus" always_refuse
 local-zone: "seriesflix.chat" always_refuse
 local-zone: "superseriesflix.com" always_refuse
