@@ -35719,3 +35719,12 @@ local-zone: "outbound-proxy-us-east1-0-glob-usercontent-client-id-9491172602.goo
 local-zone: "futemaxhd.fit" always_refuse
 local-zone: "w9x0y1z2.runehadaluribus.info" always_refuse
 local-zone: "q3w7p1k9.gugurucefiwin.info" always_refuse
+
+
+#OFICIOn4402/2025/CGCIBER-DIOPI/DIOPI/SENASP/MJ
+local-zone: "fintykids.com" always_refuse
+local-zone: "promorin.com" always_refuse
+local-zone: "vermontco.com.br" always_refuse
+local-zone: "fiordi.com.bro" always_refuse
+
+
