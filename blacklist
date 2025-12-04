@@ -35880,3 +35880,8 @@ local-zone: "lb2.dttok.life" always_refuse
 local-zone: "ddbank.click" always_refuse
 local-zone: "xdeck1.cc" always_refuse
 local-zone: "download.vg" always_refuse
+
+
+#Oficion4566/2025/CGCIBER-DIOPI/DIOPI/SENASP/MJ
+local-zone: "animesroll.com" always_refuse
+local-zone: "anroll.net" always_refuse
