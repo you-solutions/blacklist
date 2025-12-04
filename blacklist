@@ -35821,7 +35821,7 @@ local-zone: "compre10pila.com" always_refuse
 local-zone: "compredezconto.com" always_refuse
 local-zone: "10pila.online" always_refuse
 local-zone: "cursopersonalorganizer.net" always_refuse
-local-zone: "segredosdasplantas.com always_refuse
+local-zone: "segredosdasplantas.com" always_refuse
 local-zone: "compredezpila.com" always_refuse
 local-zone: "cultivodebolsoemcasa.com" always_refuse
 local-zone: "inglesnafaixa.com" always_refuse
