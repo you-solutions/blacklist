@@ -35840,3 +35840,43 @@ local-zone: "portaldecontas.com" always_refuse
 local-zone: "centrodesuporte.com" always_refuse
 local-zone: "jya0y6a4h3g.online" always_refuse
 
+
+#Oficion83-E/2025-ANCINE/SRG
+local-zone: "futemaxoficial.link" always_refuse
+local-zone: "outbound-proxy-us-east1-0-glob-usercontent-client-id-4941685605.download.vg" always_refuse
+local-zone: "futbollibrelibre.com" always_refuse
+local-zone: "outbound-proxy-us-east1-0-glob-usercontent-client-id-2322515809.download.vg" always_refuse
+local-zone: "hypeflix.media" always_refuse
+local-zone: "e5f6g7h8.bacakubedasif.info 26/11/2025" always_refuse
+local-zone: "hjaghdg3gse.bejahekukohupaf.info" always_refuse
+local-zone: "wrdxfrwassf.vehalicadodev.info" always_refuse
+local-zone: "q3w7p1k9.dadacawovohedoji.info" always_refuse
+local-zone: "khra34zun.nm37y3x2zf.co" always_refuse
+local-zone: "a9k3v7q2.jowomakacarakefe.info" always_refuse
+local-zone: "a1b2c3d4.jowomakacarakefe.info" always_refuse
+local-zone: "m1j5y9u3.bacakubedasif.info" always_refuse
+local-zone: "p1h5w9q3.bacakubedasif.info" always_refuse
+local-zone: "m1j5y9u3.jowomakacarakefe.info" always_refuse
+local-zone: "hjaghdg3gse.takuhevegeliw.info" always_refuse
+local-zone: "m4p8t2q6.rufiwedamifuliwo.info" always_refuse
+local-zone: "q3w7p1k9.wasinebogilunamu.info" always_refuse
+local-zone: "a9k3v7q2.wasinebogilunamu.info" always_refuse
+local-zone: "m1j5y9u3.dadacawovohedoji.info" always_refuse
+local-zone: "r8f4m6y2.dadacawovohedoji.info" always_refuse
+local-zone: "a3b4c5d6.huvoronikecoha.info" always_refuse
+local-zone: "s5t6u7v8.vehalicadodev.info" always_refuse
+local-zone: "r8f4m6y2.bacakubedasif.info" always_refuse
+local-zone: "t2v6m8y4.bacakubedasif.info" always_refuse
+local-zone: "y6r2k4v8.jowomakacarakefe.info" always_refuse
+local-zone: "w9x0y1z2.huvoronikecoha.info" always_refuse
+local-zone: "p1h5w9q3.rufiwedamifuliwo.info" always_refuse
+local-zone: "u5t9h3v7.jehuripumahoj.info" always_refuse
+local-zone: "u5t9h3v7.dadacawovohedoji.info" always_refuse
+local-zone: "a9k3v7q2.jafusuwinunif.info" always_refuse
+local-zone: "iahqkp.zmrqgxcyl.com" always_refuse
+local-zone: "coldcdn.click " always_refuse
+local-zone: "dtttt10.online" always_refuse
+local-zone: "lb2.dttok.life" always_refuse
+local-zone: "ddbank.click" always_refuse
+local-zone: "xdeck1.cc" always_refuse
+local-zone: "download.vg" always_refuse
