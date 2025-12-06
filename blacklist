@@ -1,6 +1,12 @@
 server:
 
 #
+#
+# https://sistemas.anatel.gov.br/anexar-api/publico/anexos/download/69e52a4b4bc73b06a5d3f7defc822f40
+local-zone: "sorteiosjusti.com.br" always_refuse
+local-zone: "www.superabuuu.com" always_refuse
+
+#
 #Ofício nº 711/2025/SFI-ANATEL
 #https://sistemas.anatel.gov.br/anexar-api/publico/anexos/download/511d2f585a74617fe674367ffffbcc29
 
