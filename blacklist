@@ -35002,7 +35002,8 @@ local-zone: "n1ret.mengshanpengye.com" always_refuse
 local-zone: "new-endpoints.byteconnect.io" always_refuse
 local-zone: "rareroots.co.in" always_refuse
 local-zone: "shop.rosebarni.it" always_refuse
-local-zone: "trc.taboola.com" always_refuse
+# https://sistemas.anatel.gov.br/anexar-api/publico/anexos/download/9179ff6bbc4c4cdca5f6fd18eace9cb8
+# local-zone: "trc.taboola.com" always_refuse
 local-zone: "imusic.dk" always_refuse
 local-zone: "www.purposegames.com" always_refuse
 
