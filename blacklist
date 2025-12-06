@@ -1,5 +1,72 @@
 server:
 
+#
+# Ofício nº 144/2025-Del 
+# https://sistemas.anatel.gov.br/anexar-api/publico/anexos/download/9611f9b9a310f46cda190587915fb830 
+
+local-zone: "bgfr.mqjvgndzp.com" always_refuse
+local-zone: "btvparana.com.br" always_refuse
+local-zone: "cdfr.xyefwhqpi.com" always_refuse
+local-zone: "dfcd.icxostbkd.com" always_refuse
+local-zone: "glski.mmdh5jygv1.com" always_refuse
+local-zone: "joyspace.uk" always_refuse
+local-zone: "lojasbtvbrasil.com" always_refuse
+local-zone: "maxicanais.com" always_refuse
+local-zone: "nmdr.jeiurbzdx.com" always_refuse
+local-zone: "othsn.pwjtxznvm.com" always_refuse
+local-zone: "recargacerta.com" always_refuse
+local-zone: "reidoscanais.vip" always_refuse
+local-zone: "speedrecarga.com" always_refuse
+local-zone: "starhomevip.vip" always_refuse
+local-zone: "stvbrasil.tv" always_refuse
+local-zone: "unitvfull.store" always_refuse
+local-zone: "vfgr.bvdhmqypc.com" always_refuse
+
+
+#
+#Ofício nº 142/2025-Del 
+#https://sistemas.anatel.gov.br/anexar-api/publico/anexos/download/97144979ed627625fe0944c04e43172c
+
+local-zone: "blinkcanaistv.com.br" always_refuse
+local-zone: "blueoficial.info" always_refuse
+local-zone: "bluetvbrasil.com.br" always_refuse
+local-zone: "bluetvonline.com.br" always_refuse
+local-zone: "btchannels.com.br" always_refuse
+local-zone: "btvplay.com" always_refuse
+local-zone: "canaisnatv.pro" always_refuse
+local-zone: "canaisultraplay.com" always_refuse
+local-zone: "cineduo.com" always_refuse
+local-zone: "cineduo.fun" always_refuse
+local-zone: "cinerecarga.com" always_refuse
+local-zone: "codigoderecarga.tv" always_refuse
+local-zone: "dcrecargas.net" always_refuse
+local-zone: "eppifamily.shop" always_refuse
+local-zone: "eppimembros.com" always_refuse
+local-zone: "grupoprimeiptv.com.br" always_refuse
+local-zone: "hypercinetv.com.br" always_refuse
+local-zone: "iptvparatodos.com.br" always_refuse
+local-zone: "jfcanais.shop" always_refuse
+local-zone: "lojacinecarga.com" always_refuse
+local-zone: "lojacodigosderecargas.com" always_refuse
+local-zone: "lojarecargatvplus.com" always_refuse
+local-zone: "meucodigoonline.com" always_refuse
+local-zone: "oficial-tvexpress.com" always_refuse
+local-zone: "oudneic.com" always_refuse
+local-zone: "panelshop.me" always_refuse
+local-zone: "playfamilia.com" always_refuse
+local-zone: "playrecargaspremium.com" always_refuse
+local-zone: "plusrecargas.com" always_refuse
+local-zone: "recargabrasilcards.com" always_refuse
+local-zone: "recargacineduo.com" always_refuse
+local-zone: "recargasmax.com.br" always_refuse
+local-zone: "redexpressshop.com.br" always_refuse
+local-zone: "telaorbi.site" always_refuse
+local-zone: "thoriptv.com.br" always_refuse
+local-zone: "tvonline24h.com.br" always_refuse
+local-zone: "vendecodigos.com" always_refuse
+local-zone: "violetatime.com" always_refuse
+local-zone: "visioniptv.com.br" always_refuse
+
 #Ofício nº 294-2025-Del
 #https://sistemas.anatel.gov.br/anexar-api/publico/anexos/download/ba2b17016d3bc0cab51899e93e6e81f2
 #
