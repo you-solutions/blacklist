@@ -1,6 +1,156 @@
 server:
 
 #
+# Ofício nº 16047927 – CyberGaeco
+# https://sistemas.anatel.gov.br/anexar-api/publico/anexos/download/01c7a62df1894eaaaed4417c0a27318d
+local-zone: "movielaza.com" always_refuse
+local-zone: "movierelief.com" always_refuse
+local-zone: "netcinerx.lat" always_refuse
+local-zone: "superflix18.lol" always_refuse
+local-zone: "tubefilmes.com.br" always_refuse
+
+#
+# Ofício nº 16045708 – CyberGaeco
+# https://sistemas.anatel.gov.br/anexar-api/publico/anexos/download/e6cac61e077a7218aa9ace88aef06f0d
+local-zone: "aaabg.lat" always_refuse
+local-zone: "baixefilmestorrent.org" always_refuse
+local-zone: "canaistop.xyz" always_refuse
+local-zone: "filmesviatorrenthd.com" always_refuse
+local-zone: "limonstorrent.org" always_refuse
+local-zone: "megafilmestorrent.com.br" always_refuse
+local-zone: "megaflix.casa" always_refuse
+local-zone: "megaflix.ltd" always_refuse
+local-zone: "megaflix.rodeo" always_refuse
+local-zone: "megaflix10.com" always_refuse
+local-zone: "multicanaishd.cc" always_refuse
+local-zone: "multicanaishd.ink" always_refuse
+local-zone: "netccine.lat" always_refuse
+local-zone: "netcine.icu" always_refuse
+local-zone: "netcine0.lat" always_refuse
+local-zone: "netcine1.lat" always_refuse
+local-zone: "netcinebx.lat" always_refuse
+local-zone: "netcinecx.lat" always_refuse
+local-zone: "netcinedx.lat" always_refuse
+local-zone: "netcinee.lat" always_refuse
+local-zone: "netcinef.lat" always_refuse
+local-zone: "netcinefx.lat" always_refuse
+local-zone: "netcinegx.lat" always_refuse
+local-zone: "netcineh.lat" always_refuse
+local-zone: "netcinehx.lat" always_refuse
+local-zone: "netcineo.lat" always_refuse
+local-zone: "netcinepx.lat" always_refuse
+local-zone: "netciner.lat" always_refuse
+local-zone: "netcines.lat" always_refuse
+local-zone: "netcinetx.lat" always_refuse
+local-zone: "netcinev.lat" always_refuse
+local-zone: "netcinev1.lat" always_refuse
+local-zone: "netcinev2.lat" always_refuse
+local-zone: "netcinevr.lat" always_refuse
+local-zone: "netcinevt.lat" always_refuse
+local-zone: "netcinevx.lat" always_refuse
+local-zone: "netcinew.lat" always_refuse
+local-zone: "nettcine.lat" always_refuse
+local-zone: "querotorrent.com" always_refuse
+local-zone: "seriefix.live" always_refuse
+local-zone: "serieflix.com.br" always_refuse
+local-zone: "seriesflix.cool" always_refuse
+local-zone: "seriesflix.dog" always_refuse
+local-zone: "seriesflix.golf" always_refuse
+local-zone: "seriesflix.men" always_refuse
+local-zone: "seriesflix.taxi" always_refuse
+local-zone: "seriesflix.team" always_refuse
+local-zone: "seriesflixpro.me" always_refuse
+local-zone: "seriesflixtv2.mom" always_refuse
+local-zone: "seriesflixtv2.pics" always_refuse
+local-zone: "seriesonline.sx" always_refuse
+local-zone: "seuseriados.org" always_refuse
+local-zone: "superflix.diy" always_refuse
+local-zone: "superflix.men" always_refuse
+local-zone: "superflix1.cloud" always_refuse
+local-zone: "superflix16.lol" always_refuse
+local-zone: "superflix17.lol" always_refuse
+local-zone: "superflixhd.sbs" always_refuse
+local-zone: "superflixpro.me" always_refuse
+local-zone: "superflixtv.pro" always_refuse
+local-zone: "thepiratefilmesflix.com" always_refuse
+local-zone: "topcanaishd.com" always_refuse
+local-zone: "torrefilmes.com" always_refuse
+local-zone: "torrentdosfilmes.net" always_refuse
+local-zone: "torrentdosfilmes1.net" always_refuse
+local-zone: "torrentdosfilmes2.com" always_refuse
+local-zone: "tttj.lat" always_refuse
+local-zone: "utorrentfilmes.com" always_refuse
+local-zone: "xilften.lol" always_refuse
+local-zone: "xilften.onl" always_refuse
+local-zone: "xilften.skin" always_refuse
+local-zone: "xilften.yt" always_refuse
+local-zone: "xilftenhd.app" always_refuse
+local-zone: "xtorrents.org" always_refuse
+
+
+#
+# Ofício nº 15811721 3 CyberGaeco
+# https://sistemas.anatel.gov.br/anexar-api/publico/anexos/download/0f1864a0da2220d6b0288cb4448a0382
+local-zone: "baixafilmeshd.org" always_refuse
+local-zone: "baixafilmestorrent.net" always_refuse
+local-zone: "baixofilmestorrent.bio" always_refuse
+local-zone: "clubtorrent.com" always_refuse
+local-zone: "dubladosfilmestorrent.pro" always_refuse
+local-zone: "fastfilmes.org" always_refuse
+local-zone: "filmesviatorrent.org" always_refuse
+local-zone: "halofilmes.com" always_refuse
+local-zone: "kingtorrent.org" always_refuse
+local-zone: "limontorrents.vip" always_refuse
+local-zone: "mastertorrent.org" always_refuse
+local-zone: "maxfilmestorrents.org" always_refuse
+local-zone: "megaflix.forum" always_refuse
+local-zone: "megaflix.skin" always_refuse
+local-zone: "megaflix1.lol" always_refuse
+local-zone: "mistertorrent.org" always_refuse
+local-zone: "multicanais.marketing" always_refuse
+local-zone: "multicanais.osaka" always_refuse
+local-zone: "multicanais.trading" always_refuse
+local-zone: "multicanais.xin" always_refuse
+local-zone: "multicanaishd.cfd" always_refuse
+local-zone: "multicanaishd.fit" always_refuse
+local-zone: "multicanaishd.sbs" always_refuse
+local-zone: "netcine2.lat" always_refuse
+local-zone: "netcine3.lat" always_refuse
+local-zone: "netcine4.lat" always_refuse
+local-zone: "netcine4k.lat" always_refuse
+local-zone: "netcine5.lat" always_refuse
+local-zone: "netcinego.lat" always_refuse
+local-zone: "netcinehd.si" always_refuse
+local-zone: "netcinex.lat" always_refuse
+local-zone: "netcinez.lat" always_refuse
+local-zone: "nicktorrent.com" always_refuse
+local-zone: "plustorrent.com" always_refuse
+local-zone: "seriesflix.hair" always_refuse
+local-zone: "seriesflixhd.cloud" always_refuse
+local-zone: "seriesflixtv-2.online" always_refuse
+local-zone: "seriesflixtv2.click" always_refuse
+local-zone: "seriesflixtv2.cv" always_refuse
+local-zone: "seriesflixtv2.fun" always_refuse
+local-zone: "seriesflixtv2.pw" always_refuse
+local-zone: "seriesonline.icu" always_refuse
+local-zone: "seuseriado.fit" always_refuse
+local-zone: "superflix.cfd" always_refuse
+local-zone: "superflix.onl" always_refuse
+local-zone: "superflix.rest" always_refuse
+local-zone: "superflix.wiki" always_refuse
+local-zone: "superflix13.lol" always_refuse
+local-zone: "superflix14.lol" always_refuse
+local-zone: "superflix15.lol" always_refuse
+local-zone: "superflix7.lol" always_refuse
+local-zone: "superflix9.lol" always_refuse
+local-zone: "superflixapi.life" always_refuse
+local-zone: "superflixapi.my" always_refuse
+local-zone: "superflixapi.work" always_refuse
+local-zone: "superflixbr2.lol" always_refuse
+local-zone: "superflixr.lol" always_refuse
+local-zone: "superflixy.com" always_refuse
+
+#
 #
 # https://sistemas.anatel.gov.br/anexar-api/publico/anexos/download/69e52a4b4bc73b06a5d3f7defc822f40
 local-zone: "sorteiosjusti.com.br" always_refuse
