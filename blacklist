@@ -1,6 +1,23 @@
 server:
 
 #
+#Ofício nº 16081600 – CyberGaeco
+#https://sistemas.anatel.gov.br/anexar-api/publico/anexos/download/fcb93f4e3bb3d07bfaf0aaeca7b552a4
+local-zone: "limaotorrent.org" always_refuse
+local-zone: "maxitorrent.org" always_refuse
+local-zone: "novarecargatv.com" always_refuse
+local-zone: "playflix.fun" always_refuse
+
+#
+#Ofício nº 16072514 – CyberGaeco
+#https://sistemas.anatel.gov.br/anexar-api/publico/anexos/download/0ddb25cb96e124a1a2afdddbc1d2b9cf
+
+local-zone: "netcinett.lat" always_refuse
+local-zone: "netcinezr.lat" always_refuse
+local-zone: "netcinezx.lat" always_refuse
+local-zone: "superflix19.lol" always_refuse
+
+#
 # Ofício nº 16047927 – CyberGaeco
 # https://sistemas.anatel.gov.br/anexar-api/publico/anexos/download/01c7a62df1894eaaaed4417c0a27318d
 local-zone: "movielaza.com" always_refuse
