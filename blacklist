@@ -1,5 +1,8 @@
 server:
 
+#
+#https://sistemas.anatel.gov.br/anexar-api/publico/anexos/download/6debed9ecef2313bfc5afb2bba1b54e3
+local-zone: "878.bet-grupo.com" always_refuse
 
 #
 #Ofício nº 16081600 – CyberGaeco
