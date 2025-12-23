@@ -37638,3 +37638,6 @@ local-zone: "lacre777.com" always_refuse
 #Oficionº5025967-19.2024.8.24.0020/SC. 
 local-zone: "leiloeirodanielgarcia.com" always_refuse
 local-zone: "danielgarcialeiloesoficiais.com" always_refuse
+
+#Oficio nº16192615 
+local-zone: "borafama.com" always_refuse
