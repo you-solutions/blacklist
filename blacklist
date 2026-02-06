@@ -1,4 +1,8 @@
 server:
+#
+#Ofício nº 126/2025/SFI-ANATEL
+#https://yousolutions.monday.com/boards/8077084953/pulses/11206217983
+local-zone: "rumble.com" always_refuse
 
 #
 #Ofício nº 756/2025/SFI-ANATEL
