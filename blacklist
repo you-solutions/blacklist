@@ -2,6 +2,15 @@ server:
 
 #
 #https://yousolutions.monday.com/boards/8077882222/pulses/11223470383
+#Decisão Judicial nº 1503198-59.2026.8.26.0454
+local-zone: "brasilsofts.com" always_refuse
+local-zone: "designer10.com" always_refuse
+local-zone: "mbmti.com" always_refuse
+local-zone: "pixz.com.br" always_refuse
+local-zone: "www.dfgames.com.br" always_refuse
+
+#
+#https://yousolutions.monday.com/boards/8077882222/pulses/11223470383
 #Ofício nº 16268591 – CyberGaeco
 local-zone: "supernaturalonline.net" always_refuse
 local-zone: "vipcanais.com" always_refuse
