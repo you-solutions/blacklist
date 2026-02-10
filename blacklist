@@ -1,6 +1,12 @@
 server:
 
 #
+#https://yousolutions.monday.com/boards/8077882222/pulses/11223470383
+#Ofício nº 16268591 – CyberGaeco
+local-zone: "supernaturalonline.net" always_refuse
+local-zone: "vipcanais.com" always_refuse
+
+#
 #https://yousolutions.monday.com/boards/8077882222/pulses/11223470383?asset_id=2744864501
 #Ofício nº 16260577 – CyberGaeco
 local-zone: "bluefilmestorrent.online" always_refuse
