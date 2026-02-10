@@ -1,6 +1,18 @@
 server:
 
 #
+#https://yousolutions.monday.com/boards/8077882222/pulses/11223470383?asset_id=2744864501
+#Ofício nº 16260577 – CyberGaeco
+local-zone: "bluefilmestorrent.online" always_refuse
+local-zone: "megaflix.bio.link" always_refuse
+local-zone: "multicanaishd.boats" always_refuse
+local-zone: "netcinegb.lat" always_refuse
+local-zone: "prisonbreakonline.net" always_refuse
+local-zone: "seriesflixhd.one" always_refuse
+local-zone: "superflix25.lol" always_refuse
+local-zone: "superflixapi.bond" always_refuse
+
+#
 #https://yousolutions.monday.com/boards/8077882222/pulses/11223470383
 #Ofício nº 16209697 – CyberGaeco
 local-zone: "filmesmaster.org" always_refuse
