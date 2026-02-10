@@ -2,6 +2,18 @@ server:
 
 #
 #https://yousolutions.monday.com/boards/8077882222/pulses/11223470383
+#Ofício nº 16235060– CyberGaeco
+
+local-zone: "megatorrent.online" always_refuse
+local-zone: "multicanaishd.baby" always_refuse
+local-zone: "netcinest.lat" always_refuse
+local-zone: "popfilmes.org" always_refuse
+local-zone: "superflix.biz.id" always_refuse
+local-zone: "superflix24.lol" always_refuse
+local-zone: "xfilmestorrent.com" always_refuse
+
+#
+#https://yousolutions.monday.com/boards/8077882222/pulses/11223470383
 #Ofício nº 377/2026-Del
 
 local-zone: "afiliadocineflix.com" always_refuse
