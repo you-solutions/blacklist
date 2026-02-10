@@ -1,4 +1,68 @@
 server:
+
+#
+#https://yousolutions.monday.com/boards/8077882222/pulses/11223470383
+#Ofício nº 16209697 – CyberGaeco
+local-zone: "filmesmaster.org" always_refuse
+local-zone: "filmeviatorrent.info" always_refuse
+local-zone: "hhh1.lat" always_refuse
+local-zone: "megaflix.download" always_refuse
+local-zone: "megaflix.shop" always_refuse
+local-zone: "megaflix11.com" always_refuse
+local-zone: "megaflix69.com" always_refuse
+local-zone: "megaflixstudio.com" always_refuse
+local-zone: "multicanaishd.cv" always_refuse
+local-zone: "multicanaishd.cyou" always_refuse
+local-zone: "multicanaishd.help" always_refuse
+local-zone: "multicanaishd.ltd" always_refuse
+local-zone: "multicanaishd.run" always_refuse
+local-zone: "mymegaflix.com" always_refuse
+local-zone: "nerdtorrenthd.net" always_refuse
+local-zone: "netcine.help" always_refuse
+local-zone: "netcinebb.lat" always_refuse
+local-zone: "netcinebz.lat" always_refuse
+local-zone: "netcineff.lat" always_refuse
+local-zone: "netcinefr.lat" always_refuse
+local-zone: "netcinegg.lat" always_refuse
+local-zone: "netcinehq.lat" always_refuse
+local-zone: "netcinek4.lat" always_refuse
+local-zone: "netcinekr.lat" always_refuse
+local-zone: "netcinepe.lat" always_refuse
+local-zone: "netcinepp.lat" always_refuse
+local-zone: "netcinept.lat" always_refuse
+local-zone: "netcinev3.lat" always_refuse
+local-zone: "netseries.biz" always_refuse
+local-zone: "ninjascine.com" always_refuse
+local-zone: "ninjastorrent1.com" always_refuse
+local-zone: "nnn1.lat" always_refuse
+local-zone: "popfilmestorrent.org" always_refuse
+local-zone: "portalfilmes.com" always_refuse
+local-zone: "seriesflix.autos" always_refuse
+local-zone: "seriesflix.beauty" always_refuse
+local-zone: "seriesflix.boats" always_refuse
+local-zone: "seriesflix.loan" always_refuse
+local-zone: "seriesflix.wtf" always_refuse
+local-zone: "seriesonline.stream" always_refuse
+local-zone: "seufilmetorrent.org" always_refuse
+local-zone: "sftorrent.com" always_refuse
+local-zone: "starckfilmes-v4.com" always_refuse
+local-zone: "starckfilmes-v7.com" always_refuse
+local-zone: "superflix20.lol" always_refuse
+local-zone: "superflix21.lol" always_refuse
+local-zone: "superflix22.lol" always_refuse
+local-zone: "superflix23.lol" always_refuse
+local-zone: "superflixapi.buzz" always_refuse
+local-zone: "superflixapi.run" always_refuse
+local-zone: "superflixhub.com" always_refuse
+local-zone: "topflixbr.club" always_refuse
+local-zone: "torrentdosfilmes-v1.xyz" always_refuse
+local-zone: "torrentdosfilmes-v2.xyz" always_refuse
+local-zone: "visioncine.fun" always_refuse
+local-zone: "visioncinetv.com" always_refuse
+local-zone: "xfilmestorrent.org" always_refuse
+local-zone: "xilften.cloud" always_refuse
+local-zone: "xilften.pics" always_refuse
+
 #
 #Ofício nº 126/2025/SFI-ANATEL
 #https://yousolutions.monday.com/boards/8077084953/pulses/11206217983
