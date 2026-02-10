@@ -2,6 +2,93 @@ server:
 
 #
 #https://yousolutions.monday.com/boards/8077882222/pulses/11223470383
+#Ofício nº 377/2026-Del
+
+local-zone: "afiliadocineflix.com" always_refuse
+local-zone: "animesflix.uk" always_refuse
+local-zone: "baixarfilmehd.com" always_refuse
+local-zone: "baixarfilmehd.org" always_refuse
+local-zone: "baixarfilmestorrents.com" always_refuse
+local-zone: "baixartorrent.site" always_refuse
+local-zone: "baixefilmeshd.com" always_refuse
+local-zone: "baixefilmetorrent.net" always_refuse
+local-zone: "boraflix.agency" always_refuse
+local-zone: "cineflix.co.in" always_refuse
+local-zone: "cineflixbr.com" always_refuse
+local-zone: "comandoplay.fun" always_refuse
+local-zone: "embedtvonline.com" always_refuse
+local-zone: "filmeseseriesgratis.com.br" always_refuse
+local-zone: "filmesgratishd.net" always_refuse
+local-zone: "filmeshdclips.com.br" always_refuse
+local-zone: "filmeson2.site" always_refuse
+local-zone: "filmestorrentmega.com" always_refuse
+local-zone: "futemax.moda" always_refuse
+local-zone: "futemax.money" always_refuse
+local-zone: "futemax.rehab" always_refuse
+local-zone: "futemax.supply" always_refuse
+local-zone: "futemaxhd.one" always_refuse
+local-zone: "futemaxmg.org" always_refuse
+local-zone: "futemaxsp.top" always_refuse
+local-zone: "futemaxx.app" always_refuse
+local-zone: "goflix1.site" always_refuse
+local-zone: "halofilmestorrent.com" always_refuse
+local-zone: "imperiofilmesgo.me" always_refuse
+local-zone: "limonfilmes.org" always_refuse
+local-zone: "maxflix.watch" always_refuse
+local-zone: "maxseries.cfd" always_refuse
+local-zone: "maxseries.one" always_refuse
+local-zone: "maxseries.run" always_refuse
+local-zone: "maxseries.site" always_refuse
+local-zone: "maxseries.ws" always_refuse
+local-zone: "megafilmeshd50.art" always_refuse
+local-zone: "megafilmeshd50.bond" always_refuse
+local-zone: "megafilmeshd50.cfd" always_refuse
+local-zone: "megafilmeshd50.pro" always_refuse
+local-zone: "mmfilmes.stream" always_refuse
+local-zone: "mmfilmes.xyz" always_refuse
+local-zone: "moviehdflix.xyz" always_refuse
+local-zone: "ntvbox.com.br" always_refuse
+local-zone: "pobrefli.com" always_refuse
+local-zone: "pobreflix.agency" always_refuse
+local-zone: "pobreflix.camp" always_refuse
+local-zone: "pobreflix.ceo" always_refuse
+local-zone: "pobreflix.coach" always_refuse
+local-zone: "pobreflix.expert" always_refuse
+local-zone: "pobreflix.rodeo" always_refuse
+local-zone: "pobreflix.spot" always_refuse
+local-zone: "pobreflix.team" always_refuse
+local-zone: "pobreflix.yachts" always_refuse
+local-zone: "pobreflixdublado.lat" always_refuse
+local-zone: "pobreflixhd.cv" always_refuse
+local-zone: "pobreflixtv.beer" always_refuse
+local-zone: "pobreflixtv.bond" always_refuse
+local-zone: "pobreflixtv.cfd" always_refuse
+local-zone: "pobreflixtv.mba" always_refuse
+local-zone: "pobreflixtv.news" always_refuse
+local-zone: "pobreflixtv.party" always_refuse
+local-zone: "pobreflixtv.pw" always_refuse
+local-zone: "pobreflixtv.wtf" always_refuse
+local-zone: "pobreflx.com" always_refuse
+local-zone: "pobretv.asia" always_refuse
+local-zone: "primetorrents.org" always_refuse
+local-zone: "rbopobreflix.biz" always_refuse
+local-zone: "rlstorrent.net" always_refuse
+local-zone: "seriemax.org" always_refuse
+local-zone: "series2watch.net" always_refuse
+local-zone: "topflixbr.live" always_refuse
+local-zone: "topflixbr.online" always_refuse
+local-zone: "topflixbr.video" always_refuse
+local-zone: "topflixes.cv" always_refuse
+local-zone: "tvunitv.com" always_refuse
+local-zone: "unitv-oficial.app" always_refuse
+local-zone: "unitv-pro.apkrabi.com" always_refuse
+local-zone: "unitvnetbrasil.app" always_refuse
+local-zone: "unitvoficial.pro" always_refuse
+local-zone: "xfilme.com.br" always_refuse
+local-zone: "xfilmes.org" always_refuse
+
+#
+#https://yousolutions.monday.com/boards/8077882222/pulses/11223470383
 #Ofício nº 376/2026-Del
 
 local-zone: "braflix.tw" always_refuse
