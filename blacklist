@@ -2,6 +2,56 @@ server:
 
 #
 #https://yousolutions.monday.com/boards/8077882222/pulses/11223470383
+#Ofício n.º 4-E/2026-ANCINE/SRG
+
+local-zone: "3r8umy94kl.temarevimebe.info" always_refuse
+local-zone: "3znt1oglmn.kosimocuhecim.info" always_refuse
+local-zone: "4l6aantvhd.bomemubiwudoh.info" always_refuse
+local-zone: "5nvrp2ecuv.dopefohogimakufa.info" always_refuse
+local-zone: "6h3aii0daq.rasemomokonac.info" always_refuse
+local-zone: "97r5tzmatu.kosimocuhecim.info" always_refuse
+local-zone: "9v9rhkq7aq.tuhavetesopot.info" always_refuse
+local-zone: "agfrrpgrse.bomemubiwudoh.info" always_refuse
+local-zone: "aj2h2gge.rukovodihijil.info" always_refuse
+local-zone: "at1qvwo8mn.wilodulekuhave.info" always_refuse
+local-zone: "bbb26aovivo.top" always_refuse
+local-zone: "c4k94pqise.dotupaturedumom.info" always_refuse
+local-zone: "cdnssfls.click" always_refuse
+local-zone: "d1muf25xa01so8hp27.s27-usa-cloudfront-net.online" always_refuse
+local-zone: "dezpila.org" always_refuse
+local-zone: "dezreais.baby" always_refuse
+local-zone: "dg6prjkvlm.cupekuramewer.info" always_refuse
+local-zone: "e4v8z3q6x9.gosogicusikip.info" always_refuse
+local-zone: "f9p3d6b4y8.huketokumuhone.info" always_refuse
+local-zone: "futemaxaovivo.top" always_refuse
+local-zone: "g80tv801aq.cakuninenadune.info" always_refuse
+local-zone: "gc4d1o1kmu0ujc9uulvt8sz4e2t84ck0z7uvrzkbe2stjvfds1fdrfwumcbno8s.foo" always_refuse
+local-zone: "h3f8q1v6k9.huketokumuhone.info" always_refuse
+local-zone: "j7alx1sgno.dopefohogimakufa.info" always_refuse
+local-zone: "k1iabrpnxy.dopefohogimakufa.info" always_refuse
+local-zone: "ljr7fswomn.wilodulekuhave.info" always_refuse
+local-zone: "outbound-proxy-us-east1-0-glob-usercontent-client-id-2366689822.gc4d1o1kmu0ujc9uulvt8sz4e2t84ck0z7uvrzkbe2stjvfds1fdrfwumcbno8s.foo" always_refuse
+local-zone: "outbound-proxy-us-east1-0-glob-usercontent-client-id-4297425952.gc4d1o1kmu0ujc9uulvt8sz4e2t84ck0z7uvrzkbe2stjvfds1fdrfwumcbno8s.foo" always_refuse
+local-zone: "outbound-proxy-us-east1-0-glob-usercontent-client-id-8845052399.gc4d1o1kmu0ujc9uulvt8sz4e2t84ck0z7uvrzkbe2stjvfds1fdrfwumcbno8s.foo" always_refuse
+local-zone: "p1x7z4w8e3.mugosukucewiwij.info" always_refuse
+local-zone: "pbxa7g2uhd.puvepurahobag.info" always_refuse
+local-zone: "pqz3vioctu.dopefohogimakufa.info" always_refuse
+local-zone: "primeplaytv.com.br" always_refuse
+local-zone: "q85dhkifkl.cupekuramewer.info" always_refuse
+local-zone: "q8m3v7r1t9.huketokumuhone.info" always_refuse
+local-zone: "q8m3v7r1t9.mugosukucewiwij.info" always_refuse
+local-zone: "rxep5812gr.puvepurahobag.info" always_refuse
+local-zone: "s1.1-cup.net" always_refuse
+local-zone: "sv8e2px9wz.temarevimebe.info" always_refuse
+local-zone: "tbhnmk95no.dopefohogimakufa.info" always_refuse
+local-zone: "te9qa7szqw.dilucofucabava.info" always_refuse
+local-zone: "vipcanaisplay.site" always_refuse
+local-zone: "w2m9k5h7f1.gosogicusikip.info" always_refuse
+local-zone: "z8u3e7w2c5.huketokumuhone.info" always_refuse
+
+
+#
+#https://yousolutions.monday.com/boards/8077882222/pulses/11223470383
 #Ofício n.º 1-E/2026-ANCINE/SRG
 local-zone: "comandotorrents.top" always_refuse
 local-zone: "0tgmqkp2st.gavipicijuhigina.info" always_refuse
