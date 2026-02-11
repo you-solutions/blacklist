@@ -2,6 +2,91 @@ server:
 
 #
 #https://yousolutions.monday.com/boards/8077882222/pulses/11223470383
+#Ofício n.º 1-E/2026-ANCINE/SRG
+local-zone: "comandotorrents.top" always_refuse
+local-zone: "0tgmqkp2st.gavipicijuhigina.info" always_refuse
+local-zone: "10conto.app.br" always_refuse
+local-zone: "46a7nb50xy.cupekuramewer.info" always_refuse
+local-zone: "63erjygvhd.sodigucegeketu.info" always_refuse
+local-zone: "6iestnx8lm.rawocagojumib.info" always_refuse
+local-zone: "92hlslp2gr.tuhavetesopot.info" always_refuse
+local-zone: "andromedaz.site" always_refuse
+local-zone: "b7u4d9g2n5.huketokumuhone.info" always_refuse
+local-zone: "bhfv927qxy.wosotadamowaved.info" always_refuse
+local-zone: "canaistop.online" always_refuse
+local-zone: "cloudfireoficial.online" always_refuse
+local-zone: "comandotorrent.co" always_refuse
+local-zone: "d1muf25xa01so8hp20.s27-usa-cloudfront-net.online" always_refuse
+local-zone: "d1muf25xa01so8hp21.s27-usa-cloudfront-net.online" always_refuse
+local-zone: "dlhd.link" always_refuse
+local-zone: "dstreaming.win" always_refuse
+local-zone: "e97gp08whi.gavipicijuhigina.info" always_refuse
+local-zone: "embedflix.cv" always_refuse
+local-zone: "ep7qm24xjk.dilucofucabava.info" always_refuse
+local-zone: "eqo9ml0nst.cupekuramewer.info" always_refuse
+local-zone: "futemaxfuteboltv.com" always_refuse
+local-zone: "futemaxhd.cfd" always_refuse
+local-zone: "futemaxhd.co" always_refuse
+local-zone: "futemaxhd.cyou" always_refuse
+local-zone: "futemaxhd.online" always_refuse
+local-zone: "futemaxrj.link" always_refuse
+local-zone: "g53rwtjyse.tuhavetesopot.info" always_refuse
+local-zone: "gl46mp7uaq.dotupaturedumom.info" always_refuse
+local-zone: "h5kp6y79op.rawocagojumib.info" always_refuse
+local-zone: "i18whaj7hd.bomemubiwudoh.info" always_refuse
+local-zone: "i319a1a6gr.tuhavetesopot.info" always_refuse
+local-zone: "j8r3t6y1p4.huketokumuhone.info" always_refuse
+local-zone: "jctxvop4xy.cupekuramewer.info" always_refuse
+local-zone: "jd2cyhlwno.gavipicijuhigina.info" always_refuse
+local-zone: "m4q1y9p6h8.huketokumuhone.info" always_refuse
+local-zone: "morfeus.site" always_refuse
+local-zone: "multicanais-jogo-ao-vivo.com" always_refuse
+local-zone: "multicanais-v2.icu" always_refuse
+local-zone: "multicanaishd.asia" always_refuse
+local-zone: "multicanaishd.work" always_refuse
+local-zone: "multicanaispt.pro" always_refuse
+local-zone: "multicanaistv.com.br" always_refuse
+local-zone: "mydotz.xyz" always_refuse
+local-zone: "nwgu9x8jlm.dilucofucabava.info" always_refuse
+local-zone: "ofmp.site" always_refuse
+local-zone: "olf12qr9jk.rawocagojumib.info" always_refuse
+local-zone: "onioncdn.link" always_refuse
+local-zone: "outbound-proxy-us-east1-0-glob-usercontent-client-id-0111055478.gc4d1o1kmu0ujc9uulvt8sz4e2t84ck0z7uvrzkbe2stjvfds1fdrfwumcbno8s.foo" always_refuse
+local-zone: "outbound-proxy-us-east1-0-glob-usercontent-client-id-2176865276.gc4d1o1kmu0ujc9uulvt8sz4e2t84ck0z7uvrzkbe2stjvfds1fdrfwumcbno8s.foo" always_refuse
+local-zone: "outbound-proxy-us-east1-0-glob-usercontent-client-id-2417847215.gc4d1o1kmu0ujc9uulvt8sz4e2t84ck0z7uvrzkbe2stjvfds1fdrfwumcbno8s.foo" always_refuse
+local-zone: "outbound-proxy-us-east1-0-glob-usercontent-client-id-2926555634.gc4d1o1kmu0ujc9uulvt8sz4e2t84ck0z7uvrzkbe2stjvfds1fdrfwumcbno8s.foo" always_refuse
+local-zone: "outbound-proxy-us-east1-0-glob-usercontent-client-id-3246358442.gc4d1o1kmu0ujc9uulvt8sz4e2t84ck0z7uvrzkbe2stjvfds1fdrfwumcbno8s.foo" always_refuse
+local-zone: "outbound-proxy-us-east1-0-glob-usercontent-client-id-4765788791.gc4d1o1kmu0ujc9uulvt8sz4e2t84ck0z7uvrzkbe2stjvfds1fdrfwumcbno8s.foo" always_refuse
+local-zone: "outbound-proxy-us-east1-0-glob-usercontent-client-id-5058793416.gc4d1o1kmu0ujc9uulvt8sz4e2t84ck0z7uvrzkbe2stjvfds1fdrfwumcbno8s.foo" always_refuse
+local-zone: "outbound-proxy-us-east1-0-glob-usercontent-client-id-5377197228.gc4d1o1kmu0ujc9uulvt8sz4e2t84ck0z7uvrzkbe2stjvfds1fdrfwumcbno8s.foo" always_refuse
+local-zone: "outbound-proxy-us-east1-0-glob-usercontent-client-id-5720115168.gc4d1o1kmu0ujc9uulvt8sz4e2t84ck0z7uvrzkbe2stjvfds1fdrfwumcbno8s.foo" always_refuse
+local-zone: "outbound-proxy-us-east1-0-glob-usercontent-client-id-5722499933.gc4d1o1kmu0ujc9uulvt8sz4e2t84ck0z7uvrzkbe2stjvfds1fdrfwumcbno8s.foo" always_refuse
+local-zone: "outbound-proxy-us-east1-0-glob-usercontent-client-id-6741210422.gc4d1o1kmu0ujc9uulvt8sz4e2t84ck0z7uvrzkbe2stjvfds1fdrfwumcbno8s.foo" always_refuse
+local-zone: "outbound-proxy-us-east1-0-glob-usercontent-client-id-6914148852.gc4d1o1kmu0ujc9uulvt8sz4e2t84ck0z7uvrzkbe2stjvfds1fdrfwumcbno8s.foo" always_refuse
+local-zone: "outbound-proxy-us-east1-0-glob-usercontent-client-id-7783650513.gc4d1o1kmu0ujc9uulvt8sz4e2t84ck0z7uvrzkbe2stjvfds1fdrfwumcbno8s.foo" always_refuse
+local-zone: "outbound-proxy-us-east1-0-glob-usercontent-client-id-8665991468.gc4d1o1kmu0ujc9uulvt8sz4e2t84ck0z7uvrzkbe2stjvfds1fdrfwumcbno8s.foo" always_refuse
+local-zone: "pinkroxy.com" always_refuse
+local-zone: "qe8hzd5nmn.cupekuramewer.info" always_refuse
+local-zone: "r8e7hf07hd.dotupaturedumom.info" always_refuse
+local-zone: "skm1rt8smn.gavipicijuhigina.info" always_refuse
+local-zone: "sxhs.cgpsx.site" always_refuse
+local-zone: "syd40vk4gr.bomemubiwudoh.info" always_refuse
+local-zone: "tigeragile.uk" always_refuse
+local-zone: "topflixtv.cyou" always_refuse
+local-zone: "ultraservers.uk" always_refuse
+local-zone: "v5n2k8j3t7.huketokumuhone.info" always_refuse
+local-zone: "v68zq7p5xy.dilucofucabava.info" always_refuse
+local-zone: "w2m9k5h7f1.huketokumuhone.info" always_refuse
+local-zone: "www1.embedtv.best" always_refuse
+local-zone: "x6g4j9r3t1.huketokumuhone.info" always_refuse
+local-zone: "xdm45r8lhd.sodigucegeketu.info" always_refuse
+local-zone: "ydcusrwraq.maluwafomilesop.info" always_refuse
+local-zone: "ydcusrwraq.tuhavetesopot.info" always_refuse
+local-zone: "z64ym6pdaq.dotupaturedumom.info" always_refuse
+
+
+#
+#https://yousolutions.monday.com/boards/8077882222/pulses/11223470383
 #Ofício nº 16235060– CyberGaeco
 
 local-zone: "megatorrent.online" always_refuse
