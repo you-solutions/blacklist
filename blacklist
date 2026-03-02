@@ -42801,7 +42801,7 @@ local-zone: "www.dfgames.com.br" always_refuse
 local-zone: "softweresprime.com.br" always_refuse
 local-zone: "softweresbrasil.com" always_refuse
 local-zone: "dksotweres.com" always_refuse
-local-zone: "mbmti.com always_refuse
+local-zone: "mbmti.com" always_refuse
 local-zone: "www.canalsoftweres.com" always_refuse
 local-zone: "lojinhadosoftwere.com" always_refuse
 local-zone: "pixz.com.br" always_refuse
