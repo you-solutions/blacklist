@@ -43666,7 +43666,7 @@ local-zone: "boraflix.bz" always_refuse
 local-zone: "pobreflix.social" always_refuse
 
 #Ofício nº 16339019 – CyberGaeco
-ocal-zone: "superflixapi.pw" always_refuse
+local-zone: "superflixapi.pw" always_refuse
 local-zone: "multicanaishd.digital  " always_refuse
 local-zone: "canaistop.digital" always_refuse
 local-zone: "supercanais.co" always_refuse
