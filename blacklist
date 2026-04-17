@@ -27674,7 +27674,6 @@ local-zone: "fmoviesarena.org" always_refuse
 local-zone: "9ux.icu" always_refuse
 local-zone: "infinitysticktv.com" always_refuse
 local-zone: "flixhd-cc.my" always_refuse
-local-zone: "global" always_refuse
 local-zone: "glsat.shop" always_refuse
 local-zone: "mkalp.net" always_refuse
 local-zone: "tdfull5.shop" always_refuse
