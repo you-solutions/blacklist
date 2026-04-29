@@ -1,6 +1,77 @@
 server:
 
 #
+#Ofício n.º 30-E/2026-ANCINE/SRG
+#https://yousolutions.monday.com/boards/8077893303/pulses/11881098701
+
+local-zone: "1.cdnface.online" always_refuse
+local-zone: "2.cdnface.online" always_refuse
+local-zone: "3.cdnface.online" always_refuse
+local-zone: "3.estoxy.store" always_refuse
+local-zone: "4dh3usf.j0rl57s5.com" always_refuse
+local-zone: "asni.xcuhfnvwo.com" always_refuse
+local-zone: "bl01.gorgonzolis.online" always_refuse
+local-zone: "bl02.gorgonzolis.online" always_refuse
+local-zone: "bl03.gorgonzolis.online" always_refuse
+local-zone: "bl04.gorgonzolis.online" always_refuse
+local-zone: "bl05.gorgonzolis.online" always_refuse
+local-zone: "bl06.gorgonzolis.online" always_refuse
+local-zone: "bl07.gorgonzolis.online" always_refuse
+local-zone: "bl08.gorgonzolis.online" always_refuse
+local-zone: "bl09.gorgonzolis.online" always_refuse
+local-zone: "bl10.gorgonzolis.online" always_refuse
+local-zone: "bl11.gorgonzolis.online" always_refuse
+local-zone: "bl12.gorgonzolis.online" always_refuse
+local-zone: "bl13.gorgonzolis.online" always_refuse
+local-zone: "bl14.gorgonzolis.online" always_refuse
+local-zone: "fdc.matasdeminas.top" always_refuse
+local-zone: "fhd2.matasdeminas.top" always_refuse
+local-zone: "hynhmcdyktjjsptdobylba.servehumour.com" always_refuse
+local-zone: "idposeygqxemltkrexcjti.servehumour.com" always_refuse
+local-zone: "ieut.fmzupkirh.com" always_refuse
+local-zone: "imxm.best" always_refuse
+local-zone: "jzywvpmvqjqrqvixkoavgf.servehumour.com" always_refuse
+local-zone: "lb1.balanceadorlive.uno" always_refuse
+local-zone: "lb1.tonelira.online" always_refuse
+local-zone: "lb1.toniraq.online" always_refuse
+local-zone: "lb16.tonelira.online" always_refuse
+local-zone: "lb16.toniraq.online" always_refuse
+local-zone: "lb2.balanceadorlive.uno" always_refuse
+local-zone: "lb20.tonelira.online" always_refuse
+local-zone: "lb20.toniraq.online" always_refuse
+local-zone: "lb21.tonelira.online" always_refuse
+local-zone: "lb21.toniraq.online" always_refuse
+local-zone: "lb22.tonelira.online" always_refuse
+local-zone: "lb23.tonelira.online" always_refuse
+local-zone: "lb24.tonelira.online" always_refuse
+local-zone: "lb24.toniraq.online" always_refuse
+local-zone: "lb26.toniraq.online" always_refuse
+local-zone: "lb27.tonelira.online" always_refuse
+local-zone: "lb27.toniraq.online" always_refuse
+local-zone: "lb30.tonelira.online" always_refuse
+local-zone: "lb30.toniraq.online" always_refuse
+local-zone: "lb32.toniraq.online" always_refuse
+local-zone: "lb4.toniraq.online" always_refuse
+local-zone: "lb44.toniraq.online" always_refuse
+local-zone: "lb5.tonelira.online" always_refuse
+local-zone: "lb5.toniraq.online" always_refuse
+local-zone: "lb50.tonelira.online" always_refuse
+local-zone: "lb50.toniraq.online" always_refuse
+local-zone: "lb54.toniraq.online" always_refuse
+local-zone: "lb55.tonelira.online" always_refuse
+local-zone: "lb59.toniraq.online" always_refuse
+local-zone: "lb65.toniraq.online" always_refuse
+local-zone: "lb67.toniraq.online" always_refuse
+local-zone: "lb70.tonelira.online" always_refuse
+local-zone: "lb70.toniraq.online" always_refuse
+local-zone: "lb9.tonelira.online" always_refuse
+local-zone: "lb9.toniraq.online" always_refuse
+local-zone: "riz17zen.lat" always_refuse
+local-zone: "st05cdn2603reserva.online" always_refuse
+local-zone: "waconta01.vod02e2026.online" always_refuse
+
+
+#
 #Ofício nº 16590093 – CyberGaeco
 #https://yousolutions.monday.com/boards/8077893303/pulses/11879615419
 
