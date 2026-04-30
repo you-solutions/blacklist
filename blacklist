@@ -1,6 +1,104 @@
 server:
 
 #
+#Ofício nº 021/2026-Del, de 25.02.2026, e respectiva Tabela de domínios (SEI nº 15240856).
+#https://yousolutions.monday.com/boards/8077893303/pulses/11881139910
+
+local-zone: "baixandofilmestorrent.org" always_refuse
+local-zone: "kingfilmes.org" always_refuse
+local-zone: "pobreflix-tv.com" always_refuse
+local-zone: "pobreflix.channel" always_refuse
+local-zone: "pobreflix.network" always_refuse
+local-zone: "pobreflixonline.com" always_refuse
+local-zone: "0gomovies.tel" always_refuse
+local-zone: "apexstremming.shop" always_refuse
+local-zone: "apkfutemais.com" always_refuse
+local-zone: "assistirbbb26.fun" always_refuse
+local-zone: "assistirbbb26gratis.online" always_refuse
+local-zone: "assistirbbbgratis.online" always_refuse
+local-zone: "assistirfilmes.biz" always_refuse
+local-zone: "assistirfilmes1.site" always_refuse
+local-zone: "assistirfutebol.gratis" always_refuse
+local-zone: "baixafilmesfacil.xyz" always_refuse
+local-zone: "baixafilmeshd.info" always_refuse
+local-zone: "baixafilmetorrent.com" always_refuse
+local-zone: "baixarfilmehd.net" always_refuse
+local-zone: "baixarfilmeshd.net" always_refuse
+local-zone: "baixarfilmeshds.org" always_refuse
+local-zone: "bbbaovivo.digital" always_refuse
+local-zone: "bbbaovivo.xyz" always_refuse
+local-zone: "blogdepobre.com" always_refuse
+local-zone: "borapobreflix.site" always_refuse
+local-zone: "comandofilmetorrent.net" always_refuse
+local-zone: "comandoplay.com" always_refuse
+local-zone: "comandotorrenthd.net" always_refuse
+local-zone: "encontrei.org" always_refuse
+local-zone: "filmesamadores.net" always_refuse
+local-zone: "filmesbd.com" always_refuse
+local-zone: "filmesdubladosgratis.net" always_refuse
+local-zone: "filmeseseriesdublado.com" always_refuse
+local-zone: "filmeshd.life" always_refuse
+local-zone: "flixnet.site" always_refuse
+local-zone: "futemax.broker" always_refuse
+local-zone: "futemax.capital" always_refuse
+local-zone: "futemax.design" always_refuse
+local-zone: "futemax.jp" always_refuse
+local-zone: "futemax.pizza" always_refuse
+local-zone: "futemax.support" always_refuse
+local-zone: "futemax.tours" always_refuse
+local-zone: "futemaxbr.live" always_refuse
+local-zone: "futemaxbr.tv" always_refuse
+local-zone: "futemaxhd.club" always_refuse
+local-zone: "futemaxhd.wiki" always_refuse
+local-zone: "hypeflix.shop" always_refuse
+local-zone: "iptvstarbr.com.br" always_refuse
+local-zone: "loveflix.sbs" always_refuse
+local-zone: "megafilmehdpro.one" always_refuse
+local-zone: "megafilmeshd.cymru" always_refuse
+local-zone: "megafilmeshd50.homes" always_refuse
+local-zone: "megafilmeshd50.pics" always_refuse
+local-zone: "megapobreflix.lat" always_refuse
+local-zone: "megaseriehd.site" always_refuse
+local-zone: "megaseriesonline.net" always_refuse
+local-zone: "mmfilmes.skin" always_refuse
+local-zone: "pobreflix.guru" always_refuse
+local-zone: "pobreflix.lol" always_refuse
+local-zone: "pobreflix.makeup" always_refuse
+local-zone: "pobreflix.monster" always_refuse
+local-zone: "pobreflix.watch" always_refuse
+local-zone: "pobreflix15.com" always_refuse
+local-zone: "pobreflix25.com" always_refuse
+local-zone: "pobreflixbr.biz" always_refuse
+local-zone: "pobreflixhd.lat" always_refuse
+local-zone: "pobreflixtv.best" always_refuse
+local-zone: "pobreflixtv.biz" always_refuse
+local-zone: "pobreflixtv.homes" always_refuse
+local-zone: "pobreflixtv.ink" always_refuse
+local-zone: "pobreflixtv.page" always_refuse
+local-zone: "pobreflixtv.rest" always_refuse
+local-zone: "pobreflixtv.site" always_refuse
+local-zone: "pobreflixtv.store" always_refuse
+local-zone: "pobreflixtv.team" always_refuse
+local-zone: "pobreflixtv.uk" always_refuse
+local-zone: "pt.freemovies.autos" always_refuse
+local-zone: "redetorrent.com" always_refuse
+local-zone: "revestream.org" always_refuse
+local-zone: "serieslandia.com" always_refuse
+local-zone: "sfilme.com" always_refuse
+local-zone: "starckfilmes-v8.com" always_refuse
+local-zone: "starhomeoficialbr.com" always_refuse
+local-zone: "starplusbrasil.com" always_refuse
+local-zone: "topflixfilmes.net" always_refuse
+local-zone: "universoflix.com" always_refuse
+local-zone: "verfilmeseries.com" always_refuse
+local-zone: "www.htvoficial.click" always_refuse
+local-zone: "www.megafilmestorrents.org" always_refuse
+local-zone: "www.megaseriehd.site" always_refuse
+local-zone: "www.megaseriesonline.net" always_refuse
+local-zone: "www.redetoons.com.br" always_refuse
+local-zone: "xfilmestorrent.com.br" always_refuse
+
+#
 #Ofício 27-E/2026-ANCINE/SRG (SEI 4039995)
 #https://yousolutions.monday.com/boards/8077893303/pulses/11881080188
 
