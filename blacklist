@@ -1,6 +1,35 @@
 server:
 
 #
+#Assunto: OPERACAO_20260424_LISTA_A. Ofício SEI nº 20413/2026/MF. SMF. SPA. Ministério da Fazenda. Bloqueio de domínio (sítio eletrônico). Ref.: 53500.032541/2026-70
+#https://yousolutions.monday.com/boards/8077893303?term=11881098513%20
+local-zone: "app.cravei.io" always_refuse
+local-zone: "app.palpita.io" always_refuse
+local-zone: "app.palpitano.com" always_refuse
+local-zone: "app.previsao.io" always_refuse
+local-zone: "app.vesperamarket.com" always_refuse
+local-zone: "eujasabia.com.br" always_refuse
+local-zone: "fanaticsmarkets.com" always_refuse
+local-zone: "forecasttrader.interactivebrokers.com" always_refuse
+local-zone: "futuriza.ai" always_refuse
+local-zone: "hedgehog.markets" always_refuse
+local-zone: "kalshi.com" always_refuse
+local-zone: "og.com" always_refuse
+local-zone: "palpitada.com.br" always_refuse
+local-zone: "pliks.io" always_refuse
+local-zone: "polymarket.com" always_refuse
+local-zone: "polyswipe.bet" always_refuse
+local-zone: "pred.app" always_refuse
+local-zone: "predict.fun" always_refuse
+local-zone: "predictit.org" always_refuse
+local-zone: "previas.com.br" always_refuse
+local-zone: "prophetx.co" always_refuse
+local-zone: "robinhood.com" always_refuse
+local-zone: "ruckusmarket.com" always_refuse
+local-zone: "stride.markets" always_refuse
+local-zone: "voxfi.com.br" always_refuse
+
+#
 #Ofício n.º 32-E/2026-ANCINE/SRG  Ofício nº 295/2026/FIGF6/FIGF/SFI-ANATEL
 #https://yousolutions.monday.com/boards/8077893303/pulses/11881071267?term=11881071267%20
 
