@@ -1,5 +1,22 @@
 server:
 
+#
+#Ofício nº 0010643-12.2025.8.16.0069.0010. Vara Criminal de Cianorte. Decisão Judicial. Autos nº 0010643-12.2025.8.16.0069.
+#https://yousolutions.monday.com/boards/8077893303?term=11883563753
+local-zone: "aguiadeouro.app" always_refuse
+local-zone: "brsorte.com" always_refuse
+local-zone: "coliseubet.com" always_refuse
+local-zone: "doouganhou.net" always_refuse
+local-zone: "gollot.net" always_refuse
+local-zone: "jbpix.net" always_refuse
+local-zone: "leaodeouro.bet" always_refuse
+local-zone: "loteriasbr.com" always_refuse
+local-zone: "novo.resultadosnococo.com" always_refuse
+local-zone: "www.bancacash.com.br" always_refuse
+local-zone: "www.eobichobet.com" always_refuse
+local-zone: "www.placarx.com.br" always_refuse
+local-zone: "www.resultadofacil.com.br" always_refuse
+local-zone: "www.suni4.com" always_refuse
 
 #
 #OFÍCIO SEI Nº 19317/2026/MF Ofício nº 260/2026/FIGF6/FIGF/SFI-ANATEL
