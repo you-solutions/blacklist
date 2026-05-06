@@ -1,5 +1,9 @@
 server:
 
+#
+#Ofícios nº 041, nº 042, nº 043, nº 047, nº 048 e nº 049/2026-Del. Ciberlab/TJPE
+#https://yousolutions.monday.com/boards/8077893303?term=11892143879
+local-zone: "abinteligencia.com.br" always_refuse
 
 #
 #Ofício SEI nº 21787/2026/MF. SMF. SPA. Ministério da Fazenda. Reiteração de Ordem Administrativa de Bloqueio de domínio (sítio eletrônico). Ref.: 53500.034794/2026-88
