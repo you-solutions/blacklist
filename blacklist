@@ -1,6 +1,93 @@
 server:
 
 #
+#Ofício nº 22-E/2026-ANCINE/SRG. Bloqueio de domínios (sítios eletrônicos). Ref.: 53500.026673/2026-62
+#https://yousolutions.monday.com/boards/8077893303/pulses/11892132526?term=11892132526
+local-zone: "0z0tsyf1dbkv.zangadocdn1.live" always_refuse
+local-zone: "1c2cj4f2qfhb.zangadocdn2.live" always_refuse
+local-zone: "1yf07uudzbva.zangadocdn1.live" always_refuse
+local-zone: "2jpc488pme50.zangadocdn3.live" always_refuse
+local-zone: "3sgev55nup8w.zangadocdn1.live" always_refuse
+local-zone: "6d2j9nqgv9t0.zangadocdn1.live" always_refuse
+local-zone: "6vi1yx8vfmhs.zangadocdn2.live" always_refuse
+local-zone: "6xl432kfikcb.zangadocdn3.live" always_refuse
+local-zone: "7m05ziwtxbli.zangadocdn2.live" always_refuse
+local-zone: "8kfebg7e8up3.zangadocdn1.live" always_refuse
+local-zone: "8s9b9y6u2rzz.zangadocdn2.live" always_refuse
+local-zone: "a6tx3uk16zob.zangadocdn2.live" always_refuse
+local-zone: "ce3gpxs2zdxj.zangadocdn1.live" always_refuse
+local-zone: "cjb2d8tgkcf5.zangadocdn3.live" always_refuse
+local-zone: "h69e2n9ef72g.zangadocdn1.live" always_refuse
+local-zone: "heitiw80l3k4.zangadocdn2.live" always_refuse
+local-zone: "kc5wfnh4je3k.zangadocdn1.live" always_refuse
+local-zone: "ntv06rj0mfgg.zangadocdn1.live" always_refuse
+local-zone: "o9eida8ctdjz.zangadocdn2.live" always_refuse
+local-zone: "pxbv7g5mc4he.zangadocdn1.live" always_refuse
+local-zone: "q9o4pbd6q9db.zangadocdn3.live" always_refuse
+local-zone: "st05cdnreserva.online" always_refuse
+local-zone: "ty4wz66x2niu.zangadocdn3.live" always_refuse
+local-zone: "vkinu608opwf.zangadocdn2.live" always_refuse
+local-zone: "yvc1ta6plxxu.zangadocdn3.live" always_refuse
+local-zone: "ziakozkcbuga.zangadocdn3.live" always_refuse
+local-zone: "01.dnsrei.top" always_refuse
+local-zone: "02.dnsrei.top" always_refuse
+local-zone: "1.kabuulols.shop" always_refuse
+local-zone: "12.gestorplay.xyz" always_refuse
+local-zone: "13.gestorplay.xyz" always_refuse
+local-zone: "14.gestorplay.xyz" always_refuse
+local-zone: "15.gestorplay.xyz" always_refuse
+local-zone: "1t6bis5jwz.bajoposiparo.info" always_refuse
+local-zone: "2.kabuulols.shop" always_refuse
+local-zone: "2546nxwuqw.celobecakufe.info" always_refuse
+local-zone: "4.kabuulols.shop" always_refuse
+local-zone: "4a0hdsc6op.bajoposiparo.info" always_refuse
+local-zone: "5kwi1ygvop.tacorudokabo.info" always_refuse
+local-zone: "5n2alezkhi.tacorudokabo.info" always_refuse
+local-zone: "6.kabuulols.shop" always_refuse
+local-zone: "6acgrjv4lm.tacorudokabo.info" always_refuse
+local-zone: "7.kabuulols.shop" always_refuse
+local-zone: "70qhrg5iaq.kekanolekofan.info" always_refuse
+local-zone: "7ubjhn9ijk.culadugecesuk.info" always_refuse
+local-zone: "7ye48c2vhd.kekanolekofan.info" always_refuse
+local-zone: "8.kabuulols.shop" always_refuse
+local-zone: "8ah65f8caq.foribuhifadeh.info" always_refuse
+local-zone: "b7u4d9g2n5.bivudejikaru.info" always_refuse
+local-zone: "b7u4d9g2n5.powekimebopu.info" always_refuse
+local-zone: "ckp98fdxgr.celobecakufe.info" always_refuse
+local-zone: "evblyzs4jk.jesibiretanuf.info" always_refuse
+local-zone: "f1mxq.bivudejikaru.info" always_refuse
+local-zone: "focusepg.online" always_refuse
+local-zone: "focusepg.store" always_refuse
+local-zone: "fv92ozl8st.bajoposiparo.info" always_refuse
+local-zone: "gzuyscd3ab.culadugecesuk.info" always_refuse
+local-zone: "hynhmcdyktjjsptdobylba.3utilities.com" always_refuse
+local-zone: "in726ebwst.celobecakufe.info" always_refuse
+local-zone: "jzywvpmvqjqrqvixkoavgf.3utilities.com" always_refuse
+local-zone: "k2kyoz3khd.hulupidorawises.info" always_refuse
+local-zone: "ksdhzax9wz.culadugecesuk.info" always_refuse
+local-zone: "lb1.contrax.top" always_refuse
+local-zone: "lb2.contrax.top" always_refuse
+local-zone: "lwdvims4gr.hulupidorawises.info" always_refuse
+local-zone: "m4q1y9p6h8.powekimebopu.info" always_refuse
+local-zone: "od5v07kbhd.foribuhifadeh.info" always_refuse
+local-zone: "oqxr65regr.tipohubabefeboca.info" always_refuse
+local-zone: "p1x7z4w8e3.powekimebopu.info" always_refuse
+local-zone: "q0qjjz3ise.hulupidorawises.info" always_refuse
+local-zone: "qk9hu2z7mn.tacorudokabo.info" always_refuse
+local-zone: "rs5at6znst.celobecakufe.info" always_refuse
+local-zone: "rubineia.online" always_refuse
+local-zone: "rubineia.shop" always_refuse
+local-zone: "rwm75gu1no.culadugecesuk.info" always_refuse
+local-zone: "sadfgioaoisdfnaiosdfnioasnfgasdgnasdfgnoasdnovoisn.alacazan.it.com" always_refuse
+local-zone: "scd7ex8ruv.veresadaputetiki.info" always_refuse
+local-zone: "sdfiohgsaiodfnbnjansdfbnasungausd.alacazan.it.com" always_refuse
+local-zone: "sevensp.homelinux.com" always_refuse
+local-zone: "tmc7tu5xgr.kekanolekofan.info" always_refuse
+local-zone: "vc9l7nwzse.lomabijoceve.info" always_refuse
+local-zone: "y0a3n7pjst.bajoposiparo.info" always_refuse
+local-zone: "zqncujokhd.tipohubabefeboca.info" always_refuse
+
+#
 #Ofícios nº 041, nº 042, nº 043, nº 047, nº 048 e nº 049/2026-Del. Ciberlab/TJPE
 #https://yousolutions.monday.com/boards/8077893303?term=11892143879
 local-zone: "abinteligencia.com.br" always_refuse
