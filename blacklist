@@ -1,7 +1,33 @@
 server:
+
 #
 #Ofício nº 24-E/2026-ANCINE/SRG. Bloqueio de domínios (sítios eletrônicos). Ref.: 53500.028351/2026-58
 #https://yousolutions.monday.com/boards/8077893303?term=11889804145
+local-zone: "d1muf25xa04so8hp09.s27-usa-cloudfront-net.online" always_refuse
+local-zone: "2nef30uclm.mobuvosowicopu.info" always_refuse
+local-zone: "6xlhzf7dlm.mobuvosowicopu.info" always_refuse
+local-zone: "alerquina54100.embedtv.best" always_refuse
+local-zone: "arbitrarydecisions.com" always_refuse
+local-zone: "bysejikuar.com" always_refuse
+local-zone: "cgxheq.fubohd.com" always_refuse
+local-zone: "d1muf25xa04so8hp08.s01-ar-cloudfonts.shop" always_refuse
+local-zone: "dw5pdgvk.fubohd.com" always_refuse
+local-zone: "edge2-waw-sprintcdn.r66nv9ed.com" always_refuse
+local-zone: "embedplay.upns.ink" always_refuse
+local-zone: "f9p3d6b4y8.cocalimekujuge.info" always_refuse
+local-zone: "groxtv.com" always_refuse
+local-zone: "multi-canais.pro" always_refuse
+local-zone: "nossoplayeronlinehd.sbs" always_refuse
+local-zone: "outbound-proxy-us-east1-0-glob-usercontent-client-id-8886881371.googleapis.com.do" always_refuse
+local-zone: "piratetv.vip" always_refuse
+local-zone: "py3hsjj2.04334746.net" always_refuse
+local-zone: "q8m3v7r1t9.cocalimekujuge.info" always_refuse
+local-zone: "suastvbox.com" always_refuse
+local-zone: "sups.hkdfalk.com" always_refuse
+local-zone: "vmwqi2dshd.siconofuresad.info" always_refuse
+local-zone: "ww1.sportszonline.click" always_refuse
+local-zone: "www4.embedtv.best" always_refuse
+local-zone: "zcvayg50st.mobuvosowicopu.info" always_refuse
 local-zone: "1j8hpz7o5rfh.zangadocdn5.live" always_refuse
 local-zone: "1nksw4akurfq.zangadocdn5.live" always_refuse
 local-zone: "2hz7g5ox4ndp.zangadocdn4.live" always_refuse
