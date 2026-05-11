@@ -17586,7 +17586,8 @@ local-zone: "marioeletro.link" always_refuse
 local-zone: "marlrecargaeppi.shop" always_refuse
 local-zone: "matrixhdeletronicos.com" always_refuse
 local-zone: "maximacompra.com" always_refuse
-local-zone: "maxplaystore.lojavirtualnuvem.com.br" always_refuse
+#removido segundo os oficios do ticket https://yousolutions.monday.com/boards/8077893303?term=11961079225
+#local-zone: "maxplaystore.lojavirtualnuvem.com.br" always_refuse
 local-zone: "maxrecarga.shop" always_refuse
 local-zone: "megacanais.lat" always_refuse
 local-zone: "megacanais.top" always_refuse
@@ -17701,7 +17702,8 @@ local-zone: "recargaboxworld.shop" always_refuse
 local-zone: "recargaboxworld.store" always_refuse
 local-zone: "recargabrasil.site" always_refuse
 local-zone: "recargacard.com" always_refuse
-local-zone: "recargacerta.lojavirtualnuvem.com.br" always_refuse
+#removido segundo os oficios do ticket https://yousolutions.monday.com/boards/8077893303?term=11961079225
+#local-zone: "recargacerta.lojavirtualnuvem.com.br" always_refuse
 local-zone: "recargadeaplicativos.com" always_refuse
 local-zone: "recargadigitalstore.com" always_refuse
 local-zone: "recargadunatv.cloud" always_refuse
@@ -17978,7 +17980,8 @@ local-zone: "unitvrecargabr.com" always_refuse
 local-zone: "unitvrecargafacil.com.br" always_refuse
 local-zone: "unitvrecargaoficial.com.br" always_refuse
 local-zone: "unitvrecargapro.com" always_refuse
-local-zone: "unitvrecargas.lojavirtualnuvem.com.br" always_refuse
+#removido segundo os oficios do ticket https://yousolutions.monday.com/boards/8077893303?term=11961079225
+#local-zone: "unitvrecargas.lojavirtualnuvem.com.br" always_refuse
 local-zone: "unitvrecargas.store" always_refuse
 local-zone: "unitvrecargasvip.com" always_refuse
 local-zone: "unitvrecargasvip.com.br" always_refuse
@@ -17989,7 +17992,8 @@ local-zone: "unitvrj.com.br" always_refuse
 local-zone: "unitvshop.store" always_refuse
 local-zone: "unitvsite.com" always_refuse
 local-zone: "unitvstore.com" always_refuse
-local-zone: "unitvstore2.lojavirtualnuvem.com.br" always_refuse
+#removido segundo os oficios do ticket https://yousolutions.monday.com/boards/8077893303?term=11961079225
+#local-zone: "unitvstore2.lojavirtualnuvem.com.br" always_refuse
 local-zone: "universorecargasoficial.com" always_refuse
 local-zone: "unytivapk.com.br" always_refuse
 local-zone: "uvnet.best" always_refuse
@@ -18038,7 +18042,8 @@ local-zone: "wrdxfrwassf.pivowejidelon.info" always_refuse
 local-zone: "wrdxfrwassf.vijewesihusiris.info" always_refuse
 local-zone: "wrdxfrwassf.wisabadobotugi.info" always_refuse
 local-zone: "wrdxfrwassf.wobisohulacavap.info" always_refuse
-local-zone: "wurthbrasil.lojavirtualnuvem.com.br" always_refuse
+#removido segundo os oficios do ticket https://yousolutions.monday.com/boards/8077893303?term=11961079225
+#local-zone: "wurthbrasil.lojavirtualnuvem.com.br" always_refuse
 local-zone: "www10.redecanais.in" always_refuse
 local-zone: "www5.redecanaistv.in" always_refuse
 local-zone: "xp-app.com" always_refuse
@@ -38221,7 +38226,8 @@ local-zone: "hoofd.click" always_refuse
 local-zone: "violetaexpressloja.com" always_refuse
 local-zone: "violetavendas.com" always_refuse
 local-zone: "cardtopbrasil.com" always_refuse
-local-zone: "gihexpress.lojavirtualnuvem.com.br" always_refuse
+#removido segundo os oficios do ticket https://yousolutions.monday.com/boards/8077893303?term=11961079225
+#local-zone: "gihexpress.lojavirtualnuvem.com.br" always_refuse
 local-zone: "onlinetv.app.br" always_refuse
 local-zone: "recarga-express.club" always_refuse
 local-zone: "recargasredtvexpress.com" always_refuse
