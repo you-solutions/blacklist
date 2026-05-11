@@ -2,6 +2,13 @@ server:
 
 #
 #
+#https://yousolutions.monday.com/boards/8077893303/pulses/11961098931
+local-zone: "filmestorrentplay.com" always_refuse
+local-zone: "www.xfilmetorrenthds.com.br" always_refuse
+local-zone: "xfilmetorrenthds.com.br" always_refuse
+
+#
+#
 #https://yousolutions.monday.com/boards/8077893303/pulses/11961087194
 local-zone: "redecanaishd.digital" always_refuse
 local-zone: "redecanaisplay.com" always_refuse
