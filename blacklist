@@ -1,6 +1,56 @@
 server:
 
 #
+#
+#https://yousolutions.monday.com/boards/8077893303/pulses/11961087194
+local-zone: "redecanaishd.digital" always_refuse
+local-zone: "redecanaisplay.com" always_refuse
+local-zone: "redecanaistv.surf" always_refuse
+local-zone: "unitvapp.com.co" always_refuse
+local-zone: "unitvvip.net" always_refuse
+local-zone: "www.redecanaistv.surf" always_refuse
+local-zone: "baixarfilmeshdr.com" always_refuse
+local-zone: "baixefilmetorrenthd.com" always_refuse
+local-zone: "futemax.estate" always_refuse
+local-zone: "hypeflixplus.com" always_refuse
+local-zone: "megafilmeshd.chat" always_refuse
+local-zone: "megafilmeshd50.surf" always_refuse
+local-zone: "pobreflix.cab" always_refuse
+local-zone: "www.hypeflixplus.com" always_refuse
+local-zone: "www.megafilmeshd.chat" always_refuse
+local-zone: "www.megafilmeshd50.surf" always_refuse
+local-zone: "123moviesfree9.monster" always_refuse
+local-zone: "cuevana-cuevana3.site" always_refuse
+local-zone: "cuevana.am" always_refuse
+local-zone: "cuevana.buzz" always_refuse
+local-zone: "cuevana.one" always_refuse
+local-zone: "cuevana8tv.lat" always_refuse
+local-zone: "cuevanaestrenos.wiki" always_refuse
+local-zone: "cuevanahd.world" always_refuse
+local-zone: "cuevanahd3.online" always_refuse
+local-zone: "cuevanaplus.mom" always_refuse
+local-zone: "cuevanaplus.net" always_refuse
+local-zone: "cuevanapro.homes" always_refuse
+local-zone: "cuevanapro.one" always_refuse
+local-zone: "cuevanareal.com" always_refuse
+local-zone: "cuevanatv.legal" always_refuse
+local-zone: "cuevanatv.one" always_refuse
+local-zone: "cuevanatv.space" always_refuse
+local-zone: "cuevanauno.pro" always_refuse
+local-zone: "cuevanax.online" always_refuse
+local-zone: "flixhqto.net" always_refuse
+local-zone: "fmoviesto.eu" always_refuse
+local-zone: "icuevana.mom" always_refuse
+local-zone: "moviefan.org" always_refuse
+local-zone: "mx1.cuevana-cuevana3.site" always_refuse
+local-zone: "pelisplus.cfd" always_refuse
+local-zone: "thecuevana.legal" always_refuse
+local-zone: "topmoviesdb.com" always_refuse
+local-zone: "vercuevana3.cam" always_refuse
+local-zone: "w3.cuevana.one" always_refuse
+local-zone: "xcuevana.mom" always_refuse
+
+#
 #I - Ofício n.º 34-E/2026-ANCINE/SRG II - Planilha PDF - Tabela Domínios IV - Ofício nº 318/2026/FIGF6/FIGF/SFI-ANATEL.
 #https://yousolutions.monday.com/boards/8077893303/pulses/11889795009
 local-zone: "0rvzaa99l56e.2cdn2604.online" always_refuse
