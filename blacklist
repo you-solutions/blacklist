@@ -1,6 +1,12 @@
 server:
 
-
+#
+#
+#https://yousolutions.monday.com/boards/8077893303/pulses/11961063480
+local-zone: "888bet.xin" always_refuse
+local-zone: "medalpg.com" always_refuse
+local-zone: "pg67br.com" always_refuse
+local-zone: "slot33s.com" always_refuse
 #
 #
 #https://yousolutions.monday.com/boards/8077893303/pulses/11961099220
