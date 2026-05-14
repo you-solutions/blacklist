@@ -2,6 +2,26 @@ server:
 
 #
 #
+#https://yousolutions.monday.com/boards/8077893303/pulses/12000728547
+local-zone: "canaistop.guru" always_refuse
+local-zone: "euassisti.com" always_refuse
+local-zone: "filmesmp4.club" always_refuse
+local-zone: "globalseries.digital" always_refuse
+local-zone: "multicanaisbr.vu" always_refuse
+local-zone: "multicanaishd.cards" always_refuse
+local-zone: "myfilmebi.net" always_refuse
+local-zone: "netcineby.lat" always_refuse
+local-zone: "netcinely.lat" always_refuse
+local-zone: "rlsfilmes.org" always_refuse
+local-zone: "seriesflixplay.ink" always_refuse
+local-zone: "www.globalseries.digital" always_refuse
+local-zone: "www.seriesflixplay.ink" always_refuse
+local-zone: "www.xfilmesviatorrent.com.br" always_refuse
+local-zone: "xfilmestorrentshd.com.br" always_refuse
+local-zone: "xfilmesviatorrent.com.br" always_refuse
+
+#
+#
 #https://yousolutions.monday.com/boards/8077893303/pulses/12000729253
 local-zone: "0123movie.best" always_refuse
 local-zone: "11amthemovie.com" always_refuse
