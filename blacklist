@@ -3,6 +3,13 @@ server:
 
 #
 #
+#https://yousolutions.monday.com/boards/8077893303/pulses/12000709184
+local-zone: "bra.com" always_refuse
+local-zone: "bra.vip" always_refuse
+local-zone: "superbet.br.com" always_refuse
+
+#
+#
 #https://yousolutions.monday.com/boards/8077893303/pulses/11961063302
 local-zone: "live5games.top" always_refuse
 local-zone: "0b7wkc4lj2tm.vnnbvubeiq.xyz" always_refuse
