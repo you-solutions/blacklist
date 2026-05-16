@@ -1,3 +1,5 @@
+server:
+
 #Oficio nº 16627923 - CyberGaeco (SEI nº 15608966) e Oficio nº 16638184 - CyberGaeco (SEI nº 15617146
 local-zone: "visioncine-1.com.br" always_refuse
 local-zone: "visioncine.stream" always_refuse
