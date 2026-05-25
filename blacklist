@@ -19513,7 +19513,9 @@ local-zone: "nk7.game" always_refuse
 local-zone: "olaf777.com" always_refuse
 local-zone: "spi777.com" always_refuse
 local-zone: "stakebr.games" always_refuse
-local-zone: "viva777.games" always_refuse#Ofício SEI nº 22926/2026/MF. SMF
+local-zone: "viva777.games" always_refuse
+
+#Ofício SEI nº 22926/2026/MF. SMF
 local-zone: "brabet-1e.com" always_refuse
 local-zone: "888win.bar" always_refuse
 local-zone: "brabetaa.com" always_refuse
