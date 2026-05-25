@@ -21587,3 +21587,52 @@ local-zone: "recargavipstream.comtheyocn.com" always_refuse
 local-zone: "redplaynew.site" always_refuse
 local-zone: "unitvnet.org" always_refuse
 local-zone: "you-cineapk.pro" always_refuse
+
+
+#Ofício nº 102/2026-Del 
+local-zone: "hypeflixhub.biz" always_refuse
+local-zone: "baixafilmeshdr.org" always_refuse
+local-zone: "baixarfilmehdr.net" always_refuse
+local-zone: "comando1.com" always_refuse
+local-zone: "redetoons.pl" always_refuse
+local-zone: "futemax.charity" always_refuse
+local-zone: "futemax.expert" always_refuse
+local-zone: "futemax.london" always_refuse
+local-zone: "maxseries.homes" always_refuse
+local-zone: "filmesmega.vip" always_refuse
+local-zone: "megafilmeshd50." always_refuse
+local-zone: "blurayfilmesgratis." always_refuse
+local-zone: "pobreflix.pictures" always_refuse
+local-zone: "pobreflixhd.spot" always_refuse
+local-zone: "pobreflixtv.actor" always_refuse
+local-zone: "pobreflixtv.date" always_refuse
+local-zone: "pobreflix.pictures" always_refuse
+local-zone: "pobreflixhd.spot" always_refuse
+local-zone: "pobreflixtv.actor" always_refuse
+local-zone: "pobreflixtv.date" always_refuse
+local-zone: "series24.sbs" always_refuse
+
+
+#Ofício nº 108/2026-Del
+local-zone: "123animes.ru" always_refuse
+local-zone: "movie10hd.com" always_refuse
+local-zone: "movieandbooks.com" always_refuse
+local-zone: "movies26.com" always_refuse
+local-zone: "moviesphoria.com" always_refuse
+local-zone: "abflix.app" always_refuse
+local-zone: "cuevana3.sc" always_refuse
+local-zone: "cuevanapro.org" always_refuse
+local-zone: "himovies.bio" always_refuse
+local-zone: "himovies.com.co" always_refuse
+local-zone: "overflixtv.work" always_refuse
+local-zone: "fsonline.app" always_refuse
+
+#Ofício nº 107/2026-Del
+local-zone: "baixafilmehdr.org" always_refuse
+local-zone: "lisoflix.net" always_refuse
+local-zone: "futebolgratuito.com" always_refuse
+local-zone: "futebolgratuito.net" always_refuse
+local-zone: "futemais.art" always_refuse
+local-zone: "futemax.clinic" always_refuse
+local-zone: "futemax.clinic" always_refuse
+local-zone: "links3.futemais.eu" always_refuse
