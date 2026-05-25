@@ -19513,28 +19513,7 @@ local-zone: "nk7.game" always_refuse
 local-zone: "olaf777.com" always_refuse
 local-zone: "spi777.com" always_refuse
 local-zone: "stakebr.games" always_refuse
-local-zone: "viva777.games" always_refuse
-local-zone: "pessoa777.bet" always_refuse
-local-zone: "fast777.bet" always_refuse
-local-zone: "fixe777.bet" always_refuse
-local-zone: "tuw777.com" always_refuse
-local-zone: "wogo777.com" always_refuse
-local-zone: "pgqa.bet" always_refuse
-local-zone: "neypg22.bet" always_refuse
-local-zone: "pgva.bet" always_refuse
-local-zone: "neypg33.bet" always_refuse
-local-zone: "pgvd.bet" always_refuse
-local-zone: "neypg11.bet" always_refuse
-local-zone: "pgvb.bet" always_refuse
-local-zone: "pgqb.bet" always_refuse
-local-zone: "bra.vip" always_refuse
-local-zone: "superbet.br.com" always_refuse
-local-zone: "sjb.h1l9w5.com" always_refuse
-local-zone: "sjb.y4v3t5.com" always_refuse
-local-zone: "bra.com" always_refuse
-local-zone: "resenhadasorte.com" always_refuse
-
-#Ofício SEI nº 22926/2026/MF. SMF
+local-zone: "viva777.games" always_refuse#Ofício SEI nº 22926/2026/MF. SMF
 local-zone: "brabet-1e.com" always_refuse
 local-zone: "888win.bar" always_refuse
 local-zone: "brabetaa.com" always_refuse
@@ -20524,3 +20503,23 @@ local-zone: "www.777win.com.im" always_refuse
 local-zone: "onebrabet3.com" always_refuse
 local-zone: "9999brlbetbr.com" always_refuse
 local-zone: "yht.6rr6173.com" always_refuse
+local-zone: "pessoa777.bet" always_refuse
+local-zone: "fast777.bet" always_refuse
+local-zone: "fixe777.bet" always_refuse
+local-zone: "tuw777.com" always_refuse
+local-zone: "wogo777.com" always_refuse
+local-zone: "pgqa.bet" always_refuse
+local-zone: "neypg22.bet" always_refuse
+local-zone: "pgva.bet" always_refuse
+local-zone: "neypg33.bet" always_refuse
+local-zone: "pgvd.bet" always_refuse
+local-zone: "neypg11.bet" always_refuse
+local-zone: "pgvb.bet" always_refuse
+local-zone: "pgqb.bet" always_refuse
+local-zone: "bra.vip" always_refuse
+local-zone: "superbet.br.com" always_refuse
+local-zone: "sjb.h1l9w5.com" always_refuse
+local-zone: "sjb.y4v3t5.com" always_refuse
+local-zone: "bra.com" always_refuse
+local-zone: "resenhadasorte.com" always_refuse
+
