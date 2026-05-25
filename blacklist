@@ -21638,3 +21638,19 @@ local-zone: "futemais.art" always_refuse
 local-zone: "futemax.clinic" always_refuse
 local-zone: "futemax.clinic" always_refuse
 local-zone: "links3.futemais.eu" always_refuse
+
+#Ofício nº 16652353 – CyberGaeco
+local-zone: "limontorrents.club" always_refuse
+local-zone: "www.xfilmesviatorrents.com.br" always_refuse
+local-zone: "xfilmesviatorrents.com.br" always_refuse
+local-zone: "dublados.net" always_refuse
+local-zone: "netcinehu.lat" always_refuse
+local-zone: "seriesflixplay.com" always_refuse
+local-zone: "www.seriesflixplay.com" always_refuse
+local-zone: "www.xfilmestorrents.org" always_refuse
+local-zone: "xfilmestorrents.org" always_refuse
+local-zone: "multicanaishd.bio" always_refuse
+local-zone: "netcinerave.site" always_refuse
+local-zone: "www.netcinerave.site" always_refuse
+local-zone: "www.xbrtorrent.com.br" always_refuse
+local-zone: "xbrtorrent.com.br" always_refuse
