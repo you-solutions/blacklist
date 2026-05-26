@@ -24511,7 +24511,6 @@ local-zone: "ele039.bet" always_refuse
 local-zone: "elite-games.bet" always_refuse
 local-zone: "eob.bet" always_refuse
 local-zone: "eraser.bet" always_refuse
-local-zone: "" always_refuse
 local-zone: "estapg.bet" always_refuse
 local-zone: "f9.bet" always_refuse
 local-zone: "fa-bordo777.bet" always_refuse
@@ -24680,5 +24679,5 @@ local-zone: "zp502h.bet" always_refuse
 local-zone: "zzz1998.bet" always_refuse
 local-zone: "zzzz.bet" always_refuse
 local-zone: "wj7a.bet" always_refuse
-local-zone: "www.um1.bet" always_refuse
-local-zone: "www.oks999.bet" always_refuse
+local-zone: "um1.bet" always_refuse
+local-zone: "oks999.bet" always_refuse
