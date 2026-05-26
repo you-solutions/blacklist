@@ -23049,3 +23049,22 @@ local-zone: "kingtorrent.org" always_refuse
 local-zone: "mflix.live" always_refuse
 local-zone: "multicanaisfans.com" always_refuse
 local-zone: "superflixapi.ist" always_refuse
+
+
+#Ofício nº 16563447 – CyberGaeco
+local-zone: "tvonline.mx" always_refuse
+local-zone: "multicanaishd.vu" always_refuse
+local-zone: "topsports.sbs" always_refuse
+local-zone: "nerdfilmes.net" always_refuse
+local-zone: "parabaixar.com" always_refuse
+local-zone: "multicanaishd.cafe" always_refuse
+local-zone: "multicanaishd.fyi" always_refuse
+local-zone: "netcinevn.lat" always_refuse
+local-zone: "superflix35.lol" always_refuse
+
+#Ofício nº 16568903 – CyberGaeco
+local-zone: "seriesflix.study" always_refuse
+local-zone: "mixtoptv.com.br" always_refuse
+local-zone: "multicanaisfutebol.com" always_refuse
+local-zone: "galerabr.com" always_refuse
+local-zone: "ninjastorrents.net" always_refuse
