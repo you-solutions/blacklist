@@ -23042,3 +23042,10 @@ local-zone: "sp-66906890.eagservice.site" always_refuse
 local-zone: "st05n29042026.online" always_refuse
 local-zone: "unistream01.vod06e2026.online" always_refuse
 local-zone: "y1hy.shop" always_refuse
+#
+#
+#https://yousolutions.monday.com/boards/8077486561?term=12078149548
+local-zone: "kingtorrent.org" always_refuse
+local-zone: "mflix.live" always_refuse
+local-zone: "multicanaisfans.com" always_refuse
+local-zone: "superflixapi.ist" always_refuse
