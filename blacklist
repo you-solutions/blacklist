@@ -24776,3 +24776,8 @@ local-zone: "mundouni.com" always_refuse
 local-zone: "youcineapps.com" always_refuse
 local-zone: "youcinedl.net" always_refuse
 local-zone: "youcinetv.top" always_refuse
+#
+#
+#https://yousolutions.monday.com/boards/8077486561?term=12043217229
+local-zone: "painelamsocial.com" always_refuse
+local-zone: "www.painelamsocial.com" always_refuse
