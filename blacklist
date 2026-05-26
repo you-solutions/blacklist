@@ -23068,3 +23068,6 @@ local-zone: "mixtoptv.com.br" always_refuse
 local-zone: "multicanaisfutebol.com" always_refuse
 local-zone: "galerabr.com" always_refuse
 local-zone: "ninjastorrents.net" always_refuse
+
+#Ofício n°: 8000039-21.2025.8.02.0043/1
+local-zone: "erome.com" always_refuse
