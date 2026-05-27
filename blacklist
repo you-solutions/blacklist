@@ -24781,3 +24781,9 @@ local-zone: "youcinetv.top" always_refuse
 #https://yousolutions.monday.com/boards/8077486561?term=12043217229
 local-zone: "painelamsocial.com" always_refuse
 local-zone: "www.painelamsocial.com" always_refuse
+
+#Ofício nº 16655322 – CyberGaeco
+local-zone: "visioncinevs.com" always_refuse
+local-zone: "webcinevs.com" always_refuse
+local-zone: "filmesparadownload.org" always_refuse
+local-zone: "thecinevision.com.br" always_refuse
