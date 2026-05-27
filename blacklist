@@ -26273,7 +26273,6 @@ local-zone: "pionbet.vip" always_refuse
 local-zone: "pixbet.vip" always_refuse
 local-zone: "planbet-portugal.com" always_refuse
 local-zone: "planbet.vip" always_refuse
-local-zone: "" always_refuse
 local-zone: "plasmabet.vip" always_refuse
 local-zone: "playerbet.vip" always_refuse
 local-zone: "plusbet.vip" always_refuse
