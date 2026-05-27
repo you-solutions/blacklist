@@ -24787,3 +24787,11 @@ local-zone: "visioncinevs.com" always_refuse
 local-zone: "webcinevs.com" always_refuse
 local-zone: "filmesparadownload.org" always_refuse
 local-zone: "thecinevision.com.br" always_refuse
+
+#Ofício nº 16680240 – CyberGaeco
+local-zone: "nossoplayeronlinehd.ink" always_refuse
+local-zone: "tvmega.online" always_refuse
+local-zone: "themegaflix.com" always_refuse
+local-zone: "menaseries.org" always_refuse
+local-zone: "filmeamanhecer.com" always_refuse
+local-zone: "torrentdosfilmes1.site" always_refuse
