@@ -3245,7 +3245,6 @@ local-zone: "torrentsdosfilmes.org" always_refuse
 local-zone: "www.pobreflix.doctor" always_refuse
 local-zone: "www.pobreflixtv.free" always_refuse
 local-zone: "www.starckfilmes-v15.com" always_refuse
-local-zone: "www.workers-movie.com" always_refuse
 local-zone: "alpharecarga.com.br" always_refuse
 local-zone: "hojerecargas.net" always_refuse
 local-zone: "lojabtvoficial.com.br" always_refuse
@@ -29464,7 +29463,6 @@ local-zone: "wplaywarez.com" always_refuse
 local-zone: "wt1recargas.com" always_refuse
 local-zone: "wt2recargas.com" always_refuse
 local-zone: "ww1-fmovies.com" always_refuse
-local-zone: "ww1.123movies.college" always_refuse
 local-zone: "ww3.pelisplus.to" always_refuse
 local-zone: "ww4.fmovies.co" always_refuse
 local-zone: "ww9.cuevana3.to" always_refuse
@@ -29733,7 +29731,6 @@ local-zone: "xbrtorrents.com.br" always_refuse
 
 # Ofício: Ofício nº 113/2026-Del
 # Gerado em: 29/05/2026
-local-zone: "123movies.college" always_refuse
 local-zone: "123movies.support" always_refuse
 local-zone: "123moviesfree.net" always_refuse
 local-zone: "bflixz.run" always_refuse
@@ -29795,7 +29792,6 @@ local-zone: "watch123movies.net" always_refuse
 local-zone: "watchfree123movies.com" always_refuse
 local-zone: "watchmovietv.com" always_refuse
 local-zone: "wikimovies.org" always_refuse
-local-zone: "workers-movie.com" always_refuse
 local-zone: "youmovieshd.com" always_refuse
 local-zone: "youmoviesonline.com" always_refuse
 
@@ -29815,10 +29811,8 @@ local-zone: "ytstv.hair" always_refuse
 
 # Ofício: Ofício nº 116/2026-Del
 # Gerado em: 29/05/2026
-local-zone: "futemax.bingo" always_refuse
 local-zone: "futemax.boats" always_refuse
 local-zone: "futemax.garden" always_refuse
-local-zone: "futemax.ge" always_refuse
 local-zone: "futemax.repair" always_refuse
 local-zone: "futemax.voto" always_refuse
 local-zone: "futemaxhd.com.br" always_refuse
