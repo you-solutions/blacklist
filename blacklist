@@ -27535,7 +27535,6 @@ local-zone: "cldplay.in" always_refuse
 local-zone: "clickbrt.com" always_refuse
 local-zone: "cliente33.com" always_refuse
 local-zone: "clienteplay.com" always_refuse
-local-zone: "cloud" always_refuse
 local-zone: "club8.ca" always_refuse
 local-zone: "clubedasrecarga.online" always_refuse
 local-zone: "clubedasrecarga.shop" always_refuse
@@ -28136,7 +28135,6 @@ local-zone: "gftv.club" always_refuse
 local-zone: "gftv.in" always_refuse
 local-zone: "ggjojogo.com" always_refuse
 local-zone: "gihexpress.lojavirtualnuvem.com.br" always_refuse
-local-zone: "global" always_refuse
 local-zone: "globoplay.top" always_refuse
 local-zone: "go-123movies.com" always_refuse
 local-zone: "go.cuevana3ver.net" always_refuse
