@@ -32028,3 +32028,17 @@ local-zone: "recargaspeedsale.com" always_refuse
 local-zone: "reidoscanais.ooo" always_refuse
 local-zone: "unitvdl.com" always_refuse
 local-zone: "youcinetvapk.com" always_refuse
+#
+#
+#https://yousolutions.monday.com/boards/8077486561/pulses/12127942205?term=12078294418
+local-zone: "brfilmestorrent.net" always_refuse
+local-zone: "flixtorrent.net" always_refuse
+local-zone: "megaflix.pro" always_refuse
+local-zone: "megaflix6.com" always_refuse
+local-zone: "megaflixapk.com" always_refuse
+local-zone: "seriesflixhd.cloud" always_refuse
+local-zone: "seriesflixtv2.online" always_refuse
+local-zone: "seriesflixtv3.com" always_refuse
+local-zone: "superflixx.site" always_refuse
+local-zone: "supertela.lol" always_refuse
+local-zone: "youcine.biz" always_refuse
