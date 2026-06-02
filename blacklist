@@ -32009,3 +32009,22 @@ local-zone: "zww17.com" always_refuse
 local-zone: "zzzz2211.com" always_refuse
 local-zone: "zzzz2277.com" always_refuse
 local-zone: "zzzz2288.com" always_refuse
+#
+#
+#https://yousolutions.monday.com/boards/8077486561?term=12043167162
+local-zone: "btvoficialapp.com" always_refuse
+local-zone: "suporteunitv4k.com.br" always_refuse
+local-zone: "unitvoficial.shop" always_refuse
+local-zone: "123moviesfree.vip" always_refuse
+local-zone: "bcp.lat" always_refuse
+local-zone: "cuevanaplus.lat" always_refuse
+local-zone: "pelisplushd.my" always_refuse
+local-zone: "recargacardoso.com" always_refuse
+local-zone: "recargasexpressltda.com" always_refuse
+local-zone: "megacine.makeup" always_refuse
+local-zone: "recargapronta.com.br" always_refuse
+local-zone: "recargarapida.shop" always_refuse
+local-zone: "recargaspeedsale.com" always_refuse
+local-zone: "reidoscanais.ooo" always_refuse
+local-zone: "unitvdl.com" always_refuse
+local-zone: "youcinetvapk.com" always_refuse
