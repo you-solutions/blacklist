@@ -32265,3 +32265,11 @@ local-zone: "obdsr6zulm.lusirolababope.info" always_refuse
 local-zone: "888win53.com" always_refuse
 local-zone: "888win57.com" always_refuse
 local-zone: "popbra99.com" always_refuse
+#
+#
+#Ofício nº 16606986 do CyberGaeco. Ministério Público do Estado de São Paulo - MPSP.
+local-zone: "clubtorrent.com" always_refuse
+local-zone: "filmestorrents.net" always_refuse
+local-zone: "netfilmapp.pics" always_refuse
+local-zone: "seriesflix.win" always_refuse
+local-zone: "superflix9.vip" always_refuse
