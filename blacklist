@@ -32258,3 +32258,10 @@ local-zone: "lb04.solechuva.shop" always_refuse
 local-zone: "lb03.solechuva.shop" always_refuse
 local-zone: "vesue.gzjfbmsoh.com" always_refuse
 local-zone: "rimbd.sahmbujtr.com" always_refuse
+#
+#
+#Ofício SEI nº 21787/2026/MF. SMF. SPA. Ministério da Fazenda. Reiteração de Ordem Administrativa de Bloqueio de domínio (sítio eletrônico)
+local-zone: "obdsr6zulm.lusirolababope.info" always_refuse
+local-zone: "888win53.com" always_refuse
+local-zone: "888win57.com" always_refuse
+local-zone: "popbra99.com" always_refuse
