@@ -24511,7 +24511,10 @@ local-zone: "marlrecargaeppi.shop" always_refuse
 local-zone: "matrixhdeletronicos.com" always_refuse
 local-zone: "max-one.top" always_refuse
 local-zone: "maximacompra.com" always_refuse
-local-zone: "maxplaystore.lojavirtualnuvem.com.br" always_refuse
+
+#Ofício nº 089/2025-Del. Ciberlab/MJSP. Operação 404. Desbloqueio de domínio.
+#local-zone: "maxplaystore.lojavirtualnuvem.com.br" always_refuse
+
 local-zone: "maxrecarga.shop" always_refuse
 local-zone: "mediatvpremium.store" always_refuse
 local-zone: "megabtv.com.br" always_refuse
@@ -24779,7 +24782,10 @@ local-zone: "recargaboxworldb.store" always_refuse
 local-zone: "recargabrasil.site" always_refuse
 local-zone: "recargabtv.shop" always_refuse
 local-zone: "recargacard.com" always_refuse
-local-zone: "recargacerta.lojavirtualnuvem.com.br" always_refuse
+
+#Ofício nº 089/2025-Del. Ciberlab/MJSP. Operação 404. Desbloqueio de domínio.
+#local-zone: "recargacerta.lojavirtualnuvem.com.br" always_refuse
+
 local-zone: "recargacertatv.com" always_refuse
 local-zone: "recargachbox.shop" always_refuse
 local-zone: "recargacineduo.shop" always_refuse
@@ -25545,7 +25551,10 @@ local-zone: "unitvrecargaoficial.shop" always_refuse
 local-zone: "unitvrecargapro.site" always_refuse
 local-zone: "unitvrecargarapida.com" always_refuse
 local-zone: "unitvrecargarapida.store" always_refuse
-local-zone: "unitvrecargas.lojavirtualnuvem.com.br" always_refuse
+
+#Ofício nº 089/2025-Del. Ciberlab/MJSP. Operação 404. Desbloqueio de domínio.
+#local-zone: "unitvrecargas.lojavirtualnuvem.com.br" always_refuse
+
 local-zone: "unitvrecargas.site" always_refuse
 local-zone: "unitvrecargas.store" always_refuse
 local-zone: "unitvrecargasinfinity.shop" always_refuse
@@ -25563,7 +25572,10 @@ local-zone: "unitvrevenda.com" always_refuse
 local-zone: "unitvrevenda.uppy.app" always_refuse
 local-zone: "unitvshop.store" always_refuse
 local-zone: "unitvsite.com" always_refuse
-local-zone: "unitvstore2.lojavirtualnuvem.com.br" always_refuse
+
+#Ofício nº 089/2025-Del. Ciberlab/MJSP. Operação 404. Desbloqueio de domínio.
+#local-zone: "unitvstore2.lojavirtualnuvem.com.br" always_refuse
+
 local-zone: "unitvtop.com" always_refuse
 local-zone: "unitvweb.net" always_refuse
 local-zone: "unitvweb.org" always_refuse
@@ -25686,7 +25698,10 @@ local-zone: "wrdxfrwassf.wobisohulacavap.info" always_refuse
 local-zone: "wrdxfrwassf.wugufubapacub.info" always_refuse
 local-zone: "wtcrecargaunitv.com.br" always_refuse
 local-zone: "wtrecargas.com.br" always_refuse
-local-zone: "wurthbrasil.lojavirtualnuvem.com.br" always_refuse
+
+#Ofício nº 089/2025-Del. Ciberlab/MJSP. Operação 404. Desbloqueio de domínio.
+#local-zone: "wurthbrasil.lojavirtualnuvem.com.br" always_refuse
+
 local-zone: "www-youcine.com" always_refuse
 local-zone: "www.bravwebs.info" always_refuse
 local-zone: "www.btv13.store" always_refuse
@@ -28133,7 +28148,10 @@ local-zone: "gerenciadorr.xyz" always_refuse
 local-zone: "gftv.club" always_refuse
 local-zone: "gftv.in" always_refuse
 local-zone: "ggjojogo.com" always_refuse
-local-zone: "gihexpress.lojavirtualnuvem.com.br" always_refuse
+
+#Ofício nº 089/2025-Del. Ciberlab/MJSP. Operação 404. Desbloqueio de domínio.
+#local-zone: "gihexpress.lojavirtualnuvem.com.br" always_refuse
+
 local-zone: "globoplay.top" always_refuse
 local-zone: "go-123movies.com" always_refuse
 local-zone: "go.cuevana3ver.net" always_refuse
