@@ -32510,3 +32510,6 @@ local-zone: "unistream01.vd1onebm.fun" always_refuse
 local-zone: "vext0d4zhi.gomukosawivat.info" always_refuse
 local-zone: "w5p09vtchi.gomukosawivat.info" always_refuse
 local-zone: "x6g4j9r3t1.womucecukuguse.info" always_refuse
+
+#Ofício nº 436/2026/FIGF6/FIGF/SFI-ANATEL
+local-zone: "entrenocaso.com" always_refuse
