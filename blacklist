@@ -32513,3 +32513,6 @@ local-zone: "x6g4j9r3t1.womucecukuguse.info" always_refuse
 
 #Ofício nº 436/2026/FIGF6/FIGF/SFI-ANATEL
 local-zone: "entrenocaso.com" always_refuse
+
+#Ofício nº 418/2026/FIGF6/FIGF/SFI-ANATEL
+local-zone: "midia101.com.br" always_refuse
