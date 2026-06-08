@@ -32291,3 +32291,7 @@ local-zone: "filmestorrents.net" always_refuse
 local-zone: "netfilmapp.pics" always_refuse
 local-zone: "seriesflix.win" always_refuse
 local-zone: "superflix9.vip" always_refuse
+#
+#
+#https://yousolutions.monday.com/boards/8077486561/pulses/12161459889
+local-zone: "www.midia101.com.br" always_refuse
