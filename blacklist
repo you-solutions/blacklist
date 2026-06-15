@@ -33233,7 +33233,8 @@ local-zone: "z0c3zxh4hd.vohutebewili.info" always_refuse
 local-zone: "zalis.phantemlis.top" always_refuse
 local-zone: "zsfzb1s1se.vohutebewili.info" always_refuse
 local-zone: "zv2r96tmlm.bitogogamasenuk.info" always_refuse
-# Oficio: OFÍCIO SEI Nº 28809/2026/MF
+
+#Oficio: OFÍCIO SEI Nº 28809/2026/MF
 local-zone: "00001betpg.com" always_refuse
 local-zone: "0001betpg.com" always_refuse
 local-zone: "0004betpg.com" always_refuse
@@ -33825,7 +33826,9 @@ local-zone: "ef6dq9.bet" always_refuse
 local-zone: "egh383.bet" always_refuse
 local-zone: "elegancepg-zl.bet" always_refuse
 local-zone: "eliteaposta.bet" always_refuse
-local-zone: "epifilo777.bet" always_refuse# Oficio: OFÍCIO SEI Nº 28809/2026/MF
+local-zone: "epifilo777.bet" always_refuse
+
+# Oficio: OFÍCIO SEI Nº 28809/2026/MF
 local-zone: "epifilo777.bet" always_refuse
 local-zone: "epo836.bet" always_refuse
 local-zone: "esporte10.bet" always_refuse
