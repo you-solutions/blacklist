@@ -36751,3 +36751,101 @@ local-zone: "starckfilmes-v17.com" always_refuse
 local-zone: "startflix.co" always_refuse
 local-zone: "xbrtorrent.net" always_refuse
 local-zone: "yyyx.online" always_refuse
+
+
+# Oficio: Ofício nº 449/2026/FIGF6/FIGF/SFI-ANATEL
+local-zone: "123gomovie.net" always_refuse
+local-zone: "moviesgy.com" always_refuse
+local-zone: "vemkverfilmes.net" always_refuse
+
+
+# Oficio: Ofício nº 449/2026/FIGF6/FIGF/SFI-ANATEL
+local-zone: "abrabull.com.br" always_refuse
+local-zone: "alvoemfoco.com.br" always_refuse
+local-zone: "ateliealemdoolhar.com.br" always_refuse
+local-zone: "baixaryoucine.org" always_refuse
+local-zone: "blockmaster.com.br" always_refuse
+local-zone: "colemarx.com.br" always_refuse
+local-zone: "fatalsitehd.shop" always_refuse
+local-zone: "herpetofauna.com.br" always_refuse
+local-zone: "lojadecosplay.com.br" always_refuse
+local-zone: "mundocarreira.com.br" always_refuse
+local-zone: "oicontrolesrecargass.shop" always_refuse
+local-zone: "prosaepoesia.com.br" always_refuse
+local-zone: "recharge.blog" always_refuse
+local-zone: "smartpos.app" always_refuse
+local-zone: "telapremium.com" always_refuse
+local-zone: "unitvpro.space" always_refuse
+local-zone: "unitvrecargashop.com.br" always_refuse
+local-zone: "viavalegardenshopping.com" always_refuse
+local-zone: "youcineproapk.com" always_refuse
+
+
+# Oficio: Ofício nº 449/2026/FIGF6/FIGF/SFI-ANATEL
+local-zone: "123movie.sx" always_refuse
+local-zone: "cuevanav.link" always_refuse
+local-zone: "filmesmp4.xyz" always_refuse
+local-zone: "flixhq.gd" always_refuse
+local-zone: "fmovie.sx" always_refuse
+local-zone: "hdflix123.com" always_refuse
+local-zone: "movie24.org" always_refuse
+local-zone: "movielikers.com" always_refuse
+local-zone: "movies-2009.com" always_refuse
+local-zone: "movies2011.com" always_refuse
+local-zone: "moviesfire.online" always_refuse
+local-zone: "moviesgogo.com" always_refuse
+local-zone: "moviesnation.repair" always_refuse
+local-zone: "overflixtv.beauty" always_refuse
+local-zone: "vizertv.beauty" always_refuse
+
+
+# Oficio: Ofício nº 449/2026/FIGF6/FIGF/SFI-ANATEL
+local-zone: "acesso-starck.com" always_refuse
+local-zone: "apidextercode.com" always_refuse
+local-zone: "baixarfilmehd1.org" always_refuse
+local-zone: "baixarfilmeshd.xyz" always_refuse
+local-zone: "baixefilmestorrenthdr.org" always_refuse
+local-zone: "beethoventv.com" always_refuse
+local-zone: "eztvx.to" always_refuse
+local-zone: "filme-onlinehd.org" always_refuse
+local-zone: "filmefox.net" always_refuse
+local-zone: "filmenvf.com" always_refuse
+local-zone: "futemax.click" always_refuse
+local-zone: "futemax.house" always_refuse
+local-zone: "futemax.reise" always_refuse
+local-zone: "futemax1.work" always_refuse
+local-zone: "futemax2.biz" always_refuse
+local-zone: "futemax3.biz" always_refuse
+local-zone: "hypeflixplus.biz" always_refuse
+local-zone: "hypeflixtv.biz" always_refuse
+local-zone: "kisskh.co" always_refuse
+local-zone: "megafilmehdonline.com" always_refuse
+local-zone: "megafilmeshd50.beauty" always_refuse
+local-zone: "pobreflix.army" always_refuse
+local-zone: "pobreflix.graphics" always_refuse
+local-zone: "pobreflixplus.com" always_refuse
+local-zone: "pobreflixtv.autos" always_refuse
+local-zone: "starckfilmes-v11.com" always_refuse
+local-zone: "starckfilmes-v16.com" always_refuse
+
+# Oficio: Ofício nº 449/2026/FIGF6/FIGF/SFI-ANATEL
+local-zone: "azrecargasoficial.club" always_refuse
+local-zone: "btvapp.icu" always_refuse
+local-zone: "btvboxbrasiloficial.com" always_refuse
+local-zone: "codigodigitalstore.shop" always_refuse
+local-zone: "dkrecargas.com.br" always_refuse
+local-zone: "gutopresentes.com" always_refuse
+local-zone: "htvsuporte.com.br" always_refuse
+local-zone: "lojasbtv.com.br" always_refuse
+local-zone: "lojasbtv.shop" always_refuse
+local-zone: "lojaunitv.site" always_refuse
+local-zone: "pontualrecarga.com" always_refuse
+local-zone: "portalpresentes.com" always_refuse
+local-zone: "recarga-unitv.store" always_refuse
+local-zone: "recargaboxplayo.com" always_refuse
+local-zone: "recargasupa.com" always_refuse
+local-zone: "redecanaistv.beauty" always_refuse
+local-zone: "universidaderestaurante.com.br" always_refuse
+local-zone: "uvwebs.org" always_refuse
+local-zone: "youcine.shop" always_refuse
+local-zone: "youcineoficial.net" always_refuse
