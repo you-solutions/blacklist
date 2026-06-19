@@ -28493,7 +28493,6 @@ local-zone: "novaflix.one" always_refuse
 local-zone: "novaflix.stream" always_refuse
 local-zone: "novaflix.ws" always_refuse
 local-zone: "novaflix.xyz" always_refuse
-local-zone: "novarecargatv.com.br" always_refuse
 local-zone: "noveflix.cc" always_refuse
 local-zone: "noveflix.com" always_refuse
 local-zone: "noveflix.net" always_refuse
@@ -37848,10 +37847,8 @@ local-zone: "8b.io" always_refuse
 local-zone: "blueplayer.com.br" always_refuse
 local-zone: "cuevana.sex" always_refuse
 local-zone: "cuevana3.cl" always_refuse
-local-zone: "cuevana3.eu" always_refuse
 local-zone: "eppi-cinema.org" always_refuse
 local-zone: "f2movies.sx" always_refuse
-local-zone: "fastrecarga.com.br" always_refuse
 local-zone: "filmlinks4u.xyz" always_refuse
 local-zone: "firemovies.online" always_refuse
 local-zone: "flixhqapp.com" always_refuse
@@ -37883,22 +37880,17 @@ local-zone: "moviesjoytv.live" always_refuse
 local-zone: "mycima-jo.com" always_refuse
 local-zone: "n123movie.xyz" always_refuse
 local-zone: "netmovies.xyz" always_refuse
-local-zone: "overflixtv.beauty" always_refuse
 local-zone: "overflixtv.courses" always_refuse
 local-zone: "overflixtv.date" always_refuse
 local-zone: "pelisflix1.quest" always_refuse
 local-zone: "pelisflix200.co" always_refuse
 local-zone: "pelisflix200.me" always_refuse
 local-zone: "pelisplushd.la" always_refuse
-local-zone: "pelisplushd.to" always_refuse
-local-zone: "pelisplusmax.com" always_refuse
 local-zone: "pelisplustv.net" always_refuse
 local-zone: "planoeppi.com.br" always_refuse
 local-zone: "playplano.shop" always_refuse
-local-zone: "recargasbluetv.com.br" always_refuse
 local-zone: "redecanaistv.courses" always_refuse
 local-zone: "redecanaistv.fyi" always_refuse
-local-zone: "redplayer.com.br" always_refuse
 local-zone: "redplaylists.com" always_refuse
 local-zone: "ultracine.blog" always_refuse
 local-zone: "ultracine.fun" always_refuse
@@ -37932,7 +37924,6 @@ local-zone: "lcsfornecedor.shop" always_refuse
 local-zone: "magisztv.com" always_refuse
 local-zone: "megacine.boats" always_refuse
 local-zone: "novarecargatv.com" always_refuse
-local-zone: "novarecargatv.com.br" always_refuse
 local-zone: "querorecargas.com" always_refuse
 local-zone: "recarga-app.com" always_refuse
 local-zone: "recargaboxplayp.com" always_refuse
@@ -37955,7 +37946,6 @@ local-zone: "baixarfilmeshd1.org" always_refuse
 local-zone: "baixefilmeshds.org" always_refuse
 local-zone: "cinegatohd.com" always_refuse
 local-zone: "filme4you.com" always_refuse
-local-zone: "futebolgratuito.net" always_refuse
 local-zone: "futemax.cfd" always_refuse
 local-zone: "futemax.college" always_refuse
 local-zone: "futemax.doctor" always_refuse
