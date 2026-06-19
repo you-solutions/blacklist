@@ -37884,8 +37884,7 @@ local-zone: "overflixtv.courses" always_refuse
 local-zone: "overflixtv.date" always_refuse
 local-zone: "pelisflix1.quest" always_refuse
 local-zone: "pelisflix200.co" always_refuse
-local-zone: "pelisflix200.me" always_refuse
-local-zone: "pelisplushd.la" always_refuse
+local-zone: "pelisflix200.me" always_refuse 
 local-zone: "pelisplustv.net" always_refuse
 local-zone: "planoeppi.com.br" always_refuse
 local-zone: "playplano.shop" always_refuse
@@ -37923,7 +37922,6 @@ local-zone: "goldcardtvplace.com" always_refuse
 local-zone: "lcsfornecedor.shop" always_refuse
 local-zone: "magisztv.com" always_refuse
 local-zone: "megacine.boats" always_refuse
-local-zone: "novarecargatv.com" always_refuse
 local-zone: "querorecargas.com" always_refuse
 local-zone: "recarga-app.com" always_refuse
 local-zone: "recargaboxplayp.com" always_refuse
