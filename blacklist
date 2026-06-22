@@ -37895,7 +37895,6 @@ local-zone: "ultracine.blog" always_refuse
 local-zone: "ultracine.fun" always_refuse
 local-zone: "ultracine.site" always_refuse
 local-zone: "ultracine1.site" always_refuse
-local-zone: "vercel.app" always_refuse
 local-zone: "vercuevana3.buzz" always_refuse
 local-zone: "veziseriale.tv" always_refuse
 local-zone: "vizer.bid" always_refuse
