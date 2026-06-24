@@ -40009,7 +40009,7 @@ local-zone: "dukecupipejatoh.info" always_refuse
 local-zone: "flm1as1o0.com" always_refuse
 local-zone: "fxzknmgcq.com" always_refuse
 
-Ofício nº 483/2026/FIGF6/FIGF/SFI-ANATEL
+#Ofício nº 483/2026/FIGF6/FIGF/SFI-ANATEL
 local-zone: "hifuje.online" always_refuse
 local-zone: "iatech.fun" always_refuse
 local-zone: "jvrkt.online" always_refuse
