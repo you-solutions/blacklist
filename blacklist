@@ -39943,7 +39943,6 @@ local-zone: "datauser.cf" always_refuse
 local-zone: "emagem.online" always_refuse
 local-zone: "fatafihikovulet.info" always_refuse
 local-zone: "giruh.online" always_refuse
-local-zone: "iatech.fun" always_refuse
 local-zone: "jute90.online" always_refuse
 local-zone: "massamodelada.cf" always_refuse
 local-zone: "mukipu.online" always_refuse
