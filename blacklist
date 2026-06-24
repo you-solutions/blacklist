@@ -39904,3 +39904,8 @@ local-zone: "zz77778.com" always_refuse
 local-zone: "zzzm91.com" always_refuse
 local-zone: "zzzz-br.bet" always_refuse
 local-zone: "zzzzz7777.com" always_refuse
+#
+#
+#https://yousolutions.monday.com/boards/8077486561/pulses/12347221334
+local-zone: "amsocial.com" always_refuse
+local-zone: "brasilfollowers.com" always_refuse
