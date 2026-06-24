@@ -37784,7 +37784,6 @@ local-zone: "10embeddecanais.xyz" always_refuse
 local-zone: "bli80gjsl.com" always_refuse
 local-zone: "cdnmasterglobal.online" always_refuse
 local-zone: "celefejorimi.info" always_refuse
-local-zone: "cloudflaire.lat" always_refuse
 local-zone: "cosubiwavujene.info" always_refuse
 local-zone: "g0e5yustmjx.com" always_refuse
 local-zone: "gededefuvutipubu.info" always_refuse
@@ -39913,9 +39912,7 @@ local-zone: "aberlado.shop" always_refuse
 local-zone: "acucucij.online" always_refuse
 local-zone: "aplplay.shop" always_refuse
 local-zone: "bucelurepegamive.info" always_refuse
-local-zone: "cdndgplay.click" always_refuse
 local-zone: "havonesi39.online" always_refuse
-local-zone: "iatech.fun" always_refuse
 local-zone: "jafiridecafamude.info" always_refuse
 local-zone: "kejojepaboso.info" always_refuse
 local-zone: "kst14.click" always_refuse
@@ -39926,7 +39923,6 @@ local-zone: "myfilmes.fun" always_refuse
 local-zone: "peixariafechada.cf" always_refuse
 local-zone: "tiwikewufugac.info" always_refuse
 local-zone: "veneza2.xyz" always_refuse
-local-zone: "vivita.fun" always_refuse
 local-zone: "vizionnet.top" always_refuse
 local-zone: "wenunujapodev.info" always_refuse
 local-zone: "zabura1.shop" always_refuse
@@ -40000,7 +39996,6 @@ local-zone: "fxzknmgcq.com" always_refuse
 local-zone: "hifuje.online" always_refuse
 local-zone: "iatech.fun" always_refuse
 local-zone: "jvrkt.online" always_refuse
-local-zone: "kst14.click" always_refuse
 local-zone: "lojedukipavo.info" always_refuse
 local-zone: "mipeku77.online" always_refuse
 local-zone: "neored.xyz" always_refuse
