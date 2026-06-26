@@ -27818,7 +27818,6 @@ local-zone: "eppibr.shop" always_refuse
 local-zone: "eppicine.com" always_refuse
 local-zone: "eppicinema.app" always_refuse
 local-zone: "eppicinema.com" always_refuse
-local-zone: "eppicinema.com.br" always_refuse
 local-zone: "eppicinema.forum" always_refuse
 local-zone: "eppicinema.link" always_refuse
 local-zone: "eppicinema.net" always_refuse
