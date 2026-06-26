@@ -15025,7 +15025,6 @@ local-zone: "alphasatoficial.com" always_refuse
 local-zone: "apiunitvpro.xyz" always_refuse
 local-zone: "apkyoucine.com" always_refuse
 local-zone: "appunitv.net.br" always_refuse
-local-zone: "athomics.org" always_refuse
 local-zone: "athomicsoficial.com" always_refuse
 local-zone: "ativadadigital.com.br" always_refuse
 local-zone: "azrecargaoficial.click" always_refuse
@@ -15051,7 +15050,6 @@ local-zone: "btvapp.network" always_refuse
 local-zone: "btvapp.online" always_refuse
 local-zone: "btvapp.pro" always_refuse
 local-zone: "btvbox.com.br" always_refuse
-local-zone: "btvbox.online" always_refuse
 local-zone: "btvboxstore.com" always_refuse
 local-zone: "btvbr.com.br" always_refuse
 local-zone: "btvbrasiloficial.com.br" always_refuse
@@ -15254,7 +15252,6 @@ local-zone: "vivipexpress.shop" always_refuse
 local-zone: "vivoiptv.com.br" always_refuse
 local-zone: "vivotv.mx" always_refuse
 local-zone: "voltzrecargas.com" always_refuse
-local-zone: "www.athomics.online" always_refuse
 local-zone: "www.bigeletronicos.com.br" always_refuse
 local-zone: "www.brasiltv.help" always_refuse
 local-zone: "www.brasiltv.link" always_refuse
@@ -15564,8 +15561,6 @@ local-zone: "brasiltvbr.bond" always_refuse
 local-zone: "brasiltvbr.help" always_refuse
 local-zone: "brodl.org" always_refuse
 local-zone: "brothersdoaz.net" always_refuse
-local-zone: "btv13.online" always_refuse
-local-zone: "btv14.tv" always_refuse
 local-zone: "btvapp.agency" always_refuse
 local-zone: "btvapp.press" always_refuse
 local-zone: "btvbrasilbox.com" always_refuse
@@ -23595,9 +23590,7 @@ local-zone: "borarenovar.shop" always_refuse
 local-zone: "botoloja.com" always_refuse
 local-zone: "botoloja.pro" always_refuse
 local-zone: "bototv.com" always_refuse
-local-zone: "bototv.com.br" always_refuse
 local-zone: "bototv.shop" always_refuse
-local-zone: "boxtvrecargas.com" always_refuse
 local-zone: "boxtvrecargas.com.br" always_refuse
 local-zone: "bra2.brasiltv-oficial.sbs" always_refuse
 local-zone: "braflix-official.site" always_refuse
@@ -23698,9 +23691,6 @@ local-zone: "btv-app.softonic.com.br" always_refuse
 local-zone: "btv-curitiba.com" always_refuse
 local-zone: "btv-oficial.com" always_refuse
 local-zone: "btv-oficial.store" always_refuse
-local-zone: "btv13.com" always_refuse
-local-zone: "btv13.net" always_refuse
-local-zone: "btv13.store" always_refuse
 local-zone: "btvapp.blog" always_refuse
 local-zone: "btvapp.business" always_refuse
 local-zone: "btvapp.cards" always_refuse
@@ -23737,10 +23727,6 @@ local-zone: "btvappoficial.xyz" always_refuse
 local-zone: "btvautorizada.com" always_refuse
 local-zone: "btvb13oficial.com" always_refuse
 local-zone: "btvbox-brasil.com" always_refuse
-local-zone: "btvbox.biz" always_refuse
-local-zone: "btvbox.net" always_refuse
-local-zone: "btvbox.org" always_refuse
-local-zone: "btvbox.tv" always_refuse
 local-zone: "btvboxbrasil.com" always_refuse
 local-zone: "btvboxloja.com" always_refuse
 local-zone: "btvboxoficial.com" always_refuse
@@ -23805,11 +23791,8 @@ local-zone: "cargasplayrec.site" always_refuse
 local-zone: "cargasplays.shop" always_refuse
 local-zone: "cartaoip.tv" always_refuse
 local-zone: "carttv.com.br" always_refuse
-local-zone: "carvalhoshop.com.br" always_refuse
 local-zone: "carvalhoshop.link" always_refuse
 local-zone: "carvalhoshop.us" always_refuse
-local-zone: "carvalhoshopp.com.br" always_refuse
-local-zone: "carvalhoshoppy.com.br" always_refuse
 local-zone: "cbrestoreoficial.com" always_refuse
 local-zone: "celsoantunes.com.br" always_refuse
 local-zone: "centraldascarregas.store" always_refuse
@@ -29557,9 +29540,6 @@ local-zone: "assinariptvbrasil.com.br" always_refuse
 local-zone: "assistiai.com" always_refuse
 local-zone: "astroimportados.com" always_refuse
 local-zone: "astropoint.com.br" always_refuse
-local-zone: "athomics.com.br" always_refuse
-local-zone: "athomics.net" always_refuse
-local-zone: "athomics.tv" always_refuse
 local-zone: "ativacao.app" always_refuse
 local-zone: "ativacaoimediata.com" always_refuse
 local-zone: "ativarbox.com" always_refuse
