@@ -15091,7 +15091,6 @@ local-zone: "horaderecarga.com" always_refuse
 local-zone: "horadrecarga.com" always_refuse
 local-zone: "horadrecargas.com" always_refuse
 local-zone: "htv2.htvboxbr.cfd" always_refuse
-local-zone: "htv9.tv" always_refuse
 local-zone: "htvbox.blog" always_refuse
 local-zone: "htvbrasiloficial.com.br" always_refuse
 local-zone: "htvoficial.click" always_refuse
@@ -15194,8 +15193,6 @@ local-zone: "redecanaistv.stream" always_refuse
 local-zone: "redecanaistv.work" always_refuse
 local-zone: "redecanaisvip.top" always_refuse
 local-zone: "redplaycodigo.com" always_refuse
-local-zone: "reieletro.store" always_refuse
-local-zone: "reieletrotv.com.br" always_refuse
 local-zone: "renovaguto.com" always_refuse
 local-zone: "restaurantebaghdad.com.br" always_refuse
 local-zone: "revendaunitv.net" always_refuse
@@ -15261,7 +15258,6 @@ local-zone: "www.carvalhoshop.click" always_refuse
 local-zone: "www.centralcart.com.br" always_refuse
 local-zone: "www.dunatv.blog" always_refuse
 local-zone: "www.dunatv.news" always_refuse
-local-zone: "www.duosat.site" always_refuse
 local-zone: "www.eletronicshop.link" always_refuse
 local-zone: "www.htv9.tv" always_refuse
 local-zone: "www.htvbox.blog" always_refuse
@@ -15291,7 +15287,6 @@ local-zone: "www2.redecanais.vip" always_refuse
 local-zone: "xplus-card.cc" always_refuse
 local-zone: "xplus.tv.br" always_refuse
 local-zone: "xpluscard.vip" always_refuse
-local-zone: "xplusv4.org" always_refuse
 local-zone: "xupertv.vip" always_refuse
 local-zone: "you-cine.tools" always_refuse
 local-zone: "you-cine.xyz" always_refuse
@@ -15681,7 +15676,6 @@ local-zone: "unitvapp.help" always_refuse
 local-zone: "unitvapp.space" always_refuse
 local-zone: "unitvappbrasil.com" always_refuse
 local-zone: "unitvappbrasil.net" always_refuse
-local-zone: "unitvbr.store" always_refuse
 local-zone: "unitvbrasil.bond" always_refuse
 local-zone: "unitvgelli.shop" always_refuse
 local-zone: "unitvnet.cfd" always_refuse
@@ -15717,8 +15711,6 @@ local-zone: "xpluscard.cc" always_refuse
 local-zone: "xpluscard.net" always_refuse
 local-zone: "xplusexpress.com" always_refuse
 local-zone: "xplusexpress.net" always_refuse
-local-zone: "xplusv4.com" always_refuse
-local-zone: "xplusv4.store" always_refuse
 local-zone: "yocineapk.com" always_refuse
 local-zone: "youciine.download" always_refuse
 local-zone: "youcine-brasil-filmes-series.softonic.com" always_refuse
@@ -23940,12 +23932,9 @@ local-zone: "dunaplanos.store" always_refuse
 local-zone: "dunarecarga.com" always_refuse
 local-zone: "dunarenovacards.shop" always_refuse
 local-zone: "dunatv-tv.com.br" always_refuse
-local-zone: "dunatv.app.br" always_refuse
 local-zone: "dunatv.click" always_refuse
 local-zone: "dunatv.cloud" always_refuse
-local-zone: "dunatv.com.br" always_refuse
 local-zone: "dunatv.net" always_refuse
-local-zone: "dunatv.pro.br" always_refuse
 local-zone: "dunatv.store" always_refuse
 local-zone: "dunatvapk.net" always_refuse
 local-zone: "dunatvapk.online" always_refuse
@@ -23963,10 +23952,7 @@ local-zone: "dunatvrecarga.store" always_refuse
 local-zone: "dunatvrecargas.com" always_refuse
 local-zone: "dunatvrecargas.com.br" always_refuse
 local-zone: "duosat.co" always_refuse
-local-zone: "duosat.live" always_refuse
-local-zone: "duosat.tv" always_refuse
 local-zone: "duosat.tv.br" always_refuse
-local-zone: "duosat.vip" always_refuse
 local-zone: "duosatshop.com.br" always_refuse
 local-zone: "e5f6g7h8.ruminileracalow.info" always_refuse
 local-zone: "eazyrecargas.com" always_refuse
@@ -24178,8 +24164,6 @@ local-zone: "htv-oficial.site" always_refuse
 local-zone: "htv.homes" always_refuse
 local-zone: "htv.pics" always_refuse
 local-zone: "htv8.lovable.app" always_refuse
-local-zone: "htv8.net" always_refuse
-local-zone: "htv8.tv" always_refuse
 local-zone: "htvapp.xyz" always_refuse
 local-zone: "htvbox-america.com" always_refuse
 local-zone: "htvbox.best" always_refuse
@@ -24494,9 +24478,6 @@ local-zone: "mjstoreoficial.com" always_refuse
 local-zone: "mk21plataformas.top" always_refuse
 local-zone: "mkdw.qrdldunitvss.com" always_refuse
 local-zone: "mlinfoshop.com.br" always_refuse
-local-zone: "moveimportados.com" always_refuse
-local-zone: "moveimports.com" always_refuse
-local-zone: "moveimportsbr.com" always_refuse
 local-zone: "mrecarga.com" always_refuse
 local-zone: "mrjrecargas.com" always_refuse
 local-zone: "multirecarga.com.br" always_refuse
@@ -24972,9 +24953,6 @@ local-zone: "redplayofficial.tv" always_refuse
 local-zone: "reidoscanais.io" always_refuse
 local-zone: "reidoscanais.life" always_refuse
 local-zone: "reidoscanais.pro" always_refuse
-local-zone: "reieletro.biz" always_refuse
-local-zone: "reieletro.com" always_refuse
-local-zone: "reieletro.tv" always_refuse
 local-zone: "renovabox.net" always_refuse
 local-zone: "renovabox.org" always_refuse
 local-zone: "renovabox.shop" always_refuse
@@ -25264,7 +25242,6 @@ local-zone: "unitv-recarga.shop" always_refuse
 local-zone: "unitv-recarga.site" always_refuse
 local-zone: "unitv.ao" always_refuse
 local-zone: "unitv.app.br" always_refuse
-local-zone: "unitv.bet" always_refuse
 local-zone: "unitv.bio.link" always_refuse
 local-zone: "unitv.blog" always_refuse
 local-zone: "unitv.chat" always_refuse
@@ -25273,7 +25250,6 @@ local-zone: "unitv.com.co" always_refuse
 local-zone: "unitv.cyou" always_refuse
 local-zone: "unitv.digital" always_refuse
 local-zone: "unitv.dk" always_refuse
-local-zone: "unitv.fit" always_refuse
 local-zone: "unitv.fun" always_refuse
 local-zone: "unitv.lendatv.net" always_refuse
 local-zone: "unitv.life" always_refuse
@@ -25620,7 +25596,6 @@ local-zone: "xpcardstore.com" always_refuse
 local-zone: "xplus-app.com" always_refuse
 local-zone: "xplus-card.com" always_refuse
 local-zone: "xplus-card.net" always_refuse
-local-zone: "xplus.biz" always_refuse
 local-zone: "xplus.ddns.net" always_refuse
 local-zone: "xplusapp.com" always_refuse
 local-zone: "xplusapp.ddns.net" always_refuse
@@ -25629,7 +25604,7 @@ local-zone: "xplusapp.org" always_refuse
 local-zone: "xplusapp1.com" always_refuse
 local-zone: "xplusapp1.ddns.net" always_refuse
 local-zone: "xplusappcard.com" always_refuse
-local-zone: "xplusbr.com" always_refuse
+
 local-zone: "xplusbrasil.com.br" always_refuse
 local-zone: "xpluscard.app" always_refuse
 local-zone: "xpluscard2.com" always_refuse
@@ -42106,34 +42081,15 @@ local-zone: "apollogroupstv.tv" always_refuse
 local-zone: "aquinounitv.wuaze.com" always_refuse
 local-zone: "arecarga.net" always_refuse
 local-zone: "arecarga.site" always_refuse
-local-zone: "athomics.com.br" always_refuse
-local-zone: "athomics.net" always_refuse
-local-zone: "athomics.org" always_refuse
-local-zone: "athomics.tv" always_refuse
 local-zone: "azrecargaoficial.digital" always_refuse
 local-zone: "azrecargasoficial.live" always_refuse
-local-zone: "bototv.com.br" always_refuse
-local-zone: "boxtvrecargas.com" always_refuse
 local-zone: "braflix.my" always_refuse
 local-zone: "brasiltv.site" always_refuse
-local-zone: "btv13.com" always_refuse
-local-zone: "btv13.net" always_refuse
-local-zone: "btv13.online" always_refuse
-local-zone: "btv13.store" always_refuse
-local-zone: "btv14.tv" always_refuse
 local-zone: "btvapp.art" always_refuse
-local-zone: "btvbox.biz" always_refuse
-local-zone: "btvbox.net" always_refuse
-local-zone: "btvbox.online" always_refuse
-local-zone: "btvbox.org" always_refuse
-local-zone: "btvbox.tv" always_refuse
 local-zone: "btvboxoriginal.com" always_refuse
 local-zone: "btvoficialbrasil.com" always_refuse
 local-zone: "cargaplays.com" always_refuse
-local-zone: "carvalhoshop.com.br" always_refuse
 local-zone: "carvalhoshop.top" always_refuse
-local-zone: "carvalhoshopp.com.br" always_refuse
-local-zone: "carvalhoshoppy.com.br" always_refuse
 local-zone: "clubedasrecarga.com" always_refuse
 local-zone: "clubedoaz.com" always_refuse
 local-zone: "clubidocodigos.com" always_refuse
@@ -42217,8 +42173,10 @@ local-zone: "unitvplano.shop" always_refuse
 local-zone: "unitvprooficial.net" always_refuse
 local-zone: "unitvrecargaspro.com" always_refuse
 local-zone: "unitvstore.com" always_refuse
-local-zone: "www.athomics.online" always_refuse
-local-zone: "www.athomics.org" always_refuse
+#https://yousolutions.monday.com/boards/8077893303/pulses/12379416386
+#local-zone: "www.athomics.online" always_refuse
+#local-zone: "www.athomics.org" always_refuse
+
 local-zone: "www.powerlojadigital.com.br" always_refuse
 local-zone: "www.redecanaistv.date" always_refuse
 local-zone: "xpluscard.bar" always_refuse
@@ -42533,3 +42491,53 @@ local-zone: "superseriesflix.me" always_refuse
 local-zone: "serieflixtv.online" always_refuse
 local-zone: "seriesflixtv2.help" always_refuse
 local-zone: "seriesonlineweb.live" always_refuse
+local-zone: "renovaguto.com" always_refuse
+local-zone: "restaurantebaghdad.com.br" always_refuse
+#
+#
+#https://yousolutions.monday.com/boards/8077893303/pulses/12379416386
+#local-zone: "xplusv4.com" always_refuse
+#local-zone: "xplusv4.store" always_refuse
+#local-zone: "reieletro.biz" always_refuse
+#local-zone: "reieletro.com" always_refuse
+#local-zone: "reieletro.tv" always_refuse
+#local-zone: "htv9.tv" always_refuse
+#local-zone: "xplus.biz" always_refuse
+#local-zone: "moveimportados.com" always_refuse
+#local-zone: "moveimports.com" always_refuse
+#local-zone: "moveimportsbr.com" always_refuse
+#local-zone: "htv8.net" always_refuse
+#local-zone: "htv8.tv" always_refuse
+#local-zone: "reieletro.store" always_refuse
+#local-zone: "reieletrotv.com.br" always_refuse
+#local-zone: "xplusv4.org" always_refuse
+#local-zone: "www.duosat.site" always_refuse
+#local-zone: "xplusbr.com" always_refuse
+#local-zone: "unitvbr.store" always_refuse
+#local-zone: "unitv.bet" always_refuse
+#local-zone: "unitv.fit" always_refuse
+#local-zone: "duosat.live" always_refuse
+#local-zone: "duosat.tv" always_refuse
+#local-zone: "duosat.vip" always_refuse
+#local-zone: "dunatv.app.br" always_refuse
+#local-zone: "dunatv.com.br" always_refuse
+#local-zone: "dunatv.pro.br" always_refuse
+#local-zone: "athomics.com.br" always_refuse
+#local-zone: "athomics.net" always_refuse
+#local-zone: "athomics.org" always_refuse
+#local-zone: "athomics.tv" always_refuse
+#local-zone: "bototv.com.br" always_refuse
+#local-zone: "boxtvrecargas.com" always_refuse
+#local-zone: "btv13.com" always_refuse
+#local-zone: "btv13.net" always_refuse
+#local-zone: "btv13.online" always_refuse
+#local-zone: "btv13.store" always_refuse
+#local-zone: "btv14.tv" always_refuse
+#local-zone: "btvbox.biz" always_refuse
+#local-zone: "btvbox.net" always_refuse
+#local-zone: "btvbox.online" always_refuse
+#local-zone: "btvbox.org" always_refuse
+#local-zone: "btvbox.tv" always_refuse
+#local-zone: "carvalhoshop.com.br" always_refuse
+#local-zone: "carvalhoshopp.com.br" always_refuse
+#local-zone: "carvalhoshoppy.com.br" always_refuse
