@@ -42662,3 +42662,34 @@ local-zone: "tvexpresscardapp.com" always_refuse
 local-zone: "minhacontadezpila.com" always_refuse
 local-zone: "filmesflixonline.com" always_refuse
 local-zone: "servertr4.top" always_refuse
+#
+#
+#https://yousolutions.monday.com/boards/8077486561/pulses/12429814341
+local-zone: "canaistop1.digital" always_refuse
+local-zone: "canaistop1.xyz" always_refuse
+local-zone: "dezpila.art" always_refuse
+local-zone: "dezpila.pics" always_refuse
+local-zone: "filmestorrentplay1.com" always_refuse
+local-zone: "hdfilmevim.net" always_refuse
+local-zone: "megaflix1.site" always_refuse
+local-zone: "megaflixdl.pro" always_refuse
+local-zone: "megaflixhd.xyz" always_refuse
+local-zone: "monroeflix.com" always_refuse
+local-zone: "multicanais.best" always_refuse
+local-zone: "multicanaishd.cheap" always_refuse
+local-zone: "nerdfilmestorrent.com" always_refuse
+local-zone: "netcinelt.lat" always_refuse
+local-zone: "netcinema.lat" always_refuse
+local-zone: "ondebaixamos.com" always_refuse
+local-zone: "seriesflixhd.lat" always_refuse
+local-zone: "seriesflixweb.ink" always_refuse
+local-zone: "starckfilmes.net" always_refuse
+local-zone: "superflix38.lol" always_refuse
+local-zone: "www.nerdfilmestorrent.com" always_refuse
+local-zone: "www.seriesflixweb.ink" always_refuse
+local-zone: "www.starckfilmes.net" always_refuse
+local-zone: "www.xbrfilmes.net" always_refuse
+local-zone: "www.xbrfilmestorrent.net" always_refuse
+local-zone: "www.xbrfilmestorrents.net" always_refuse
+local-zone: "xbrfilmes.net" always_refuse
+local-zone: "xbrfilmestorrents.net" always_refuse
