@@ -42874,3 +42874,10 @@ local-zone: "www.vizertv.sbs" always_refuse
 #
 #https://yousolutions.monday.com/boards/8077486561/pulses/12489573373
 local-zone: "www.atacadosbr.com" always_refuse
+#
+#
+#https://yousolutions.monday.com/boards/8077486561/pulses/12489671709
+local-zone: "borafama.com" always_refuse
+local-zone: "borafama02.com" always_refuse
+local-zone: "www.borafama.com" always_refuse
+local-zone: "www.borafama02.com" always_refuse
