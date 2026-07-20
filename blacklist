@@ -48140,3 +48140,7 @@ local-zone: "encontrei.site" always_refuse
 local-zone: "encontrei.tv" always_refuse
 local-zone: "freecineapp.com" always_refuse
 local-zone: "futemax.photo" always_refuse
+#
+#
+#https://yousolutions.monday.com/boards/8077893303/pulses/12564244830
+local-zone: "lionsprovedor.com" always_refuse
