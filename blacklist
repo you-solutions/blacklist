@@ -48162,3 +48162,37 @@ local-zone: "q4v2x9p6.bujufiniwaforogi.info" always_refuse
 local-zone: "s4.goodstream.one" always_refuse
 local-zone: "vid7102401.hclod.qzz.io" always_refuse
 local-zone: "watchplayer.xyz" always_refuse
+#
+#
+#https://yousolutions.monday.com/boards/8077893303/pulses/12564381931
+local-zone: "bflix.bz" always_refuse
+local-zone: "bflix.ink" always_refuse
+local-zone: "filmestorrentpro.org" always_refuse
+local-zone: "maxflix.live" always_refuse
+local-zone: "megafilmes.buzz" always_refuse
+local-zone: "megafilmeshd1.live" always_refuse
+local-zone: "megaflix.mom" always_refuse
+local-zone: "megaflix.plus" always_refuse
+local-zone: "meuseriado.cc" always_refuse
+local-zone: "multicanais.baby" always_refuse
+local-zone: "multicanais.cfd" always_refuse
+local-zone: "mundofut.top" always_refuse
+local-zone: "myfilmestorrent.net" always_refuse
+local-zone: "netcine.lol" always_refuse
+local-zone: "netcine.shop" always_refuse
+local-zone: "oneflix.lol" always_refuse
+local-zone: "serieflixhd.live" always_refuse
+local-zone: "seriesflix.pics" always_refuse
+local-zone: "seriesflix.space" always_refuse
+local-zone: "seriesflixbr.me" always_refuse
+local-zone: "seriesflixtv-2.online" always_refuse
+local-zone: "seriesflixtv2.org" always_refuse
+local-zone: "seriesflixtv2.pw" always_refuse
+local-zone: "seriesflixtv2.site" always_refuse
+local-zone: "seriesflixtv2.xyz" always_refuse
+local-zone: "suaseriesonline.live" always_refuse
+local-zone: "superflix.pics" always_refuse
+local-zone: "tubastore.com.br" always_refuse
+local-zone: "utorrentfilmes.com.br" always_refuse
+local-zone: "xilften.click" always_refuse
+local-zone: "xilften.xyz" always_refuse
