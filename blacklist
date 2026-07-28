@@ -48569,3 +48569,8 @@ local-zone: "www.brfilmes.org" always_refuse
 local-zone: "www.seuseriados.xyz" always_refuse
 local-zone: "www.starckfilmes-v21.com" always_refuse
 local-zone: "xbrfilmes.org" always_refuse
+#
+#
+#https://yousolutions.monday.com/boards/8077893303/pulses/12564305001
+local-zone: "lojauniversodovaporbr.com" always_refuse
+local-zone: "lojauniversovaporbrasilofc.com" always_refuse
