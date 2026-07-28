@@ -48543,3 +48543,29 @@ local-zone: "lunatv.online" always_refuse
 local-zone: "xiiviimmxxv.com" always_refuse
 local-zone: "megarecargabox.com" always_refuse
 local-zone: "fmoviesapp.se" always_refuse
+#
+#
+#https://yousolutions.monday.com/boards/8077893303/pulses/12564304215
+local-zone: "apachetorrent.xyz" always_refuse
+local-zone: "brfilme.org" always_refuse
+local-zone: "brfilmes.org" always_refuse
+local-zone: "canaistop1.shop" always_refuse
+local-zone: "canaistop2.shop" always_refuse
+local-zone: "dezpila-app.me" always_refuse
+local-zone: "filmenoi-hd.net" always_refuse
+local-zone: "filmestorrentplay2.com" always_refuse
+local-zone: "hdfilmevreni.org" always_refuse
+local-zone: "meudezpila.com.br" always_refuse
+local-zone: "multicanaishd.qpon" always_refuse
+local-zone: "netcinebw.lat" always_refuse
+local-zone: "nickfilmestorrent.org" always_refuse
+local-zone: "painelclientedezpila.site" always_refuse
+local-zone: "seuseriados.xyz" always_refuse
+local-zone: "starckfilmes-v21.com" always_refuse
+local-zone: "superflix39.lol" always_refuse
+local-zone: "www.apachetorrent.xyz" always_refuse
+local-zone: "www.brfilme.org" always_refuse
+local-zone: "www.brfilmes.org" always_refuse
+local-zone: "www.seuseriados.xyz" always_refuse
+local-zone: "www.starckfilmes-v21.com" always_refuse
+local-zone: "xbrfilmes.org" always_refuse
