@@ -49929,7 +49929,7 @@ local-zone: "canaistoptv.digital" always_refuse
 local-zone: "xtorrent.com.br" always_refuse
 local-zone: "dezpila.study" always_refuse
 local-zone: "vipcanais.app" always_refuse
-local-zone: "" always_refuse
+
 
 
 #Ofício nº 16853900 – CyberGaeco
