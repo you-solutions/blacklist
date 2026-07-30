@@ -48635,3 +48635,6 @@ local-zone: "y9tkn0jvwz.lowavedokajuli.info" always_refuse
 local-zone: "z2p5q9k1.nikusegogopel.info" always_refuse
 local-zone: "z8e3c6f1.topuhugarewukub.info" always_refuse
 local-zone: "sp-66906890.eagflix.lat" always_refuse
+
+#Oficio nº 16851889/2026 - CyberGaeco
+local-zone: "lionsprovedor.com" always_refuse
