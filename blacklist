@@ -47952,7 +47952,6 @@ local-zone: "contentvods.link" always_refuse
 local-zone: "coretransit.online" always_refuse
 local-zone: "cotisefinupoj.info" always_refuse
 local-zone: "d1play.shop" always_refuse
-local-zone: "equadorvl.click" always_refuse
 local-zone: "espanhamal.click" always_refuse
 local-zone: "flamenco1.online" always_refuse
 local-zone: "flamenco2.online" always_refuse
@@ -49948,7 +49947,6 @@ local-zone: "filmadres1.com" always_refuse
 #Ofício n.º 98-E/2026-ANCINE/SRG
 local-zone: "st05perfume1607.online" always_refuse
 local-zone: "lv435.space" always_refuse
-local-zone: "nerihorizon.online" always_refuse
 local-zone: "lb4slo9khd.niwevopuduvefo.info" always_refuse
 local-zone: "e6m0yymkaq.niwevopuduvefo.info" always_refuse
 
@@ -49972,7 +49970,6 @@ local-zone: "coretransit.sbs" always_refuse
 local-zone: "covivabe7.online" always_refuse
 local-zone: "equadorvl.click" always_refuse
 local-zone: "espanhamal.click" always_refuse
-local-zone: "esquileted.click" always_refuse
 local-zone: "foxstrm.click" always_refuse
 local-zone: "francabappe.click" always_refuse
 local-zone: "gakpohola.lol" always_refuse
@@ -49980,7 +49977,6 @@ local-zone: "gezo.online" always_refuse
 local-zone: "gigantecdn1.top" always_refuse
 local-zone: "gigantecdn2.top" always_refuse
 local-zone: "hihotobawijev.info" always_refuse
-local-zone: "holyjhow.lol" always_refuse
 local-zone: "ijaha.online" always_refuse
 local-zone: "ikillom.click" always_refuse
 local-zone: "ikillom.lol" always_refuse
@@ -49994,9 +49990,7 @@ local-zone: "lotswaterxixik.sbs" always_refuse
 local-zone: "maisumavez01.online" always_refuse
 local-zone: "maranha.sbs" always_refuse
 local-zone: "mowajuwubene.info" always_refuse
-local-zone: "muerteloca.lol" always_refuse
 local-zone: "navibodumenefumo.info" always_refuse
-local-zone: "nerihorizon.online" always_refuse
 local-zone: "nigerianz.click" always_refuse
 local-zone: "pj10.online" always_refuse
 local-zone: "racelupitusejup.info" always_refuse
@@ -50005,15 +49999,12 @@ local-zone: "robozaou.click" always_refuse
 local-zone: "rockproud.click" always_refuse
 local-zone: "st05abacate1307.online" always_refuse
 local-zone: "testedriveford.space" always_refuse
-local-zone: "tvhund.lat" always_refuse
 local-zone: "v2td.online" always_refuse
 local-zone: "vod01e001.fun" always_refuse
 local-zone: "vozinhacab.click" always_refuse
 local-zone: "x81niayvk.xyz" always_refuse
 local-zone: "xn-----0b4asja8cbew2b4b0gd0edbjm2jpa1b1e9zva7a0347s4da2797e7qri.xn" always_refuse
 local-zone: "xvtridpyq.com" always_refuse
-local-zone: "yamalicia.click" always_refuse
-local-zone: "ytxmob.lol" always_refuse
 
 # Oficio: Ofício n.º 96-E/2026-ANCINE/SRG
 local-zone: "azeb28.online" always_refuse
@@ -50026,7 +50017,6 @@ local-zone: "boritulefonahap.info" always_refuse
 local-zone: "bustean.fun" always_refuse
 local-zone: "coretransit.top" always_refuse
 local-zone: "dasjbasdjb2189.shop" always_refuse
-local-zone: "equadorvl.click" always_refuse
 local-zone: "esquileted.click" always_refuse
 local-zone: "foreverlis.gq" always_refuse
 local-zone: "futemax.lt" always_refuse
@@ -50040,10 +50030,8 @@ local-zone: "lateraldeitada.cf" always_refuse
 local-zone: "livebrasil.space" always_refuse
 local-zone: "malandrex.sbs" always_refuse
 local-zone: "marimbodokq.shop" always_refuse
-local-zone: "mbappota.click" always_refuse
 local-zone: "muerteloca.lol" always_refuse
 local-zone: "nerihorizon.online" always_refuse
-local-zone: "nigerianz.click" always_refuse
 local-zone: "oalgm.xyz" always_refuse
 local-zone: "onusbus.fun" always_refuse
 local-zone: "papangux.click" always_refuse
@@ -50058,10 +50046,8 @@ local-zone: "senegalz.click" always_refuse
 local-zone: "stloadi.live" always_refuse
 local-zone: "stroiteryt.click" always_refuse
 local-zone: "topfilmes.lol" always_refuse
-local-zone: "ujxma01.click" always_refuse
 local-zone: "uruguascata.click" always_refuse
 local-zone: "visitacdn2.top" always_refuse
-local-zone: "vozinhacab.click" always_refuse
 local-zone: "wacelucosofur.info" always_refuse
 local-zone: "wifokelugagokawu.info" always_refuse
 local-zone: "yamalicia.click" always_refuse
@@ -50085,23 +50071,16 @@ local-zone: "cdnquatrojulho2.online" always_refuse
 local-zone: "copalido.lol" always_refuse
 local-zone: "cujafarulibin.info" always_refuse
 local-zone: "edgefabric.fit" always_refuse
-local-zone: "equadorvl.click" always_refuse
-local-zone: "esquileted.click" always_refuse
 local-zone: "foxstrm.click" always_refuse
 local-zone: "francabappe.click" always_refuse
-local-zone: "holyjhow.lol" always_refuse
 local-zone: "ijocevam.online" always_refuse
 local-zone: "ikillom.click" always_refuse
 local-zone: "ikillom.lol" always_refuse
 local-zone: "japonaise.lol" always_refuse
-local-zone: "jockypipi.click" always_refuse
 local-zone: "lionelgot.click" always_refuse
 local-zone: "lofeb.online" always_refuse
 local-zone: "mbappota.click" always_refuse
-local-zone: "muerteloca.lol" always_refuse
 local-zone: "necatidicatubiriba.shop" always_refuse
-local-zone: "nerihorizon.online" always_refuse
-local-zone: "nigerianz.click" always_refuse
 local-zone: "pj10.online" always_refuse
 local-zone: "pukawakopoli.info" always_refuse
 local-zone: "regaxy.click" always_refuse
@@ -50126,10 +50105,8 @@ local-zone: "loopgbfr.click" always_refuse
 local-zone: "maracasx.cfd" always_refuse
 local-zone: "maranha.sbs" always_refuse
 local-zone: "narutiqk.lol" always_refuse
-local-zone: "nerihorizon.online" always_refuse
 local-zone: "pirkqz.click" always_refuse
 local-zone: "rurihit73.online" always_refuse
 local-zone: "susece78.online" always_refuse
-local-zone: "ujxma01.click" always_refuse
 local-zone: "vilasne.sbs" always_refuse
 local-zone: "vilov.online" always_refuse
