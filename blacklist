@@ -26139,7 +26139,6 @@ local-zone: "futemax.li" always_refuse
 local-zone: "futemax.limo" always_refuse
 local-zone: "futemax.live" always_refuse
 local-zone: "futemax.loan" always_refuse
-local-zone: "futemax.lt" always_refuse
 local-zone: "futemax.lv" always_refuse
 local-zone: "futemax.mba" always_refuse
 local-zone: "futemax.meme" always_refuse
@@ -42646,7 +42645,6 @@ local-zone: "futtemax.net" always_refuse
 local-zone: "megafilmeshd50.cloud" always_refuse
 local-zone: "pobreflixtv.click" always_refuse
 local-zone: "topfilmes.cfd" always_refuse
-local-zone: "topfilmes.lol" always_refuse
 local-zone: "tvaovivo.click" always_refuse
 local-zone: "free123movies.net" always_refuse
 local-zone: "movie2online.com" always_refuse
@@ -47951,7 +47949,6 @@ local-zone: "contentvods.link" always_refuse
 local-zone: "coretransit.online" always_refuse
 local-zone: "cotisefinupoj.info" always_refuse
 local-zone: "d1play.shop" always_refuse
-local-zone: "espanhamal.click" always_refuse
 local-zone: "flamenco1.online" always_refuse
 local-zone: "flamenco2.online" always_refuse
 local-zone: "fukudoro.online" always_refuse
@@ -48010,7 +48007,6 @@ local-zone: "tztech.fun" always_refuse
 local-zone: "ujxma01.click" always_refuse
 local-zone: "uymon.top" always_refuse
 local-zone: "valdemaqx.click" always_refuse
-local-zone: "ytxmob.lol" always_refuse
 
 # Oficio: Ofício nº 167/2026-Del
 # Gerado em: 20/07/2026
@@ -49806,7 +49802,6 @@ local-zone: "ufaball.bet" always_refuse
 local-zone: "uhnc5g67.com" always_refuse
 local-zone: "uj97.bet" always_refuse
 local-zone: "ujd547.bet" always_refuse
-local-zone: "uk.com" always_refuse
 local-zone: "uktdw89.bet" always_refuse
 local-zone: "ult9qs.com" always_refuse
 local-zone: "umsjpi.com" always_refuse
@@ -49951,9 +49946,7 @@ local-zone: "e6m0yymkaq.niwevopuduvefo.info" always_refuse
 
 # Oficio: Ofício n.º 94-E/2026-ANCINE/SRG
 local-zone: "alvinho1001.top" always_refuse
-local-zone: "arabianoqa.click" always_refuse
 local-zone: "aramburu.cfd" always_refuse
-local-zone: "babalux.click" always_refuse
 local-zone: "bailavinij.lol" always_refuse
 local-zone: "baraumax.click" always_refuse
 local-zone: "brazukinhas.click" always_refuse
@@ -49974,7 +49967,6 @@ local-zone: "japonaise.lol" always_refuse
 local-zone: "jlako.sbs" always_refuse
 local-zone: "kivazudi.online" always_refus
 local-zone: "lodosadadadaa.cyou" always_refuse
-local-zone: "logiudsajca.cyou" always_refuse
 local-zone: "lotswaterxixik.sbs" always_refuse
 local-zone: "maisumavez01.online" always_refuse
 local-zone: "mowajuwubene.info" always_refuse
@@ -50026,9 +50018,6 @@ local-zone: "pevupefekalumat.info" always_refuse
 local-zone: "pilumemipivit.info" always_refuse
 local-zone: "playhide.shop" always_refuse
 local-zone: "quartashq.lol" always_refuse
-local-zone: "sabonetq.cfd" always_refuse
-local-zone: "salahegit.click" always_refuse
-local-zone: "senegalz.click" always_refuse
 local-zone: "stloadi.live" always_refuse
 local-zone: "stroiteryt.click" always_refuse
 local-zone: "topfilmes.lol" always_refuse
@@ -50039,12 +50028,8 @@ local-zone: "wifokelugagokawu.info" always_refuse
 local-zone: "yamalicia.click" always_refuse
 
 # Oficio: Ofício n.º 92-E/2026-ANCINE/SRG
-local-zone: "alvinho1001.top" always_refuse
 local-zone: "arabianoqa.click" always_refuse
-local-zone: "aramburu.cfd" always_refuse
 local-zone: "babalux.click" always_refuse
-local-zone: "bailavinij.lol" always_refuse
-local-zone: "baraumax.click" always_refuse
 local-zone: "caramelkq.shop" always_refuse
 local-zone: "caramelonildo.lat" always_refuse
 local-zone: "ccr-pr.click" always_refuse
@@ -50072,13 +50057,9 @@ local-zone: "zosqdyfvp.com" always_refuse
 
 # Oficio: Ofício n.º 86-E/2026-ANCINE/SRG
 local-zone: "01maisumdominio.sbs" always_refuse
-local-zone: "blobcdn88.net" always_refuse
 local-zone: "foxtv.store" always_refuse
-local-zone: "grapkes.shop" always_refuse
 local-zone: "igplay.fun" always_refuse
 local-zone: "jshqo.click" always_refuse
-local-zone: "loopgbfr.click" always_refuse
-local-zone: "maracasx.cfd" always_refuse
 local-zone: "narutiqk.lol" always_refuse
 local-zone: "pirkqz.click" always_refuse
 local-zone: "rurihit73.online" always_refuse
