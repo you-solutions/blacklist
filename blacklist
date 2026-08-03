@@ -50203,3 +50203,7 @@ local-zone: "vozinhacab.click" always_refuse
 local-zone: "vultumob.lol" always_refuse
 local-zone: "yamalicia.click" always_refuse
 local-zone: "zevafu.online" always_refuse
+#
+#
+#https://yousolutions.monday.com/boards/8077486561/pulses/12655047745
+local-zone: "juizofinal.org" always_refuse
