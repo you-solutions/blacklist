@@ -14403,7 +14403,11 @@ local-zone: "futuriza.ai" always_refuse
 local-zone: "hedgehog.markets" always_refuse
 local-zone: "kalshi.com" always_refuse
 local-zone: "og.com" always_refuse
-local-zone: "palpitada.com.br" always_refuse
+#
+#https://yousolutions.monday.com/boards/8077486561/pulses/12655088405
+# desbloqueio  palpitada.com.br
+#local-zone: "palpitada.com.br" always_refuse
+
 local-zone: "pliks.io" always_refuse
 local-zone: "polymarket.com" always_refuse
 local-zone: "polyswipe.bet" always_refuse
