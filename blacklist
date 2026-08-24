@@ -39790,7 +39790,7 @@ local-zone: "wino.mx" always_refuse
 local-zone: "wkdz16.cc" always_refuse
 local-zone: "wonton.bet" always_refuse
 local-zone: "workers.de" always_refuse
-local-zone: "workers.dev" always_refuse
+#local-zone: "workers.dev" always_refuse
 local-zone: "wp777z.com" always_refuse
 local-zone: "wte67.bet" always_refuse
 local-zone: "wv26.bet" always_refuse
