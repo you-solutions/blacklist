@@ -50849,3 +50849,11 @@ local-zone: "youcinepremium.com" always_refuse
 local-zone: "youcines.net" always_refuse
 local-zone: "recargaunitvboxfire.com" always_refuse
 local-zone: "unitvfans.net" always_refuse
+
+#
+#
+#YOU bloquear  botnet
+local-zone: "3322.org" always_refuse
+local-zone: "fireisi.com" always_refuse
+local-zone: "bin.visitbenin.org" always_refuse
+local-zone: "viewboot.com" always_refuse
