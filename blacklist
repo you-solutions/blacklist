@@ -57538,3 +57538,6 @@ local-zone: "ypppg.me" always_refuse
 local-zone: "ypppg.net" always_refuse
 local-zone: "znnpg.org" always_refuse
 local-zone: "zzqq.ink" always_refuse
+
+#Ofício Nº: 12738/2026
+local-zone: "portalaz.com.br" always_refuse
