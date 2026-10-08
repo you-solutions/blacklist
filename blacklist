@@ -57562,4 +57562,7 @@ local-zone: "socialmediagirls.com" always_refuse
 
 #Ofício nº 697/2026/FIGF6/FIGF/SFI-ANATEL
 local-zone: "sumareleilao.org" always_refuse
-local-zone: "sancarleiloes.com" always_refuse	
+local-zone: "sancarleiloes.com" always_refuse
+
+#Ofício nº 729/2026/FIGF6/FIGF/SFI-ANATEL
+local-zone: "tmcja-rr.webnode.page" always_refuse
