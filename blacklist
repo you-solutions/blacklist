@@ -57566,3 +57566,15 @@ local-zone: "sancarleiloes.com" always_refuse
 
 #Ofício nº 729/2026/FIGF6/FIGF/SFI-ANATEL
 local-zone: "tmcja-rr.webnode.page" always_refuse
+
+#Ofício nº 17053221 – CyberGaeco
+local-zone: "starcktorrents.net" always_refuse
+local-zone: "viatorrent.org" always_refuse
+local-zone: "canais-top.digital" always_refuse
+local-zone: "superflix47.lol" always_refuse
+local-zone: "viatorrents.net" always_refuse
+local-zone: "canaistop.beer" always_refuse
+local-zone: "galaxiatorrent.com" always_refuse
+local-zone: "grantorrent.org" always_refuse
+local-zone: "dezpila.sarl" always_refuse
+local-zone: "viatorrenthd.org" always_refuse
