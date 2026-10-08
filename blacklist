@@ -57578,3 +57578,8 @@ local-zone: "galaxiatorrent.com" always_refuse
 local-zone: "grantorrent.org" always_refuse
 local-zone: "dezpila.sarl" always_refuse
 local-zone: "viatorrenthd.org" always_refuse
+
+#Ofício nº 786/2026/FIGF6/FIGF/SFI-ANATEL
+local-zone: "pix.bet.br" always_refuse
+local-zone: "ganhei.bet.br" always_refuse
+local-zone: "betdasorte.bet.br" always_refuse
