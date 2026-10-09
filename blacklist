@@ -51149,7 +51149,6 @@ local-zone: "amazoniasports.com" always_refuse
 local-zone: "amerio.bet" always_refuse
 local-zone: "amh777.com" always_refuse
 local-zone: "amzpg.net" always_refuse
-local-zone: "apnews.com" always_refuse
 local-zone: "apolojogo.com" always_refuse
 local-zone: "apostabet.net" always_refuse
 local-zone: "apostaganha.win" always_refuse
@@ -51397,7 +51396,6 @@ local-zone: "carinhopg.com" always_refuse
 local-zone: "carnavalpg.com" always_refuse
 local-zone: "caro777.com" always_refuse
 local-zone: "casadeapostas.com" always_refuse
-local-zone: "casamentos.com.br" always_refuse
 local-zone: "cashplay.bet" always_refuse
 local-zone: "cashpoint.com" always_refuse
 local-zone: "casino222.cc" always_refuse
@@ -51439,10 +51437,8 @@ local-zone: "clubedabola.vip" always_refuse
 local-zone: "cnc.bet" always_refuse
 local-zone: "cobracasino.com" always_refuse
 local-zone: "codere.es" always_refuse
-local-zone: "cointelegraph.com" always_refuse
 local-zone: "comeonbrasil.com" always_refuse
 local-zone: "confiancasports.com" always_refuse
-local-zone: "contabeis.com.br" always_refuse
 local-zone: "copacabana.com" always_refuse
 local-zone: "coral.bz" always_refuse
 local-zone: "cordcuttersnews.com" always_refuse
@@ -51456,7 +51452,6 @@ local-zone: "csc777.com" always_refuse
 local-zone: "csj777.com" always_refuse
 local-zone: "cuiababet.club" always_refuse
 local-zone: "cunbet6.com" always_refuse
-local-zone: "cursoenemgratuito.com.br" always_refuse
 local-zone: "cutejogo.com" always_refuse
 local-zone: "cwbet.app" always_refuse
 local-zone: "cybersportsclub.com" always_refuse
@@ -51500,7 +51495,6 @@ local-zone: "eokk.bet" always_refuse
 local-zone: "escola777.bet" always_refuse
 local-zone: "escola777.com" always_refuse
 local-zone: "esmeraldaslot.com" always_refuse
-local-zone: "espacocasa.com" always_refuse
 local-zone: "espanhapp.com" always_refuse
 local-zone: "espetbet.bet" always_refuse
 local-zone: "esportebetbrasil.com" always_refuse
@@ -51533,7 +51527,6 @@ local-zone: "ferraripg.com" always_refuse
 local-zone: "fezbet.com" always_refuse
 local-zone: "fivebets.net" always_refuse
 local-zone: "fkkbet.com" always_refuse
-local-zone: "flashscore.com.br" always_refuse
 local-zone: "florajogo.com" always_refuse
 local-zone: "florajogo.xyz" always_refuse
 local-zone: "flutepg.com" always_refuse
@@ -51663,8 +51656,6 @@ local-zone: "jon.bet" always_refuse
 local-zone: "jonbet-brasil.com" always_refuse
 local-zone: "jonbet.com" always_refuse
 local-zone: "joocasino.com" always_refuse
-local-zone: "jornaldafronteira.com.br" always_refuse
-local-zone: "jornaldenegocios.pt" always_refuse
 local-zone: "jqkapp.bet" always_refuse
 local-zone: "jqkvip.bet" always_refuse
 local-zone: "jubilopg.net" always_refuse
@@ -52028,7 +52019,6 @@ local-zone: "topesporte.bet" always_refuse
 local-zone: "totalbet.pl" always_refuse
 local-zone: "totalbets.club" always_refuse
 local-zone: "tote.co.uk" always_refuse
-local-zone: "tradingview.com" always_refuse
 local-zone: "trello777.bet" always_refuse
 local-zone: "trevo4f.com" always_refuse
 local-zone: "trevodasorte.bet" always_refuse
@@ -52046,7 +52036,6 @@ local-zone: "u777.bet" always_refuse
 local-zone: "uau777.cc" always_refuse
 local-zone: "uemg777.cc" always_refuse
 local-zone: "ufal777.bet" always_refuse
-local-zone: "ufjf.br" always_refuse
 local-zone: "ufmg777.cc" always_refuse
 local-zone: "ullbet.com" always_refuse
 local-zone: "umbet3.com" always_refuse
