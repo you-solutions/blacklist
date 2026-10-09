@@ -57606,3 +57606,20 @@ local-zone: "vzoyac.ofvgctdxp.com" always_refuse
 local-zone: "qdwimk.g9d2aequ.com" always_refuse
 local-zone: "gβbvct.g9d2aequ.com" always_refuse
 local-zone: "ywul0x07h.bqciuyojp.com" always_refuse
+
+#Decisao_Judicial_1031339_38_2022_8_26_0050___MPSP15.pdf
+local-zone: "topcanals.com" always_refuse
+local-zone: "ondebaixa.com" always_refuse
+local-zone: "superflix.plus" always_refuse
+local-zone: "seuseriado.org" always_refuse
+local-zone: "ofwshows.su" always_refuse
+local-zone: "filmestorrent.gratis" always_refuse
+local-zone: "multicanais.com" always_refuse
+local-zone: "xilften.me" always_refuse
+local-zone: "assistirseriesd.net" always_refuse
+local-zone: "netcine.io" always_refuse
+local-zone: "seriesonlineweb.com" always_refuse
+local-zone: "cinevision.online" always_refuse
+local-zone: "seriesflix2.com" always_refuse
+local-zone: "megaflix.online" always_refuse
+local-zone: "megatorrentshd.net" always_refuse
