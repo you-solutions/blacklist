@@ -57693,3 +57693,11 @@ local-zone: "pobreflixnow.com" always_refuse
 local-zone: "rdembed.sbs" always_refuse
 local-zone: "starck-oficial.com" always_refuse
 local-zone: "starckfilmes-v24.com" always_refuse
+
+#Ofício no 277/2026-Del
+local-zone: "123moviesapp.org" always_refuse
+local-zone: "123movieshubz.cfd" always_refuse
+local-zone: "123moviesonly.com" always_refuse
+local-zone: "bobmovies.gd" always_refuse
+local-zone: "my-123movies.org" always_refuse
+local-zone: "repelisplus.im" always_refuse
