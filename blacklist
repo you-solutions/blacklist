@@ -57634,3 +57634,19 @@ local-zone: "youcines.com.co" always_refuse
 local-zone: "filmesrave.online" always_refuse
 local-zone: "overflix.surf" always_refuse
 local-zone: "vizer.wiki" always_refuse
+
+#Oficio: Ofício nº 265/2026-Del
+local-zone: "assistirfilmes.cc" always_refuse
+local-zone: "assistironline4.site" always_refuse
+local-zone: "cineflixoriginal.site" always_refuse
+local-zone: "cinemaxplushd.com" always_refuse
+local-zone: "filme-seriale.net" always_refuse
+local-zone: "futemax.coffee" always_refuse
+local-zone: "futemax.exchange" always_refuse
+local-zone: "futemax.host" always_refuse
+local-zone: "futemaxhd.homes" always_refuse
+local-zone: "hypeflixmax.org" always_refuse
+local-zone: "hypeflixnet.com" always_refuse
+local-zone: "nossofutemax.sbs" always_refuse
+local-zone: "playcinehd3.site" always_refuse
+local-zone: "pobreflixtvmax.net" always_refuse
