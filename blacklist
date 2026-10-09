@@ -62867,3 +62867,7 @@ local-zone: "pop835.com" always_refuse
 
 #Ofício nº 948/2026/FIGF6/FIGF/SFI-ANATEL
 local-zone: "institutovozesdorecomeco.com" always_refuse
+
+#Ofício nº 16996158 – CyberGaeco
+local-zone: "multicanaishd.church" always_refuse
+local-zone: "filmetorrents.online" always_refuse
