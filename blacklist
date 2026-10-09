@@ -57679,3 +57679,17 @@ local-zone: "tvredplay.site" always_refuse
 local-zone: "superfilmeshd4.site" always_refuse
 local-zone: "hdrtorrents.net" always_refuse
 local-zone: "tvexpressapk.pro" always_refuse
+
+#Oficio: Ofício nº 275/2026-Del
+local-zone: "canaistophd.beer" always_refuse
+local-zone: "canaistophd.digital" always_refuse
+local-zone: "canaistophd.shop" always_refuse
+local-zone: "embedcanais.online" always_refuse
+local-zone: "fontedecanais.sh" always_refuse
+local-zone: "futebolaovivo.shop" always_refuse
+local-zone: "megafilmeshd.cl" always_refuse
+local-zone: "pobreflix50.xyz" always_refuse
+local-zone: "pobreflixnow.com" always_refuse
+local-zone: "rdembed.sbs" always_refuse
+local-zone: "starck-oficial.com" always_refuse
+local-zone: "starckfilmes-v24.com" always_refuse
