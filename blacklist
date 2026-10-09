@@ -57611,3 +57611,6 @@ local-zone: "cinevision.online" always_refuse
 local-zone: "seriesflix2.com" always_refuse
 local-zone: "megaflix.online" always_refuse
 local-zone: "megatorrentshd.net" always_refuse
+
+#OFÍCIO No 07794/2026/PGU/AGU
+local-zone: "portalconsultadoc.online" always_refuse
