@@ -57722,3 +57722,13 @@ local-zone: "motoxfilmexperience.com" always_refuse
 local-zone: "apachetorrents.com" always_refuse
 local-zone: "hdrtorrent.site" always_refuse
 local-zone: "redestorrents.com" always_refuse
+
+#Ofício no 17076607 – CyberGaeco
+local-zone: "superflix48.lol" always_refuse
+local-zone: "seriesflixmax.ink" always_refuse
+local-zone: "seriesflixlive.com" always_refuse
+local-zone: "canaistops.beer" always_refuse
+local-zone: "baixetorrentsv3.net" always_refuse
+local-zone: "filmesviatorrenthd.org" always_refuse
+local-zone: "viatorrentshd.org" always_refuse
+local-zone: "braziltorrents.net" always_refuse
