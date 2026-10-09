@@ -57606,7 +57606,7 @@ local-zone: "xplustv.click" always_refuse
 local-zone: "youcinebrasilapk.com" always_refuse
 
 
-# Oficio: Ofício nº 261/2026-Del
+#Oficio: Ofício nº 261/2026-Del
 local-zone: "baixandofilmeshd.info" always_refuse
 local-zone: "baixandofilmeshd.net" always_refuse
 local-zone: "baixefilmesviatorrent.info" always_refuse
@@ -57615,3 +57615,17 @@ local-zone: "nickviatorrents.net" always_refuse
 local-zone: "pobreflixhub.net" always_refuse
 local-zone: "pobreflixtv.irish" always_refuse
 local-zone: "pobreflixtvmax.com" always_refuse
+
+#Oficio: Ofício nº 264/2026-Del
+local-zone: "btv-play.com" always_refuse
+local-zone: "centralrecargas.com" always_refuse
+local-zone: "codigovip.net.br" always_refuse
+local-zone: "megacinema2.site" always_refuse
+local-zone: "recargascine.store" always_refuse
+local-zone: "recargavitta.shop" always_refuse
+local-zone: "unicoderecargas.com" always_refuse
+local-zone: "xplus-live.com" always_refuse
+local-zone: "xplusexpress.pro" always_refuse
+local-zone: "youcinebrasil.shop" always_refuse
+local-zone: "youcinerecarga.online" always_refuse
+local-zone: "youcines.com.co" always_refuse
