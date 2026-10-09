@@ -57604,3 +57604,14 @@ local-zone: "unitvplay.lat" always_refuse
 local-zone: "uvnetwebs.info" always_refuse
 local-zone: "xplustv.click" always_refuse
 local-zone: "youcinebrasilapk.com" always_refuse
+
+
+# Oficio: Ofício nº 261/2026-Del
+local-zone: "baixandofilmeshd.info" always_refuse
+local-zone: "baixandofilmeshd.net" always_refuse
+local-zone: "baixefilmesviatorrent.info" always_refuse
+local-zone: "filme-gratis-online.info" always_refuse
+local-zone: "nickviatorrents.net" always_refuse
+local-zone: "pobreflixhub.net" always_refuse
+local-zone: "pobreflixtv.irish" always_refuse
+local-zone: "pobreflixtvmax.com" always_refuse
