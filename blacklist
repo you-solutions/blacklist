@@ -57714,3 +57714,11 @@ local-zone: "grantorrent.org" always_refuse
 local-zone: "dezpila.sarl" always_refuse
 local-zone: "viatorrenthd.org" always_refuse
 local-zone: "multicanaishd.cool" always_refuse
+
+
+#Ofício no 17063057 – CyberGaeco
+local-zone: "xviatorrent.com" always_refuse
+local-zone: "motoxfilmexperience.com" always_refuse
+local-zone: "apachetorrents.com" always_refuse
+local-zone: "hdrtorrent.site" always_refuse
+local-zone: "redestorrents.com" always_refuse
