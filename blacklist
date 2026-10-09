@@ -62864,3 +62864,6 @@ local-zone: "asianslotbet.com" always_refuse
 local-zone: "dewataslotbet21.top" always_refuse
 local-zone: "dewataslotbet67.cc" always_refuse
 local-zone: "pop835.com" always_refuse
+
+#Ofício nº 948/2026/FIGF6/FIGF/SFI-ANATEL
+local-zone: "institutovozesdorecomeco.com" always_refuse
