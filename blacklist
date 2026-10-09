@@ -57629,3 +57629,8 @@ local-zone: "xplusexpress.pro" always_refuse
 local-zone: "youcinebrasil.shop" always_refuse
 local-zone: "youcinerecarga.online" always_refuse
 local-zone: "youcines.com.co" always_refuse
+
+#Ofício no 263/2026-Del
+local-zone: "filmesrave.online" always_refuse
+local-zone: "overflix.surf" always_refuse
+local-zone: "vizer.wiki" always_refuse
