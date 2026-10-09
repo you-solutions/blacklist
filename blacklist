@@ -57701,3 +57701,16 @@ local-zone: "123moviesonly.com" always_refuse
 local-zone: "bobmovies.gd" always_refuse
 local-zone: "my-123movies.org" always_refuse
 local-zone: "repelisplus.im" always_refuse
+
+#Ofício no 17053221 – CyberGaeco
+local-zone: "starcktorrents.net" always_refuse
+local-zone: "www.viatorrent.org" always_refuse
+local-zone: "canais-top.digital" always_refuse
+local-zone: "superflix47.lol" always_refuse
+local-zone: "viatorrents.net" always_refuse
+local-zone: "canaistop.beer" always_refuse
+local-zone: "galaxiatorrent.com" always_refuse
+local-zone: "grantorrent.org" always_refuse
+local-zone: "dezpila.sarl" always_refuse
+local-zone: "viatorrenthd.org" always_refuse
+local-zone: "multicanaishd.cool" always_refuse
