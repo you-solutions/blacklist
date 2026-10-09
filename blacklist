@@ -51436,7 +51436,6 @@ local-zone: "clazebrasil.com" always_refuse
 local-zone: "cloudbet.com" always_refuse
 local-zone: "club7711.com" always_refuse
 local-zone: "clubedabola.vip" always_refuse
-local-zone: "clubedaposta.com" always_refuse
 local-zone: "cnc.bet" always_refuse
 local-zone: "cobracasino.com" always_refuse
 local-zone: "codere.es" always_refuse
