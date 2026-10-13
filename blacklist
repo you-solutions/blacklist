@@ -69694,3 +69694,21 @@ local-zone: "youcine1.com" always_refuse
 local-zone: "youcineapkhd.com" always_refuse
 local-zone: "youcineapp.org" always_refuse
 local-zone: "youcinedl.vip" always_refuse
+
+#Ofício nº 17038016 – CyberGaeco
+local-zone: "dezpila.surf" always_refuse
+local-zone: "canaistvtop.xyz" always_refuse
+local-zone: "multicanaishd.video" always_refuse
+local-zone: "superflixapi.baby" always_refuse
+local-zone: "seuseriados.art" always_refuse
+local-zone: "multicanaishd.dev" always_refuse
+local-zone: "seriesonline.one" always_refuse
+local-zone: "megafilmeshdflix.online" always_refuse
+
+#Ofício nº 17030759 – CyberGaeco
+local-zone: "multicanaishd.loan" always_refuse
+local-zone: "canaistop.casa" always_refuse
+local-zone: "magodosfilmes.net" always_refuse
+local-zone: "canaistvtop.top" always_refuse
+local-zone: "multicanaishd.builders" always_refuse
+local-zone: "canaistvtop.casa" always_refuse
