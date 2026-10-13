@@ -62871,3 +62871,13 @@ local-zone: "institutovozesdorecomeco.com" always_refuse
 #Ofício nº 16996158 – CyberGaeco
 local-zone: "multicanaishd.church" always_refuse
 local-zone: "filmetorrents.online" always_refuse
+
+#Oficio nº 17076607 do CyberGaeco
+local-zone: "superflix48.lol" always_refuse
+local-zone: "canaistops.beer" always_refuse
+local-zone: "seriesflixlive.com" always_refuse
+local-zone: "seriesflixmax.ink" always_refuse
+local-zone: "baixetorrentsv3.net" always_refuse
+local-zone: "braziltorrents.net" always_refuse
+local-zone: "filmesviatorrenthd.org" always_refuse
+local-zone: "viatorrentshd.org" always_refuse
