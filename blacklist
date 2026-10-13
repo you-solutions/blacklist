@@ -69480,3 +69480,9 @@ local-zone: "unitvoficial.store" always_refuse
 local-zone: "unitvrecargas.com.br" always_refuse
 local-zone: "universocards.com" always_refuse
 local-zone: "youcine.download" always_refuse
+#
+#
+#http://yousolutions.monday.com/boards/8077486561/pulses/132370004
+local-zone: "famosas.vip" always_refuse
+local-zone: "mixputaria.com" always_refuse
+local-zone: "videosdesexo.xxx" always_refuse
