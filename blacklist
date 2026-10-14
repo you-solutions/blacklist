@@ -15058,7 +15058,6 @@ local-zone: "btvstorebrasil.com" always_refuse
 local-zone: "bunitv.com" always_refuse
 local-zone: "carvalhoshop.click" always_refuse
 local-zone: "cbogift.com" always_refuse
-local-zone: "centralcart.com.br" always_refuse
 local-zone: "ciadunatv.com" always_refuse
 local-zone: "clubdasrecargas.com" always_refuse
 local-zone: "clubdcodigos.com" always_refuse
@@ -15256,7 +15255,6 @@ local-zone: "www.brasiltv.link" always_refuse
 local-zone: "www.brasiltvip.help" always_refuse
 local-zone: "www.btvbox.online" always_refuse
 local-zone: "www.carvalhoshop.click" always_refuse
-local-zone: "www.centralcart.com.br" always_refuse
 local-zone: "www.dunatv.blog" always_refuse
 local-zone: "www.dunatv.news" always_refuse
 local-zone: "www.eletronicshop.link" always_refuse
@@ -71017,3 +71015,9 @@ local-zone: "zx777.net.br" always_refuse
 local-zone: "zx777.org" always_refuse
 local-zone: "zz345.com" always_refuse
 local-zone: "zzz777.net" always_refuse
+#
+#desbloqueio 
+#https://yousolutions.monday.com/boards/8077486561/pulses/13237037716
+#local-zone: "centralcart.com.br" always_refuse
+#local-zone: "www.centralcart.com.br" always_refuse
+#local-zone: "streamingcards.centralcart.com.br" always_refuse
