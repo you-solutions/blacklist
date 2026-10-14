@@ -80239,3 +80239,54 @@ local-zone: "z98.com.br" always_refuse
 local-zone: "zm2z5z33.com" always_refuse
 local-zone: "zu29vu4u8.com" always_refuse
 local-zone: "zzzz999.org" always_refuse
+
+# ------------------------------------------------------------
+# Oficio: Ofício n.º 119-E/2026-ANCINE/SRG
+# Gerado em: 14/10/2026
+# Regras: 45
+# ------------------------------------------------------------
+local-zone: "21april.biz" always_refuse
+local-zone: "auratvios.com" always_refuse
+local-zone: "cachezonebr.lat" always_refuse
+local-zone: "casinhadaesquinadois.com" always_refuse
+local-zone: "cimentocdn1.online" always_refuse
+local-zone: "cimentocdn2.online" always_refuse
+local-zone: "cinemabr.shop" always_refuse
+local-zone: "eagservice.site" always_refuse
+local-zone: "fojasaporocu.info" always_refuse
+local-zone: "gohukagubebori.info" always_refuse
+local-zone: "golak1.xyz" always_refuse
+local-zone: "hebuf.online" always_refuse
+local-zone: "hostbrox.sbs" always_refuse
+local-zone: "ibihupo.online" always_refuse
+local-zone: "jukilo1.click" always_refuse
+local-zone: "killerjack.sbs" always_refuse
+local-zone: "kukewuvinuwisu.info" always_refuse
+local-zone: "limpezadoze.shop" always_refuse
+local-zone: "lofiletosakapu.info" always_refuse
+local-zone: "lupjack.xyz" always_refuse
+local-zone: "nylquix.sbs" always_refuse
+local-zone: "pazine18.online" always_refuse
+local-zone: "pocoh.online" always_refuse
+local-zone: "portal-do-sussego.com" always_refuse
+local-zone: "portalstrees.com" always_refuse
+local-zone: "pp2932198982u8.shop" always_refuse
+local-zone: "ronesikureco.info" always_refuse
+local-zone: "roomakrq.shop" always_refuse
+local-zone: "servicedop2.shop" always_refuse
+local-zone: "sky01.store" always_refuse
+local-zone: "st05aomzocdn.online" always_refuse
+local-zone: "trackfive.sbs" always_refuse
+local-zone: "troxwow.sbs" always_refuse
+local-zone: "troxwow.xyz" always_refuse
+local-zone: "tylquon.cfd" always_refuse
+local-zone: "udp64.de" always_refuse
+local-zone: "ujla819a.click" always_refuse
+local-zone: "ujx0091.click" always_refuse
+local-zone: "usagfx.info" always_refuse
+local-zone: "vobegukehusej.info" always_refuse
+local-zone: "vod03e001.fun" always_refuse
+local-zone: "voferuromujewa.info" always_refuse
+local-zone: "wilapihocude.info" always_refuse
+local-zone: "yhm-sr.click" always_refuse
+local-zone: "zhylero.cfd" always_refuse
