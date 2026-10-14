@@ -82599,3 +82599,23 @@ local-zone: "vizer.forum" always_refuse
 local-zone: "baixarfilmesseries.top" always_refuse
 local-zone: "futemax.website" always_refuse
 local-zone: "pobreflixoficial.lat" always_refuse
+
+# ------------------------------------------------------------
+# Oficio: Ofício nº 231/2026-Del
+# Gerado em: 14/10/2026
+# Regras: 14
+# ------------------------------------------------------------
+local-zone: "abrasco.com.br" always_refuse
+local-zone: "brflix.online" always_refuse
+local-zone: "centraldigital24h.com.br" always_refuse
+local-zone: "codigovipp.online" always_refuse
+local-zone: "codigovipp.shop" always_refuse
+local-zone: "cursoforum.com.br" always_refuse
+local-zone: "flashrecargaiunitv.shop" always_refuse
+local-zone: "htvsantaefigenia.com" always_refuse
+local-zone: "iunitvrenove5.shop" always_refuse
+local-zone: "redecanais.cymru" always_refuse
+local-zone: "valentinafilme.com.br" always_refuse
+local-zone: "youcine.casa" always_refuse
+local-zone: "youcine4k.net" always_refuse
+local-zone: "youcinex.net" always_refuse
