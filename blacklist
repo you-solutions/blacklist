@@ -82581,3 +82581,12 @@ local-zone: "t4hz.xyz" always_refuse
 local-zone: "t5hz.xyz" always_refuse
 local-zone: "tlksmdfvn.com" always_refuse
 local-zone: "vod07e001.fun" always_refuse
+
+# ------------------------------------------------------------
+# Oficio: Ofício nº 233/2026-Del
+# Gerado em: 14/10/2026
+# Regras: 3
+# ------------------------------------------------------------
+local-zone: "bflixc.us" always_refuse
+local-zone: "bludvfilmes1.xyz" always_refuse
+local-zone: "vizer.forum" always_refuse
