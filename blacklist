@@ -82619,3 +82619,24 @@ local-zone: "valentinafilme.com.br" always_refuse
 local-zone: "youcine.casa" always_refuse
 local-zone: "youcine4k.net" always_refuse
 local-zone: "youcinex.net" always_refuse
+
+# ------------------------------------------------------------
+# Oficio: Ofício nº 227/2026-Del
+# Gerado em: 14/10/2026
+# Regras: 15
+# ------------------------------------------------------------
+local-zone: "baixandofilmestorrent.net" always_refuse
+local-zone: "baixarfilmesseries.org" always_refuse
+local-zone: "cinehd.app" always_refuse
+local-zone: "cinehd.vc" always_refuse
+local-zone: "filme2019.net" always_refuse
+local-zone: "filmekstra.com" always_refuse
+local-zone: "futemax.builders" always_refuse
+local-zone: "gomoviestv.cfd" always_refuse
+local-zone: "hypeflixbox.com" always_refuse
+local-zone: "megafilmeshd.pw" always_refuse
+local-zone: "ofilme.org" always_refuse
+local-zone: "pobreflix.events" always_refuse
+local-zone: "pobreflixhd.homes" always_refuse
+local-zone: "pobreflixtv.casino" always_refuse
+local-zone: "pobreflixtvon.org" always_refuse
