@@ -82640,3 +82640,26 @@ local-zone: "pobreflix.events" always_refuse
 local-zone: "pobreflixhd.homes" always_refuse
 local-zone: "pobreflixtv.casino" always_refuse
 local-zone: "pobreflixtvon.org" always_refuse
+
+# ------------------------------------------------------------
+# Oficio: Ofício nº 226/2026-Del
+# Gerado em: 14/10/2026
+# Regras: 17
+# ------------------------------------------------------------
+local-zone: "btvbrasilcenter.com" always_refuse
+local-zone: "clubedasrecarga.app" always_refuse
+local-zone: "fivedigital.site" always_refuse
+local-zone: "loja-azrecarga.com" always_refuse
+local-zone: "recargasupf.com" always_refuse
+local-zone: "recargasups.com" always_refuse
+local-zone: "redecanais.party" always_refuse
+local-zone: "redecanaishd.monster" always_refuse
+local-zone: "redecanaishd.pw" always_refuse
+local-zone: "redecanaistv.in" always_refuse
+local-zone: "renovanext.shop" always_refuse
+local-zone: "unitvcards.shop" always_refuse
+local-zone: "unitvteste.online" always_refuse
+local-zone: "youcine-pt.com" always_refuse
+local-zone: "youcine-tv.site" always_refuse
+local-zone: "youcineedl.com.br" always_refuse
+local-zone: "youcinepro.net" always_refuse
