@@ -80253,3 +80253,29 @@ local-zone: "6b3linzost.gafahovajove.info" always_refuse
 local-zone: "mnmzquwbse.legafikisumebub.info" always_refuse
 local-zone: "egafikisumebub.info" always_refuse
 local-zone: "gafahovajove.info" always_refuse
+#
+#
+#https://yousolutions.monday.com/boards/8077486561/pulses/13237150954
+local-zone: "baixetorrents.net" always_refuse
+local-zone: "canaistoponline.digital" always_refuse
+local-zone: "canaistoponline.world" always_refuse
+local-zone: "canaistoptv.club" always_refuse
+local-zone: "canaistoptv.fun" always_refuse
+local-zone: "dezpila.bio" always_refuse
+local-zone: "filmestorrentclub.online" always_refuse
+local-zone: "lapumiatorrents.net" always_refuse
+local-zone: "megahdscreen.com" always_refuse
+local-zone: "multicanais.boutique" always_refuse
+local-zone: "multicanais.host" always_refuse
+local-zone: "multicanaishd.boutique" always_refuse
+local-zone: "netcinefm.lat" always_refuse
+local-zone: "netcinewy.lat" always_refuse
+local-zone: "pelisplushd1.ws" always_refuse
+local-zone: "seriesflixgo.com" always_refuse
+local-zone: "seriesflixhd.ws" always_refuse
+local-zone: "seriesflixon.com" always_refuse
+local-zone: "seriesflv.sbs" always_refuse
+local-zone: "superflix41.lol" always_refuse
+local-zone: "tvmulticanais.com" always_refuse
+local-zone: "www.baixandofilmestorrent.com" always_refuse
+local-zone: "xfilmes.cc" always_refuse
