@@ -86715,3 +86715,27 @@ local-zone: "redecanaisiptv.xyz" always_refuse
 local-zone: "redecanaistv.pk" always_refuse
 local-zone: "soap2day1.my" always_refuse
 local-zone: "youcinebaixarapk.com" always_refuse
+
+# ------------------------------------------------------------
+# Oficio: Ofício nº 238/2026-Del
+# Gerado em: 15/10/2026
+# Regras: 17
+# ------------------------------------------------------------
+local-zone: "futemax.business" always_refuse
+local-zone: "futemax.florist" always_refuse
+local-zone: "futemax.international" always_refuse
+local-zone: "futemax.love" always_refuse
+local-zone: "futemax.luxury" always_refuse
+local-zone: "futemax.pictures" always_refuse
+local-zone: "futemax.rentals" always_refuse
+local-zone: "futemax01.com" always_refuse
+local-zone: "futemax02.com" always_refuse
+local-zone: "futemaxbr.shop" always_refuse
+local-zone: "futemaxoficial.sbs" always_refuse
+local-zone: "pobreflix.bond" always_refuse
+local-zone: "pobreflix.buzz" always_refuse
+local-zone: "pobreflixtvon.net" always_refuse
+local-zone: "redetoons.cc" always_refuse
+local-zone: "redetoonstv.cc" always_refuse
+local-zone: "top-flix.video" always_refuse
+
