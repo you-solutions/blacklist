@@ -86670,3 +86670,24 @@ local-zone: "pobremuchacho.com" always_refuse
 local-zone: "pobretube.com" always_refuse
 local-zone: "thesugarfilm.com" always_refuse
 local-zone: "viatorrent.net" always_refuse
+
+# ------------------------------------------------------------
+# Oficio: Ofício nº 236/2026-Del
+# Gerado em: 15/10/2026
+# Regras: 15
+# ------------------------------------------------------------
+local-zone: "123movies21.me" always_refuse
+local-zone: "123movieshall.com" always_refuse
+local-zone: "123movieshd.hair" always_refuse
+local-zone: "123movieslink.com" always_refuse
+local-zone: "123moviesnp.com" always_refuse
+local-zone: "123moviesonl.me" always_refuse
+local-zone: "123movieunlimited.com" always_refuse
+local-zone: "bfflix.world" always_refuse
+local-zone: "ccuevana3.sbs" always_refuse
+local-zone: "cuevana22.com" always_refuse
+local-zone: "moviefilms.org" always_refuse
+local-zone: "moviesononline.org" always_refuse
+local-zone: "pomfy.online" always_refuse
+local-zone: "vizer.men" always_refuse
+local-zone: "vizer.win" always_refuse
