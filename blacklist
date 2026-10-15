@@ -86648,3 +86648,25 @@ local-zone: "unitvplay.com.br" always_refuse
 local-zone: "unitvrecarga.app.br" always_refuse
 local-zone: "youcineapkbaixar.pro" always_refuse
 local-zone: "youcineapkk.com" always_refuse
+
+# ------------------------------------------------------------
+# Oficio: Ofício nº 235/2026-Del
+# Gerado em: 15/10/2026
+# Regras: 16
+# ------------------------------------------------------------
+local-zone: "baixandofilmehd.top" always_refuse
+local-zone: "baixandoviatorrent.com" always_refuse
+local-zone: "baixefilmeseseries.org" always_refuse
+local-zone: "canaisaovivotop.digital" always_refuse
+local-zone: "canaisaovivotop.world" always_refuse
+local-zone: "filmehdsub.info" always_refuse
+local-zone: "futemax.flights" always_refuse
+local-zone: "futemax.forex" always_refuse
+local-zone: "megafilmeshd.men" always_refuse
+local-zone: "osmosefilmer.com" always_refuse
+local-zone: "pobreflix.solutions" always_refuse
+local-zone: "pobreflixtv.locker" always_refuse
+local-zone: "pobremuchacho.com" always_refuse
+local-zone: "pobretube.com" always_refuse
+local-zone: "thesugarfilm.com" always_refuse
+local-zone: "viatorrent.net" always_refuse
