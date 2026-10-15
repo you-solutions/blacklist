@@ -86494,3 +86494,60 @@ local-zone: "reidosembeds.online" always_refuse
 local-zone: "romcomfilms.com" always_refuse
 local-zone: "torrentfilmeshd.net" always_refuse
 local-zone: "vkfilmesonline.org" always_refuse
+
+# ------------------------------------------------------------
+# Oficio: Ofício nº 242/2026-Del
+# Gerado em: 15/10/2026
+# Regras: 51
+# ------------------------------------------------------------
+local-zone: "agiftcardbrr.shop" always_refuse
+local-zone: "broaz.store" always_refuse
+local-zone: "brothersdoaz.cc" always_refuse
+local-zone: "brplaytv.com" always_refuse
+local-zone: "carvalhoshop.website" always_refuse
+local-zone: "eletronicshop.website" always_refuse
+local-zone: "iunitvrenove10.shop" always_refuse
+local-zone: "iunitvrenove6.shop" always_refuse
+local-zone: "iunitvrenove8.shop" always_refuse
+local-zone: "iunitvrenove9.shop" always_refuse
+local-zone: "izzychic.com.br" always_refuse
+local-zone: "joyspace.website" always_refuse
+local-zone: "nitrorecargas.shop" always_refuse
+local-zone: "planosxplus.shop" always_refuse
+local-zone: "pontualrecargas.app" always_refuse
+local-zone: "qrrecargas.com" always_refuse
+local-zone: "recargaboxplayt.com" always_refuse
+local-zone: "recargascine.com" always_refuse
+local-zone: "recargayoucine.com.br" always_refuse
+local-zone: "satciaoficial.website" always_refuse
+local-zone: "seugiftcardbr.shop" always_refuse
+local-zone: "unitcards2.shop" always_refuse
+local-zone: "unitvappbrasil.pro" always_refuse
+local-zone: "unitvappsbrasil.pro" always_refuse
+local-zone: "unitvoficial.digital" always_refuse
+local-zone: "xplus-express.com" always_refuse
+local-zone: "xplusassinatura.shop" always_refuse
+local-zone: "xplusbox.shop" always_refuse
+local-zone: "xpluscards.shop" always_refuse
+local-zone: "xplusclub.shop" always_refuse
+local-zone: "xplusdigital.shop" always_refuse
+local-zone: "xplusexpress.run" always_refuse
+local-zone: "xplusfull.shop" always_refuse
+local-zone: "xpluslive.shop" always_refuse
+local-zone: "xplusnow.shop" always_refuse
+local-zone: "xplusoficial.shop" always_refuse
+local-zone: "xpluspix.shop" always_refuse
+local-zone: "xplusplanos.shop" always_refuse
+local-zone: "xpluspro.shop" always_refuse
+local-zone: "xplusstore.shop" always_refuse
+local-zone: "xplusstream.shop" always_refuse
+local-zone: "xplustv.shop" always_refuse
+local-zone: "xplusvod.shop" always_refuse
+local-zone: "xpoficial.shop" always_refuse
+local-zone: "youcine-apk.org" always_refuse
+local-zone: "youcine.baby" always_refuse
+local-zone: "youcine.site" always_refuse
+local-zone: "youcineapktv.com" always_refuse
+local-zone: "youcineonline.net" always_refuse
+local-zone: "youcines.pro" always_refuse
+local-zone: "yyoucine.com" always_refuse
