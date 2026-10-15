@@ -86633,3 +86633,18 @@ local-zone: "ccuevana3.bid" always_refuse
 local-zone: "cuevana-3i.pro" always_refuse
 local-zone: "movienation.vip" always_refuse
 local-zone: "ww5-fmovies.com" always_refuse
+
+# ------------------------------------------------------------
+# Oficio: Ofício nº 234/2026-Del
+# Gerado em: 15/10/2026
+# Regras: 9
+# ------------------------------------------------------------
+local-zone: "recargasunitvplay.shop" always_refuse
+local-zone: "redecanais.af" always_refuse
+local-zone: "redecanaishd.lifestyle" always_refuse
+local-zone: "redecanaistv.af" always_refuse
+local-zone: "unitvonline.shop" always_refuse
+local-zone: "unitvplay.com.br" always_refuse
+local-zone: "unitvrecarga.app.br" always_refuse
+local-zone: "youcineapkbaixar.pro" always_refuse
+local-zone: "youcineapkk.com" always_refuse
