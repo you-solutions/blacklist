@@ -86457,3 +86457,40 @@ local-zone: "thebestmovies.org" always_refuse
 local-zone: "trending-movies.com" always_refuse
 local-zone: "ultracine4.site" always_refuse
 local-zone: "vizer.digital" always_refuse
+
+# ------------------------------------------------------------
+# Oficio: Ofício nº 219/2026-Del
+# Gerado em: 15/10/2026
+# Regras: 31
+# ------------------------------------------------------------
+local-zone: "assistirfilmes3.site" always_refuse
+local-zone: "assistirseriesetv.com" always_refuse
+local-zone: "baixandofilmestorrent.com" always_refuse
+local-zone: "baixandofilmetorrent.com" always_refuse
+local-zone: "baixandofilmetorrents.com" always_refuse
+local-zone: "baixarfilmehd.top" always_refuse
+local-zone: "baixefilmesseries.top" always_refuse
+local-zone: "beste-filme.org" always_refuse
+local-zone: "cineveo.store" always_refuse
+local-zone: "futemax.deal" always_refuse
+local-zone: "futemax.exposed" always_refuse
+local-zone: "futemax.fast" always_refuse
+local-zone: "futemax101.shop" always_refuse
+local-zone: "limontorrents.site" always_refuse
+local-zone: "megafilmes.digital" always_refuse
+local-zone: "meneatela.org" always_refuse
+local-zone: "onlinefilmer.net" always_refuse
+local-zone: "pobreeflix.com" always_refuse
+local-zone: "pobreflix.archi" always_refuse
+local-zone: "pobreflixhd.website" always_refuse
+local-zone: "pobreflixseriesefilmes.com" always_refuse
+local-zone: "pobreflixtv.living" always_refuse
+local-zone: "pobreflixtv.motorcycles" always_refuse
+local-zone: "pobreflixtvon.com" always_refuse
+local-zone: "pobreflixvideo.com" always_refuse
+local-zone: "redetoons.baby" always_refuse
+local-zone: "redetoons.lol" always_refuse
+local-zone: "reidosembeds.online" always_refuse
+local-zone: "romcomfilms.com" always_refuse
+local-zone: "torrentfilmeshd.net" always_refuse
+local-zone: "vkfilmesonline.org" always_refuse
