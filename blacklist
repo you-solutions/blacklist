@@ -86401,3 +86401,14 @@ local-zone: "123movies9.art" always_refuse
 local-zone: "bflix-to.com" always_refuse
 local-zone: "blueapp.app" always_refuse
 local-zone: "hdonlinefilmes3.site" always_refuse
+
+# ------------------------------------------------------------
+# Oficio: Ofício nº 223/2026-Del
+# Gerado em: 15/10/2026
+# Regras: 6
+# ------------------------------------------------------------
+local-zone: "baixarfilmestorrent.tech" always_refuse
+local-zone: "filmesgo1.site" always_refuse
+local-zone: "futemax.archi" always_refuse
+local-zone: "futemax.career" always_refuse
+local-zone: "futemax101.com" always_refuse
