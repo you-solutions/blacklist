@@ -82663,3 +82663,9 @@ local-zone: "youcine-pt.com" always_refuse
 local-zone: "youcine-tv.site" always_refuse
 local-zone: "youcineedl.com.br" always_refuse
 local-zone: "youcinepro.net" always_refuse
+# ------------------------------------------------------------
+# Oficio: 0748893 98.2026.8.07.0001 1787597238011 315720 decisao
+# Gerado em: 15/10/2026
+# Regras: 1
+# ------------------------------------------------------------
+local-zone: "acessorios-anti-radar.com" always_refuse
