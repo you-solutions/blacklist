@@ -86691,3 +86691,27 @@ local-zone: "moviesononline.org" always_refuse
 local-zone: "pomfy.online" always_refuse
 local-zone: "vizer.men" always_refuse
 local-zone: "vizer.win" always_refuse
+
+# ------------------------------------------------------------
+# Oficio: Ofício nº 237/2026-Del
+# Gerado em: 15/10/2026
+# Regras: 18
+# ------------------------------------------------------------
+local-zone: "cursocomandoseletricos.com.br" always_refuse
+local-zone: "lojaboxplay.com" always_refuse
+local-zone: "mestredoaz.com" always_refuse
+local-zone: "redecanais.loan" always_refuse
+local-zone: "redecanais.men" always_refuse
+local-zone: "redecanais.org.im" always_refuse
+local-zone: "redecanais.pk" always_refuse
+local-zone: "redecanais.surf" always_refuse
+local-zone: "redecanais.tv.in" always_refuse
+local-zone: "redecanais.wiki" always_refuse
+local-zone: "redecanais20.lat" always_refuse
+local-zone: "redecanaisbr.shop" always_refuse
+local-zone: "redecanaisflix.xyz" always_refuse
+local-zone: "redecanaishd.world" always_refuse
+local-zone: "redecanaisiptv.xyz" always_refuse
+local-zone: "redecanaistv.pk" always_refuse
+local-zone: "soap2day1.my" always_refuse
+local-zone: "youcinebaixarapk.com" always_refuse
