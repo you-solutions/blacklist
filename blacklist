@@ -86412,3 +86412,16 @@ local-zone: "filmesgo1.site" always_refuse
 local-zone: "futemax.archi" always_refuse
 local-zone: "futemax.career" always_refuse
 local-zone: "futemax101.com" always_refuse
+
+
+# ------------------------------------------------------------
+# Oficio: Ofício nº 222/2026-Del
+# Gerado em: 15/10/2026
+# Regras: 5
+# ------------------------------------------------------------
+local-zone: "centraldasrecargas.com" always_refuse
+local-zone: "iunitvrenove4.shop" always_refuse
+local-zone: "recargaredeuni.store" always_refuse
+local-zone: "rstvrecarga.com" always_refuse
+local-zone: "unitvnetapk.com" always_refuse
+
