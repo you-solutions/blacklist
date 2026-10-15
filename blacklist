@@ -86589,3 +86589,26 @@ local-zone: "123movies-all.com" always_refuse
 local-zone: "123moviess.mov" always_refuse
 local-zone: "la123movies.cloud" always_refuse
 local-zone: "movieflex.org" always_refuse
+
+
+# ------------------------------------------------------------
+# Oficio: Ofício nº 245/2026-Del
+# Gerado em: 15/10/2026
+# Regras: 16
+# ------------------------------------------------------------
+local-zone: "1237898.com" always_refuse
+local-zone: "boxplaybrasil.com" always_refuse
+local-zone: "btvbrasil.com" always_refuse
+local-zone: "casasbrazil.com.br" always_refuse
+local-zone: "cineblog.com.br" always_refuse
+local-zone: "coditop.digital" always_refuse
+local-zone: "iunitvrenove11.shop" always_refuse
+local-zone: "ligaexpresss.shop" always_refuse
+local-zone: "midiafire.com.br" always_refuse
+local-zone: "recargasupg.com" always_refuse
+local-zone: "recargaunitvplay.site" always_refuse
+local-zone: "redecanais.tires" always_refuse
+local-zone: "tecmind.com.br" always_refuse
+local-zone: "xplus-recarga.com" always_refuse
+local-zone: "xplusassinatura.xyz" always_refuse
+local-zone: "youcine.vin" always_refuse
