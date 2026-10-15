@@ -86612,3 +86612,13 @@ local-zone: "tecmind.com.br" always_refuse
 local-zone: "xplus-recarga.com" always_refuse
 local-zone: "xplusassinatura.xyz" always_refuse
 local-zone: "youcine.vin" always_refuse
+
+# ------------------------------------------------------------
+# Oficio: Ofício nº 246/2026-Del
+# Gerado em: 15/10/2026
+# Regras: 4
+# ------------------------------------------------------------
+local-zone: "hypeflixon.org" always_refuse
+local-zone: "ineptfilms.com" always_refuse
+local-zone: "megafilmeshd.tires" always_refuse
+local-zone: "pobreflixtvon.app" always_refuse
