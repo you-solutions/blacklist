@@ -86390,3 +86390,14 @@ local-zone: "zum777.cc" always_refuse
 local-zone: "zum777.me" always_refuse
 local-zone: "zum777.org" always_refuse
 local-zone: "zzbrbet.com" always_refuse
+
+
+# ------------------------------------------------------------
+# Oficio: Ofício nº 224/2026-Del
+# Gerado em: 15/10/2026
+# Regras: 4
+# ------------------------------------------------------------
+local-zone: "123movies9.art" always_refuse
+local-zone: "bflix-to.com" always_refuse
+local-zone: "blueapp.app" always_refuse
+local-zone: "hdonlinefilmes3.site" always_refuse
