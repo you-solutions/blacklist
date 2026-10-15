@@ -86551,3 +86551,20 @@ local-zone: "youcineapktv.com" always_refuse
 local-zone: "youcineonline.net" always_refuse
 local-zone: "youcines.pro" always_refuse
 local-zone: "yyoucine.com" always_refuse
+
+# ------------------------------------------------------------
+# Oficio: Ofício nº 243/2026-Del
+# Gerado em: 15/10/2026
+# Regras: 11
+# ------------------------------------------------------------
+local-zone: "1flix.site" always_refuse
+local-zone: "baixandofilmehd.info" always_refuse
+local-zone: "baixandofilmehd.org" always_refuse
+local-zone: "e.com" always_refuse
+local-zone: "filmestorrentdublado.com" always_refuse
+local-zone: "pobreflix.tips" always_refuse
+local-zone: "pobreflixseriesefilmes.org" always_refuse
+local-zone: "pobreflixtv.tires" always_refuse
+local-zone: "sanjosemovietimes.com" always_refuse
+local-zone: "starck-oficial.com" always_refuse
+local-zone: "watchseriestv.co" always_refuse
