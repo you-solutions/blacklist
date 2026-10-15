@@ -86425,3 +86425,35 @@ local-zone: "recargaredeuni.store" always_refuse
 local-zone: "rstvrecarga.com" always_refuse
 local-zone: "unitvnetapk.com" always_refuse
 
+# ------------------------------------------------------------
+# Oficio: Ofício nº 221/2026-Del
+# Gerado em: 15/10/2026
+# Regras: 27
+# ------------------------------------------------------------
+local-zone: "123movies123.co" always_refuse
+local-zone: "123movies2018.com" always_refuse
+local-zone: "123movies4.xyz" always_refuse
+local-zone: "123movies9.run" always_refuse
+local-zone: "123moviesd.xyz" always_refuse
+local-zone: "123movieshdtv.co" always_refuse
+local-zone: "123moviess.cloud" always_refuse
+local-zone: "9123movies.com" always_refuse
+local-zone: "cuevana-3.uk" always_refuse
+local-zone: "cuevana3i.lat" always_refuse
+local-zone: "fmovie-cc.website" always_refuse
+local-zone: "fmovies.baby" always_refuse
+local-zone: "fmovies.forum" always_refuse
+local-zone: "himovies.at" always_refuse
+local-zone: "iomovies.org" always_refuse
+local-zone: "lojadasrecargas.com" always_refuse
+local-zone: "movie-trailer.biz" always_refuse
+local-zone: "moviesflixzone.com" always_refuse
+local-zone: "moviesfullonline.net" always_refuse
+local-zone: "new123movies.sbs" always_refuse
+local-zone: "overflix.party" always_refuse
+local-zone: "pelisplushd1.lol" always_refuse
+local-zone: "seemovie.org" always_refuse
+local-zone: "thebestmovies.org" always_refuse
+local-zone: "trending-movies.com" always_refuse
+local-zone: "ultracine4.site" always_refuse
+local-zone: "vizer.digital" always_refuse
