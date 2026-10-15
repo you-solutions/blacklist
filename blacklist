@@ -86568,3 +86568,24 @@ local-zone: "pobreflixtv.tires" always_refuse
 local-zone: "sanjosemovietimes.com" always_refuse
 local-zone: "starck-oficial.com" always_refuse
 local-zone: "watchseriestv.co" always_refuse
+
+#Ofício nº 244/2026-Del
+#Gerado em: 15/10/2026
+local-zone: "bflixs.cx" always_refuse
+local-zone: "embedcanais.fun" always_refuse
+local-zone: "fmoviehd.org" always_refuse
+local-zone: "filmes24h1.site" always_refuse
+local-zone: "hdonlinefilmes4.site" always_refuse
+local-zone: "moviesnation.coupons" always_refuse
+local-zone: "noveflix.click" always_refuse
+local-zone: "overflix.tires" always_refuse
+local-zone: "peliflix.online" always_refuse
+local-zone: "pelisplushd1.homes" always_refuse
+local-zone: "pelisplushd10.lol" always_refuse
+local-zone: "vizer.tires" always_refuse
+local-zone: "01234movies.email" always_refuse
+local-zone: "1234moviesgo.com" always_refuse
+local-zone: "123movies-all.com" always_refuse
+local-zone: "123moviess.mov" always_refuse
+local-zone: "la123movies.cloud" always_refuse
+local-zone: "movieflex.org" always_refuse
