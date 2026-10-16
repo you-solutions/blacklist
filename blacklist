@@ -86702,3 +86702,22 @@ local-zone: "fullhdfilmcanavari.org" always_refuse
 local-zone: "is123movies.live" always_refuse
 local-zone: "nowmoviesonline.com" always_refuse
 local-zone: "overflix.men" always_refuse
+# ------------------------------------------------------------
+# Oficio: Ofício nº 16943429 – CyberGaeco
+# Gerado em: 16/10/2026
+# Regras: 14
+# ------------------------------------------------------------
+local-zone: "abta.org.br" always_refuse
+local-zone: "canaisonline.top" always_refuse
+local-zone: "canaisonlinetop.digital" always_refuse
+local-zone: "canaisonlinetop.xyz" always_refuse
+local-zone: "canaistoponline.shop" always_refuse
+local-zone: "dezpila.mobi" always_refuse
+local-zone: "filmeseriestorrent.net" always_refuse
+local-zone: "filmesseriestorrent.site" always_refuse
+local-zone: "mestredosfilmes.top" always_refuse
+local-zone: "multicanaishd.enterprises" always_refuse
+local-zone: "multicanaishd.golf" always_refuse
+local-zone: "seriesflixhub.com" always_refuse
+local-zone: "superflix42.lol" always_refuse
+local-zone: "themegaflix.com.br" always_refuse
