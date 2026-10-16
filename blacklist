@@ -86721,3 +86721,10 @@ local-zone: "multicanaishd.golf" always_refuse
 local-zone: "seriesflixhub.com" always_refuse
 local-zone: "superflix42.lol" always_refuse
 local-zone: "themegaflix.com.br" always_refuse
+# ------------------------------------------------------------
+# Oficio: Oficio 100
+# Gerado em: 03/08/2026
+# Regras: 1
+# Mantido na consolidação por confirmação do Cleicião em 16/10/2026
+# ------------------------------------------------------------
+local-zone: "liduzig.online" always_refuse
