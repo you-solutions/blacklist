@@ -86728,3 +86728,6 @@ local-zone: "themegaflix.com.br" always_refuse
 # Mantido na consolidação por confirmação do Cleicião em 16/10/2026
 # ------------------------------------------------------------
 local-zone: "liduzig.online" always_refuse
+
+# Oficio: Ofício nº 837/2026/FIGF6/FIGF/SFI-ANATEL
+local-zone: "autlander.csv" always_refuse
