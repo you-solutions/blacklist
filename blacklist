@@ -88289,3 +88289,18 @@ local-zone: "yy77.win" always_refuse
 local-zone: "yyvip.com" always_refuse
 local-zone: "yyvip.tv" always_refuse
 local-zone: "zzzz999.bet" always_refuse
+
+# Oficio: 2026 09 01 Planilha dom├¡nios Of├¡cio 17009910
+local-zone: "10filme.com" always_refuse
+local-zone: "achtfuchsfilm.com" always_refuse
+local-zone: "canaistvtop.shop" always_refuse
+local-zone: "dezpila.love" always_refuse
+local-zone: "dezpilaoficial.digital" always_refuse
+local-zone: "dezpilasofc.com.br" always_refuse
+local-zone: "primeflix.lat" always_refuse
+local-zone: "seriesflixnow.com" always_refuse
+local-zone: "superflix45.lol" always_refuse
+# Oficio: 2026 09 01 Planilha dom├¡nios Of├¡cio 17009598
+local-zone: "multicanaishd.discount" always_refuse
+local-zone: "netcineva.lat" always_refuse
+local-zone: "superfilmeshd3.site" always_refuse
