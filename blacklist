@@ -91101,3 +91101,9 @@ local-zone: "xtramed2026.com" always_refuse
 local-zone: "xtreamtv.watch" always_refuse
 local-zone: "yayooo.click" always_refuse
 local-zone: "zerofreeze.top" always_refuse
+
+# Oficio: Ofício nº 781/2026/FIGF6/FIGF/SFI-ANATEL
+# Gerado em: 20/10/2026
+# Regras: 2
+local-zone: "winux.is" always_refuse
+local-zone: "winuxos.com" always_refuse
