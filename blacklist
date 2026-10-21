@@ -96287,3 +96287,11 @@ local-zone: "zetabr.fun" always_refuse
 local-zone: "ziggo.pro" always_refuse
 local-zone: "ztv01.org" always_refuse
 local-zone: "zuluzulu.site" always_refuse
+
+# Oficio: Listagem de dom├¡nios  SEI 37150325
+local-zone: "22bet.net" always_refuse
+local-zone: "bet-legal.org" always_refuse
+local-zone: "jonbet.top" always_refuse
+local-zone: "oleybet.cc" always_refuse
+local-zone: "riodepremiosoficial.site" always_refuse
+local-zone: "sevenbets.bet" always_refuse
