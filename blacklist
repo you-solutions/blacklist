@@ -581,7 +581,7 @@ local-zone: "mx777e.com" always_refuse
 local-zone: "no777.com" always_refuse
 local-zone: "d2uxvjzvnmk2jo.cloudfront.net" always_refuse
 local-zone: "np777.com" always_refuse
-local-zone: "np700.com:2087" always_refuse
+local-zone: "np700.com" always_refuse
 local-zone: "np889.com" always_refuse
 local-zone: "np788.com" always_refuse
 local-zone: "np7799.com" always_refuse
@@ -22533,7 +22533,6 @@ local-zone: "m8.ptbrasil.shop" always_refuse
 local-zone: "m4.ptbrasil.shop" always_refuse
 local-zone: "m2.ptbrasil.shop" always_refuse
 local-zone: "efvfmo5m94.vecujajobowopo.info" always_refuse
-local-zone: "31/12/2026" always_refuse
 local-zone: "c1nfp5wrwz.lusirolababope.info" always_refuse
 local-zone: "cdn.kanawat8k.com" always_refuse
 local-zone: "iemjgb.qkcomjibf.com" always_refuse
@@ -23347,7 +23346,6 @@ local-zone: "iz.sulbr.online" always_refuse
 local-zone: "latinotvplus.online" always_refuse
 local-zone: "mainultimate.online" always_refuse
 local-zone: "mainvo01aad0820.abcnew.site" always_refuse
-local-zone: "18:00" always_refuse
 local-zone: "nord-client.com" always_refuse
 local-zone: "pro123.ddns.me" always_refuse
 local-zone: "veloz.tvbrlive.com" always_refuse
@@ -28878,7 +28876,6 @@ local-zone: "servidor.tv" always_refuse
 local-zone: "set10.co" always_refuse
 local-zone: "seuip.tv" always_refuse
 local-zone: "seusplanos.com" always_refuse
-local-zone: "seven" always_refuse
 local-zone: "sflixhd.to" always_refuse
 local-zone: "sharksz.top" always_refuse
 local-zone: "shorttx08.com" always_refuse
@@ -29140,7 +29137,6 @@ local-zone: "tvpro.store" always_refuse
 local-zone: "tvprodigital.net" always_refuse
 local-zone: "tvrecargaja.store" always_refuse
 local-zone: "tvredplay.com" always_refuse
-local-zone: "tvs" always_refuse
 local-zone: "tvs2.co" always_refuse
 local-zone: "tvsbr.red" always_refuse
 local-zone: "tvsuper.net" always_refuse
@@ -57531,7 +57527,6 @@ local-zone: "betdasorte.bet.br" always_refuse
 #MANDADO DE SEGURANÇA No 32503
 
 #Ofício n.o 158-E/2026-ANCINE/SRG
-local-zone: "static-logo2.zx3xa.info " always_refuse
 local-zone: "zx3xa.info" always_refuse
 local-zone: "rfzih3pq.ccy367al.com" always_refuse
 local-zone: "kgk2qlif.xeu39c9w.com" always_refuse
@@ -80243,7 +80238,7 @@ local-zone: "yhm-sr.click" always_refuse
 local-zone: "zhylero.cfd" always_refuse
 
 #Ofício n.º 117-E/2026-ANCINE/SRG
-local-zone: "yhlelo.cgqnimmj.com " always_refuse
+local-zone: "yhlelo.cgqnimmj.com" always_refuse
 local-zone: "e4v8z3q6x9.sihubokereboj.info" always_refuse
 local-zone: "efvfmo5m94.gucumekedefirami.info" always_refuse
 local-zone: "sihubokereboj.info" always_refuse
