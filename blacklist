@@ -103361,3 +103361,29 @@ local-zone: "zzz3c.vip" always_refuse
 local-zone: "zzzz000.com" always_refuse
 local-zone: "zzzz3.app" always_refuse
 local-zone: "zzzz7777.com" always_refuse
+
+# Oficio: Ofícios nº 286
+# Gerado em: 29/10/2026
+local-zone: "123-movies-free.net" always_refuse
+local-zone: "123movies.rodeo" always_refuse
+local-zone: "123moviesbiz.com" always_refuse
+local-zone: "123moviessc.org" always_refuse
+local-zone: "123moviesseries.com" always_refuse
+local-zone: "123moviesz.com.cv" always_refuse
+local-zone: "cuevana1.cyou" always_refuse
+local-zone: "cuevana1.mom" always_refuse
+local-zone: "cuevana3.tokyo" always_refuse
+local-zone: "cuevana3play.pro" always_refuse
+local-zone: "cuevanaespanol2.com" always_refuse
+local-zone: "himovies.me.uk" always_refuse
+local-zone: "pelisplus.garden" always_refuse
+local-zone: "vizer.biz" always_refuse
+local-zone: "ww6-fmovies.com" always_refuse
+local-zone: "wwwcuevana2.com" always_refuse
+# Oficio: Ofício nº 287/2026-Del
+# Gerado em: 29/10/2026
+local-zone: "megafilmehdseries.xyz" always_refuse
+local-zone: "megafilmes.pics" always_refuse
+# Oficio: Ofício nº 1001/2026/FIGF6/FIGF/SFI-ANATEL
+# Gerado em: 29/10/2026
+local-zone: "vcrim15.capital" always_refuse
