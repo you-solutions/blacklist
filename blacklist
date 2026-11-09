@@ -42201,7 +42201,8 @@ local-zone: "cuevanahd.cam" always_refuse
 local-zone: "cuevanahd.works" always_refuse
 local-zone: "cuevanai.online" always_refuse
 local-zone: "cuevanao.org" always_refuse
-local-zone: "eppicinema.com.br" always_refuse
+#Ofício nº 153/2026-Del. Desbloqueio de domínio.
+#local-zone: "eppicinema.com.br" always_refuse
 local-zone: "eppicinemaappbrasil.com" always_refuse
 local-zone: "eppicinemaoficialbr.com" always_refuse
 local-zone: "evo.mszfg.com" always_refuse
