@@ -112278,3 +112278,12 @@ local-zone: "zu377vvu4.com" always_refuse
 local-zone: "zu37yf84ur.com" always_refuse
 local-zone: "zy2757g4j.com" always_refuse
 local-zone: "zy37864ul.com" always_refuse
+
+# Oficio: Ofício nº 17161746 – CyberGaeco
+local-zone: "netcine.asia" always_refuse
+local-zone: "netcinebc.lat" always_refuse
+local-zone: "xilftentv.lat" always_refuse
+# Oficio: Ofício nº 17186937 – CyberGaeco
+local-zone: "canaistopplay.shop" always_refuse
+local-zone: "canaistops1.digital" always_refuse
+local-zone: "canaistops1.top" always_refuse
