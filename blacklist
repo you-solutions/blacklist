@@ -123251,3 +123251,7 @@ local-zone: "yesmax.xyz" always_refuse
 local-zone: "youcinemax.com" always_refuse
 local-zone: "zero10.pro" always_refuse
 local-zone: "zyltra.world" always_refuse
+
+# Oficio: Ofício SEI nº 58677/2026/MF. SMF. SPA. Ministério da Fazenda. Ordem Administrativa de Desbloqueio de domínio (sítio eletrônico).
+local-zone: "hub.xyz" always_refuse
+local-zone: "smf.spa" always_refuse
