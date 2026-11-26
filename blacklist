@@ -123364,3 +123364,8 @@ local-zone: "w1-salamipg.com" always_refuse
 local-zone: "we-plasticpg.com" always_refuse
 local-zone: "win636h.vip" always_refuse
 local-zone: "xt7.app" always_refuse
+
+# Oficio: Ofício nº 1113/2026/FIGF6/FIGF/SFI-ANATEL
+local-zone: "bmti.co" always_refuse
+local-zone: "fg.com" always_refuse
+local-zone: "ixz.com" always_refuse
