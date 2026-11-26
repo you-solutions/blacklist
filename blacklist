@@ -107646,3 +107646,38 @@ local-zone: "zeed-777.net" always_refuse
 local-zone: "zenbet222.com" always_refuse
 local-zone: "zilong888.net" always_refuse
 local-zone: "zn777.net" always_refuse
+
+# Oficio: nº 290 e nº 291/2026-Del. Ciberlab/TJPE. Bloqueio dinâmico - operação 404. Cumprimento de decisão judicial.
+# Gerado em: 26/11/2026
+local-zone: "0123movies.web.id" always_refuse
+local-zone: "123movies.cafe" always_refuse
+local-zone: "123movies.giving" always_refuse
+local-zone: "123movies32.online" always_refuse
+local-zone: "boxpanel.app" always_refuse
+local-zone: "cuevana-8.plus" always_refuse
+local-zone: "cuevana1.homes" always_refuse
+local-zone: "cuevana2.im" always_refuse
+local-zone: "cuevana3es.com" always_refuse
+local-zone: "cuevana69.com" always_refuse
+local-zone: "cuevanahd3.pro" always_refuse
+local-zone: "fmovies-app.site" always_refuse
+local-zone: "fmoviess.digital" always_refuse
+local-zone: "hanatvapp.com" always_refuse
+local-zone: "pelisplus.courses" always_refuse
+local-zone: "pelisplus.study" always_refuse
+local-zone: "pelisplus2.net" always_refuse
+local-zone: "repelisplus.re" always_refuse
+local-zone: "vercuevana3.mom" always_refuse
+local-zone: "vizer.autos" always_refuse
+local-zone: "vizer.uno" always_refuse
+local-zone: "vizerz2.site" always_refuse
+# Oficio: Ofício nº 290/2026-Del
+# Gerado em: 26/11/2026
+local-zone: "gomoviestv.my" always_refuse
+local-zone: "megafilmeseserieshd.click" always_refuse
+# Oficio: Ofício nº 289/2026-Del
+# Gerado em: 26/11/2026
+local-zone: "megacanais.online" always_refuse
+local-zone: "megacanais.org" always_refuse
+local-zone: "megacine.asia" always_refuse
+local-zone: "megacinema3.site" always_refuse
