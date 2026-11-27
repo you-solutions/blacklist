@@ -128634,3 +128634,59 @@ local-zone: "y6b9w1.com" always_refuse
 
 # Oficio: Ofício nº 1151/2026/FIGF6/FIGF/SFI-ANATEL
 local-zone: "sanctioned-suicide.net" always_refuse
+
+# Oficio: Listagem de Dom├¡nios - 4272
+# Regras: 7
+local-zone: "1wzogj.life" always_refuse
+local-zone: "787-rab.com" always_refuse
+local-zone: "alegriapgcl.com" always_refuse
+local-zone: "bingoem.casa" always_refuse
+local-zone: "bingoemcasa13.com" always_refuse
+local-zone: "chanel-6x.com" always_refuse
+local-zone: "escova-777.com" always_refuse
+# Oficio: Listagem de Dom├¡nios - 4279
+# Regras: 33
+local-zone: "11rioi.vip" always_refuse
+local-zone: "11rioj.vip" always_refuse
+local-zone: "11rior.vip" always_refuse
+local-zone: "1wdklg.life" always_refuse
+local-zone: "4x-yy.com" always_refuse
+local-zone: "688-v8.com" always_refuse
+local-zone: "743win.me" always_refuse
+local-zone: "808sorte.vip" always_refuse
+local-zone: "8787bet6.com" always_refuse
+local-zone: "allwinbet.bet" always_refuse
+local-zone: "aposteagora.co" always_refuse
+local-zone: "betaya-br.xyz" always_refuse
+local-zone: "betaya.vip" always_refuse
+local-zone: "betdagalera.com" always_refuse
+local-zone: "coroa-27kkpg.com" always_refuse
+local-zone: "edg-aloe.com" always_refuse
+local-zone: "fa-flutuar.com" always_refuse
+local-zone: "frogslot.com" always_refuse
+local-zone: "graoopg.vip" always_refuse
+local-zone: "hms-toucanpg.com" always_refuse
+local-zone: "lkpb.cc" always_refuse
+local-zone: "luck371.com" always_refuse
+local-zone: "maschmellow777.com" always_refuse
+local-zone: "p80games.xyz" always_refuse
+local-zone: "porcokk22.com" always_refuse
+local-zone: "r1wlulu.life" always_refuse
+local-zone: "sharkpgcl.com" always_refuse
+local-zone: "suzuki-777.com" always_refuse
+local-zone: "topzinho.com" always_refuse
+local-zone: "w1-luqxq9.com" always_refuse
+local-zone: "w1-zonax88.com" always_refuse
+local-zone: "wa-mouse.bet" always_refuse
+local-zone: "yamaha-777.com" always_refuse
+# Oficio: Listagem de Dom├¡nios - 4052
+local-zone: "betboa.net.br" always_refuse
+local-zone: "cbf2a.com" always_refuse
+local-zone: "hub.la" always_refuse
+local-zone: "nallu.bet" always_refuse
+local-zone: "okoktt10.com" always_refuse
+local-zone: "p7bet6.xyz" always_refuse
+local-zone: "pixdasorte.vip" always_refuse
+local-zone: "r7-sunset.com" always_refuse
+local-zone: "statshub.com.br" always_refuse
+local-zone: "w1-hockeypgg.com" always_refuse
