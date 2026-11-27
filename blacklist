@@ -127082,3 +127082,37 @@ local-zone: "zzz3c.cc" always_refuse
 local-zone: "zzz3d.cc" always_refuse
 local-zone: "zzz3e.cc" always_refuse
 local-zone: "zzzzww.com" always_refuse
+
+# Oficio: Ofício nº 295/2026-Del
+# Gerado em: 27/11/2026
+# Regras: 26
+local-zone: "123moviefree.club" always_refuse
+local-zone: "123movies-4u.com" always_refuse
+local-zone: "123movies9.makeup" always_refuse
+local-zone: "123movies9.monster" always_refuse
+local-zone: "123moviesflex.com" always_refuse
+local-zone: "123moviesfree.ink" always_refuse
+local-zone: "123movieshd.buzz" always_refuse
+local-zone: "123moviess.vu" always_refuse
+local-zone: "bludvplay2.xyz" always_refuse
+local-zone: "ccuevana3.wtf" always_refuse
+local-zone: "cuevana2023.com" always_refuse
+local-zone: "cuevana3a.pro" always_refuse
+local-zone: "cuevana4.space" always_refuse
+local-zone: "cuevanae.ink" always_refuse
+local-zone: "cuevanae.net" always_refuse
+local-zone: "gcuevana8.com" always_refuse
+local-zone: "himoviessx.co" always_refuse
+local-zone: "pelisplus.si" always_refuse
+local-zone: "pelisplusflix.lat" always_refuse
+local-zone: "repelisplus.live" always_refuse
+local-zone: "tvexpressdownload.com" always_refuse
+local-zone: "tvexpresssapk.com" always_refuse
+local-zone: "vizer.best" always_refuse
+local-zone: "vizer.fan" always_refuse
+local-zone: "vizer.host" always_refuse
+local-zone: "wcuevana.pro" always_refuse
+# Oficio: Ofício nº 294/2026-Del
+# Gerado em: 27/11/2026
+local-zone: "megafilmeshd.help" always_refuse
+local-zone: "megafilmeshd.host" always_refuse
