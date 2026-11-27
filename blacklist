@@ -128631,3 +128631,6 @@ local-zone: "t1m2s7.com" always_refuse
 local-zone: "ukgw9qw.com" always_refuse
 local-zone: "x5r1c5w.com" always_refuse
 local-zone: "y6b9w1.com" always_refuse
+
+# Oficio: Ofício nº 1151/2026/FIGF6/FIGF/SFI-ANATEL
+local-zone: "sanctioned-suicide.net" always_refuse
